@@ -16,7 +16,7 @@
 	    <div class="row">
 	      <div class="col-md-3">
 	        <p class="post-date">
-	          <a class="text-muted" href="/{{ article.url }}" title="{{ article.date.isoformat() }}">{{ article.locale_date }}</a>
+	          <a class="text-muted" href="{{ SITEURL }}/{{ article.url }}" title="{{ article.date.isoformat() }}">{{ article.locale_date }}</a>
 	        </p>
 	        <p class="post-category">
 	          <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
@@ -30,15 +30,15 @@
 	      
 	      <div class="{% if article.photo_image %}col-md-6{% else %}col-md-9{% endif %}">
 	        <h2 class="post-title">
-	          <a href="/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+	          <a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
 	        </h2>
 	        <div class="post-content">
-	          <span class="dropcap">{{article.dropcap}}</span>{{ article.content|striptags|truncate(256) }} <a href="/{{ article.url }}">(more)</a>
+	          <span class="dropcap">{{article.dropcap}}</span>{{ article.content|striptags|truncate(256) }} <a href="{{ SITEURL }}/{{ article.url }}">(more)</a>
 	        </div>
 	      </div>
 	      {% if article.photo_image %}
 	      <div class="col-md-3 article-image">
-	      	<a href="/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.photo_image[1] }}" /></a>
+	      	<a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.photo_image[1] }}" /></a>
 	      </div>
 	      {% endif %}
 	    </div>
