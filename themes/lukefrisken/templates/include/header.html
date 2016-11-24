@@ -1,0 +1,17 @@
+<header class="header">
+  <div class="container">
+  	<a href="{{ SITEURL }}/"><h1>Luke Frisken</h1></a>
+  	<br>
+  	Categories:
+  	<br>
+  	{% for cat, articles in categories %}
+		<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+	{% endfor %}
+	<br>
+	Pages:
+	<br>
+	{% for p in PAGES %}
+	    <li><a class="nodec" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+	  {% endfor %}
+  </div>
+</header>

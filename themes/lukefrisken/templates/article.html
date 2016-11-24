@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  {% if article.author %}
+    <meta name="author" content="{{ article.author }}">
+  {% endif %}
+  {% if article.summary %}
+    <meta name="description" content="{{ article.summary|striptags }}">
+  {% endif %}
+  <meta name="tags" contents="{% for tag in article.tags %}{{ tag }}, {% endfor %}">
+
+  {% if article.photo_image %}
+  <style>
+  .header {
+    /*overflow: hidden;*/
+    background-color: transparent;
+    position: relative;
+  }
+  .header:before {
+    content: "";
+    background-image: url("{{ article.photo_image[1] }}");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;  
+  }
+  </style>
+  {% endif %}
+{% endblock %}
+
+{% block windowtitle %}
+  {{ SITENAME }} &mdash; {{ article.title|striptags }}
+{% endblock %}
+
+{% block content %}
+  <div class="post-content-text pull-left">
+  	<h1 class="post-title">
+        <a href="/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+      </h1>
+    <div class="post-content">
+    <span class="dropcap">{{article.dropcap}}</span>
+  	{{  article.content }}
+    </div>
+  </div>
+{% endblock %}
+
+{% block bottom_content %}
+
+{% if article.photo_gallery %}
+
+<section class="photo-section">
+<div class="container">
+  <div class="container">
+  <h1>Photos:</h1>
+  <div class="gallery my-gallery itemscope itemtype="http://schema.org/ImageGallery"">
+          {% for title, gallery in article.photo_gallery %}
+                  {% for name, photo, thumb, exif, caption, width, height in gallery %}
+                    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                      <a href="{{ SITEURL }}/{{ photo }}" itemprop="contentUrl" data-size="{{ width }}x{{ height }}">
+                          <img src="{{ SITEURL }}/{{ thumb }}" itemprop="thumbnail" alt="{{ caption }}" />
+                      </a>
+                      <figcaption itemprop="caption description"><p>{{ caption }}</p><p class="exif-data">{{name}} {{ exif }}</p></figcaption>
+                                                          
+                    </figure>
+                          <!-- <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a> -->
+                  {% endfor %}
+          {% endfor %}
+  </div>
+
+
+  {% include "include/photoswipe.html" %}
+  </div>
+  <div class="container">
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode"><div class="col-md-2"><br><br>Photo License:</div><div><img class="col-md-2" src="{{ SITEURL }}/images/badges/by-nc.svg"></div></a>
+  </div>
+</div>
+</section>
+
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script src="{{ SITEURL }}/theme/js/photoswipe-from-dom.js"></script>
+
+  <script type="text/javascript">
+    var dropcaps = document.querySelectorAll(".dropcap");
+    window.Dropcap.layout(dropcaps, 3); 
+  </script>
+{% endblock %}

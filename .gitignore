@@ -1,0 +1,6 @@
+__pycache__
+output
+content/photos
+*.sublime-workspace
+*.sublime-project
+*.pid

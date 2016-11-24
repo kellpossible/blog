@@ -1,0 +1,121 @@
+.my-gallery {
+  width: 100%;
+  float: left;
+}
+/* Styles for Figures & Images */
+
+img {
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    padding: 4px;
+    float: left;
+    margin: 1em 1em 1em 0;
+    box-shadow: 4px 4px 4px 0px rgba(128, 128, 128, 0.5);
+}
+img.align-right {
+    float: right;
+    margin: 1em 0 1em 1em;
+}
+
+.figure {
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    padding: 4px;
+    float: left;
+    margin: 0 1em 1em 0;
+    display: inline-block;
+}
+.figure.align-right {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+.figure.align-left {
+    float: left;
+}
+.figure img {
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+    vertical-align: top;
+    float: left;
+}
+.figure p.caption {
+    margin: 0;
+    font-size: 80%;
+    padding: 4px;
+    float: left;
+    text-align: left;
+}
+.figure div.legend {
+    padding: 4px;
+    font-size: 80%;
+    color: #aaa;
+    font-style: italic;
+
+    float: left;
+}
+
+div.figure, div.figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.my-gallery img {
+  width: 100%;
+  height: auto;
+}
+.my-gallery figure {
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  width: 150px;
+}
+.my-gallery figcaption {
+  display: none;
+}
+
+.pswp__zoom-wrap img {
+	box-shadow: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.article-image img {
+  width: 100%;
+  box-shadow: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-content-text {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo-section {
+  margin-top: 30px;
+  background-color: rgb(242, 242, 242);
+}
+
+.footer {
+  background-color: #333;
+  color: #ccc;
+}
+
+.footer a {
+  color: #0275d8;
+}
+
+p.exif-data {
+  color: #555;
+  font-size: 10px;
+}
+
+a.reference.external {
+  color: #428bca;
+}
