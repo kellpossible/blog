@@ -1,10 +1,10 @@
-2015 MUMC Mountaineering Camp
+MUMC and Mountaineering
 =============================
 
 :date: 2015-3-02 10:00
 :author: Luke Frisken
-:gallery: {photo}MUMCMountaineeringCamp2015
-:image: {photo}MUMCMountaineeringCamp2015/20150101_051457.jpg
+:gallery: {photo}MUMCMountaineering
+:image: {photo}MUMCMountaineering/20150101_051457.jpg
 :dropcap: A
 :status: draft
 
@@ -32,32 +32,53 @@ The next few months I threw myself wholeheartedly into getting the experience ne
 
 I will never forget the first lesson of lead belaying out at Werribie Gorge, catching a fall which I knew was eventually coming, but did not immediately expect was a large confidence booster (perhaps too large).
 
-Over many trips the topics of anchor building, seconding, prusiking, etc etc were all covered by the leaders I climbed with, who were aware that I wanted to learn. This mentorship process was increadibly valuable. There was a more formal process in the club for learning to lead, but the process would have only put me in a position to lead climb towards the end of the year. I was much too keen for this, and it would have not left me much time to climb independently before the mountaineering course.
+Over many trips the topics of anchor building, seconding, prusiking, etc etc were all covered by the leaders I climbed with, who were aware that I wanted to learn. This mentorship process was incredibly valuable. There was a more formal process in the club for learning to lead, but the process would have only put me in a position to lead climb towards the end of the year. I was much too keen for this, and it would have not left me much time to climb independently before the mountaineering course.
 
 Dale (Stu's partner) and Gaetan (the current club mountaineering officer) were organising a mountaineering camp. I had just enough leave planned that it would be possible to back to back the mountaineering course, and the camp. I was very excited for the entire year for both the trips. The first was to introduce the skills, and the second was to reinforce them through independent decision making. And of all people, I was to be climbing mostly with Richard, the first person I met at MUMC.
 
-On the way home from the Banff film festival I spotted someone who I recognised as a friend of a friend. An older fellow, who, back in the day, I was told a year or so earlier, had been a mountaineer in South America, but had stopped after some of his partners died in a climbing accident. I approached him, and was curious to see what his views might be if I told him I had joined MUMC to go mountaineering. What he said, I cannot remember exactly, but it shook my confidence, and began to make me question my motivations. Stu, right in our first conversation had said that people die mountaineering, and you have to be willing to accept that possibility if you want to do that. I don't think one can ever understand precisely what this means. I thought I understood it, but I since realise that I don't.
+On the way home from the Banff film festival I spotted someone who I recognised as a friend of a friend. An older fellow, who, back in the day, I was told a year or so earlier, had been a mountaineer in South America, but had stopped after some of his partners died in a climbing accident. I approached him, and was curious to see what his views might be if I told him I had joined MUMC to go mountaineering. What he said, I cannot remember exactly, but it shook my confidence, and began to make me question my motivations. Stu, right in our first conversation had said that people die mountaineering, and you have to be willing to accept that possibility if you want to do that. I don't think one can ever understand precisely what this means. I thought I understood it, but I since realise that I didn't.
 
-I did my first lead climb and took my first lead fall on Stu's annual *"Onsight or Flight"* trip out at Mt Arapiles. Normally reserved for experienced climbers as an opportunity to push and improve climbing trad at your limit, Stu and Richard were happy to personally accomodate me. Straight into the thick of it, a fantastic opportunity, and I hope that this trip can continue to be run in the future.
+My first lead climb and my first lead fall occured on Stu's annual *"Onsight or Flight"* trip out at Mt Arapiles. Normally reserved for experienced climbers as an opportunity to push and improve climbing trad at your limit, Stu was happy to personally accomodate myself and Liv who was also fairly new to lead climbing. Straight into the thick of it, a fantastic opportunity, and I hope that this trip can continue to be run in the future. I made a couple of short films about this trip which are up on vimeo at `Onsight or Flight 2014`_ and `Onsight or Flight 2015`_.
+
+The first multipitch climb that I lead was out at the Cathedral Ranges. I went with a friend who had never climbed before. In retrospect, this was a mistake, because although I was fairly confident about my own ability to do the climb safely and to teach him to belay, my partner would not have had the skills to deal with a scenario should I fall and be injured. We had a great time, but lesson learned.
+
 
 Mountaineering Course
 ----------------------
 
 The morning I arrived in New Zealand, I took a connecting flight out to Queenstown. I had planned to do a single day of a paragliding course, just to see what it was like. Mistaking the accent of the taxi driver at the airport, I accepted his charge of "fifteen dollars" for the drive out to the course location. Bouncing along the country road I glanced at the cost counter and saw that it was already at 30 dollars, oh dear, I asked to be let out right then and he was kind enough to give me the fare I had anticipated. Walking along the road I had little luck hitching a ride, probably something to do with the ice axes on the backpack. So I legged it on over the kilometers to the paragliding field. It was a brilliant day, the sun was shining and there was a little bit of wind.
 
-The paragliding course with ... insert here okay I have to write more about that later... TODO
+The paragliding course with Lisa from `extreme air`_ was fantastic. She was surprised that I managed to get to the point of taking my own short flights from the hill by the end of the day. Would love to try paragliding again sometime in the future.
 
-I hope to cover the course, and its content more in a different post, but suffice to say we had a great time. It was fortunate that our group had the opportunity to interact with our guide, and train and climb together before heading over to New Zealand before the course. We all got a lot out of it, and have all been on subsequent trips up into the mountains. 
+The next day I was on a bus and heading over to the west coast to Fox for the mountaineering course with Stu. I had a pleasant time conversing with an Indian gentleman who was on a holiday given to him as a gift from his son, a non-stop bus tour around New Zealand. How horrible I thought, being stuck in a bus with all this fantastic scenery sliding by, but he seemed rather happy with the situation.
+
+I hope to cover the mountaineering course, and its content more in a different post, but suffice to say we had a great time. It was fortunate that our group had the opportunity to interact with our guide, and train and climb together before heading over to New Zealand before the course. We all got a lot out of it, and have all been on subsequent trips up into the mountains. 
+
+Christmas Adventure
+-------------------
+
+Jules, Anja and I caught the bus back to Christchurch together over Athurs pass after the mountaineering course. Everyone was wrecked, but it was a beautiful day outside and I watched the mountains and the forests pass by out the window, totally engrossed.
+
+Jules and myself were stuck in Christchurch on Christmas day. We decided that we must do something to celebrate the occasion, so we looked up on `thecrag`_ for the nearest outdoor climbing destination to Christchurch that we might be able to ride bikes there and go climbing. Details were hard to come by, but we had a general vicinity on google maps, and headed out on our silly rental bikes for an interesting day. 
+
+Arriving at the start of the walking track, all the hills above us were covered in cloud, so we could not see what we were aiming for. We made our way up the path, and then up the grassy slope, taking a general guess as to the location of the crag. We reached the top after some scrambling, and as the cloud cleared it became obvious that we needed to traverse the rocky ridge line and eventually abseil to reach the climbs we were hoping to see. We were both aware that the earthquakes in Christchurch had probably affected the area, but this did not seem such a large risk in comparison to witnessing tons of rock falling nearby us in the mountains.
+
+After the abseil while retrieving the ropes, I managed to get the rope caught on a ledge. A sharp pull brought the rope down, but a decent sized rock came flying down too, luckily I was able to duck and my backpack took the blow harmlessly. Lesson learned:
+
++ if your rope is stuck, it could be caught on loose rocks
++ don't stand directly beneath your abseil when pulling the ropes
+
+I had understood these things in theory, but it took a practical mistake to highlight their importance and significance.
+
+We ended up finding a fun trad line, and wondering how half the cliff face had managed to roll down the hill, taking with it many climbs, presumably as a result of the earthquake.
+
 
 Mountaineering Camp
 --------------------
 
-Jules, Anja and I caught the bus back to Christchurch together over Athurs pass after the mountaineering course. Everyone was wrecked, but it was a beautiful day outside and I watched the mountains and the forests pass by out the window, totally engrossed.
+I met with a car load freshly arrived from Melbourne overnight in Christchurch, who picked me up from the Jailhouse Hostel. We bought an innordinate amount of food, and struggled to find boxes to put it all in for the helicopter ride up. The drive up to Cook Village was great, another chance to check out the scenery.
 
-I met with a car load freshly arrived from Melbourne overnight in Christchurch, who picked me up from the Jailhouse Hostel. We bought an innordinate amount of food, and struggled to find boxes to put it all in for the helicopter ride up. The drive up to Cook Village was great, another chance to check out the scenery, 
-
-TODO TODO
-
+In Cook village we took the liberty to check out the climbing museum, highly recommended. The table model of the area was fantastic for discussing the climbs that we might attempt on our trip.
 
 
 
@@ -66,3 +87,8 @@ climbing in NZ left me with many oustanding memories to dwell on. I can almost r
 Nutella. Deserves a mention.
 Lost a glove. Ticked me off.  
 Icicle 
+
+.. _extreme air: http://extremeair.co.nz/
+.. _Onsight or Flight 2015: https://vimeo.com/144355766
+.. _Onsight or Flight 2014: https://vimeo.com/144355917
+.. _thecrag: http://thecrag.com
