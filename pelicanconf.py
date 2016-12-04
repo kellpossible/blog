@@ -59,3 +59,7 @@ PHOTO_WATERMARK_IMG = ''
 # Better Figures and Images
 
 RESPONSIVE_IMAGES = True
+
+# Disqus
+
+DISQUS_SITENAME = "lukefrisken"
