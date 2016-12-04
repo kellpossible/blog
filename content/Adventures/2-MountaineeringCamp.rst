@@ -36,7 +36,7 @@ Over many trips the topics of anchor building, seconding, prusiking, etc etc wer
 
 Dale (Stu's partner) and Gaetan (the current club mountaineering officer) were organising a mountaineering camp. I had just enough leave planned that it would be possible to back to back the mountaineering course, and the camp. I was very excited for the entire year for both the trips. The first was to introduce the skills, and the second was to reinforce them through independent decision making. And of all people, I was to be climbing mostly with Richard, the first person I met at MUMC.
 
-On the way home from the Banff film festival I spotted someone who I recognised as a friend of a friend. An older fellow, who, back in the day, I was told a year or so earlier, had been a mountaineer in South America, but had stopped after some of his partners died in a climbing accident. I approached him, and was curious to see what his views might be if I told him I had joined MUMC to go mountaineering. What he said, I cannot remember exactly, but it shook my confidence, and began to make me question my motivations. Stu, right in our first conversation had said that people die mountaineering, and you have to be willing to accept that possibility if you want to do that. I don't think one can ever understand precisely what this means. I thought I understood it, but I since realise that I didn't.
+On the way home from the Banff film festival I spotted someone who I recognised as a friend of a friend. An older fellow, who, back in the day, I was told, had been a mountaineer in South America, but had stopped after some of his partners died in a climbing accident. I approached him, and was curious to see what his views might be if I told him I had joined MUMC to go mountaineering. What he said, I cannot remember exactly, but it shook my confidence, and began to make me question my motivations. Stu, right in our first conversation had said that people die mountaineering, and you have to be willing to accept that possibility if you want to do that. I don't think one can ever understand precisely what this means. I thought I understood it, but I since realise that I didn't.
 
 My first lead climb and my first lead fall occured on Stu's annual *"Onsight or Flight"* trip out at Mt Arapiles. Normally reserved for experienced climbers as an opportunity to push and improve climbing trad at your limit, Stu was happy to personally accomodate myself and Liv who was also fairly new to lead climbing. Straight into the thick of it, a fantastic opportunity, and I hope that this trip can continue to be run in the future. I made a couple of short films about this trip which are up on vimeo at `Onsight or Flight 2014`_ and `Onsight or Flight 2015`_.
 
@@ -68,7 +68,7 @@ After the abseil while retrieving the ropes, I managed to get the rope caught on
 + if your rope is stuck, it could be caught on loose rocks
 + don't stand directly beneath your abseil when pulling the ropes
 
-I had understood these things in theory, but it took a practical mistake to highlight their importance and significance.
+I had understood these things in theory, but it took a practical mistake to highlight their importance.
 
 We ended up finding a fun trad line, and wondering how half the cliff face had managed to roll down the hill, taking with it many climbs, presumably as a result of the earthquake.
 
@@ -76,17 +76,77 @@ We ended up finding a fun trad line, and wondering how half the cliff face had m
 Mountaineering Camp
 --------------------
 
+Arrival
+~~~~~~~~
+
 I met with a car load freshly arrived from Melbourne overnight in Christchurch, who picked me up from the Jailhouse Hostel. We bought an innordinate amount of food, and struggled to find boxes to put it all in for the helicopter ride up. The drive up to Cook Village was great, another chance to check out the scenery.
 
-In Cook village we took the liberty to check out the climbing museum, highly recommended. The table model of the area was fantastic for discussing the climbs that we might attempt on our trip.
+In Cook Village we took the liberty to check out the climbing museum, highly recommended. The table model of the area was fantastic for discussing the climbs that we might attempt on our trip.
+
+With food boxes re-packed, two helicopter flights up to Tasman saddle hut ensued the next good weather morning. I was on the second flight in. The helicopter landed on the glacier in the the saddle above the hut. A number of "rogue" potatos escaped their bag and had to be retrieved. Stu had told us enough stories about people tripping, falling, sliding and dying next to the huts that we were all on guard while ferrying our goods into the hut down below. For the entire time we were there, we were the sole occupants of Tasman Saddle Hut, a very lucky and happy turn of events. 
+
+The first outing for the trip was a traverse of Mt Aylmer and Hochstetter Dome, an absolute classic. In my head as we climbed was the story Stu had told us the night before of the "Heavy Roller" and the "Axe Murderer" and their multi-day "epic" attempt on the south face of Hochstetter, all within earshot of the hut. We cruised up Mt Aylmer, and spent a lot of time faffing around with snow anchors. In retrospect, a lot of this terrain, once confident on your feet and crampons can fairly safely soloed.
+
+On the descent I shouted out to Richard that I was not confident with the ice screws in one of my anchors. When he arrived, we set up a second anchor by bashing in a snow stake, and I proceded to jump on my own anchor which resulted in the failure of all three screws, a real eye opener. Richard stated something to the effect that he never really trusts anchors in the mountains anyway.
+
+A traverse of the ridge between Mt Annan and Mt Abel and a rock climb near Mt Abel were the material for the following days. On the traverse we noticed our friends about to arrive in the saddle below us, so we snuck up and threw snowballs at them, much to everyone's amusement. (They were on belay/safe!).
+
+Ice Climb on Elie
+~~~~~~~~~~~~~~~~~
+
+Back in the hut, Dale and Stu had returned from their attempt on Elie De Beaumont via the Anna Glacier. The Anna was too cut up, and a precarious block making funny sounds upon touching resulted in a retreat. Stu had taken some photos of some iced up gullies on the north side of Lendenfeld Saddle, and suggested to Richard and I that we could try to climb one of them the next morning. An open snow slope to the west would provide an easy means of descent.
+
+Upon reaching the base of the gulley in the half light of dawn, the crux of the climb was obvious; an overhanging wall of ice/glacier just above the bergshrund at the bottom. Richard offered to lead this pitch, for which I was thankful, it was definitely, like many ice climbs in the mountains, a no fall situation. The climbing was excellent, and stunning, and the first belay placed us under an overhang, which unfortunately as previously mentioned held a host of icicles waiting to fall. Richard led the second pitch too, and I led the final pitch up and out onto the open snow slopes above.
+
+It was at this point that we realised that the conditions of sun exposed snow were poor. A soft layer above hard ice made footing insecure, and we made the wise choice to begin a traverse over to our descent route rather than continue to the top. There was a sense of urgency and I dropped a glove. We debated soloing to move faster, but I didn't feel confident. Richard offered to lead, and place snow stakes, for which I am thankful. Several pitches more brought us to where we expected to descend.
+
+Here we came across a problem: what we expected to be a nice, clean snow slope, was covered in the debris from recent rockfall from a nasty looking face just opposite us. We decided to try and make our way down the rock face directly below us instead. I was to be lowered, and I placed some pieces of protection for Richard on the way down not liking the idea of him doing it effectively unroped. When the end of the rope was reached, I was about 10m short of the snow slope below us, so I set up an anchor and began to belay Richard down. The problem was that this slope contained a large amount of loose rock, and while climbing, many rocks were dislodged. A dinner plate flew past my head as I pressed myself againsed the cliff. Richard shouted to me to forget the belay, untie and get to somewhere safer. I remember feeling slightly angry about this situation, but I suppose, in retrospect it wasn't such a bad choice to make. I down climbed the last 10m of sketchy rock onto the snow slope, halfway down the slope and off to the side, I found a small, protected ledge, and sat waiting for Richard.
+
+After spotting me retreat to a safe spot, Richard resumed. A couple more rocks went sliding by and down over the lip of the schrund, and I half expected to see Richard join them. The sun was out and it was a beautiful morning, curled up on that ledge with a great view of the Tasman Valley and Mt Cook. I know not how much later, but was surprised to hear a friendly voice call up to me from the slope. I stretched to look down, and it was Richard, casually walking down, sounding unconcerned. We both had a laugh!
+
+Nutella Wars
+~~~~~~~~~~~~
+
+Everyone knew how much Liv and Danni liked their Nutella, so I bravely elected to steal a quantity in order to provoke some sort of dispute between them over their eating habits. Their dismay was such that after a day or two I had to admit to the actions.
+
+Several days later, after a visit to the hut from Rogers, a guide who's reputation preceded him, my Nutella went missing. I suspected foul play from the girls, but was ernestly convinced by the others that Rogers had placed the Nutella in his locked box under the sink. This was a devastating blow.
+
+Storm Days
+~~~~~~~~~~
+
+The hog's backs over Mt Cook marked the onset of the next cold front, and the poor weather. New Year's Eve was celebrated in good spirits with graupel and pineapple Pina Coladas in the hut.
+
+Over at Plateau hut, a drama was playing out over the radio. A group of Germans and an Australian had decided to team up and climb Mt Cook. Unfortunately their choice of timing was poor, with the onset of bad weather being obvious throughout the preceding week, they had decided to go anyway with only a day to complete the climb before the storm was expected to arrive. Our hut shook during the night as the winds tried to pry it from the ridge, and my thoughts went out to the climbers who had not radioed in at 7pm for the scheduled call from DOC. We had laughed at the jest in the description over the radio of the Australian deciding to team up with the "crazy Germans" several days beforehand, but now the situation seemed rather more serious, and I felt horrible for having made light of something which turned out to be so dire.
+
+Over the subsequent days, they were presumed missing, and they were identified by the possessions they had left behind. A search party had been sent, but no trace could be found. Stu surmised that they had probably been swept into a crevasse and covered by snow. The Australian man had left behind a family in Sydney. This discovery prompted many thoughts about choices and responsibilities when deciding to take risks in the mountains.
 
 
+Malte Brun
+~~~~~~~~~~
 
-climbing in NZ left me with many oustanding memories to dwell on. I can almost remember every ice screw we placed and every step over a crevasse. This is coming from someone who forgets things all the time lost gloves, rope on train! Etc
+When the weather cleared, Stu and Dale headed out for an afternoon slog over to the Bonney Glacier to camp next to Rumdoodle for an ascent of Malte Brun. We were all amused at the prospect of hearing them radio in from that location for the 7pm radio sched. I teamed up with Tom and Gaetan, and early in the morning we all evacuated the hut and followed in their frozen footprints. The moon was up, and head-torches were uneccessary. Turning the corner into the Darwin Glacier, the sun began to rise just as the moon was setting, with perfect timing. When we reached the Bonney Glacier, ahead we could see Danni and Liv, who we soon overtook just before reaching Stu and Dale's little yellow tent which was perched in the saddle below the mass of Malte Brun.
 
-Nutella. Deserves a mention.
-Lost a glove. Ticked me off.  
-Icicle 
+9 of us climbed the West Ridge together, with the team I was in taking up the rear. Overall, the rock is good quality when compared to other mountains, but towards the top, it turns into a pile of choss. Stu and Dale passed us on their way back, they had decided to turn around after the "Cheval" in order to expedite the descent of the group by setting up good abseil anchors. We bum shuffled our way along the knife blade ridge of the "Cheval", and I marvelled at the drop on either side.
+
+It was getting into the afternoon, and having completed what Stu claimed to be the most exciting part of the climb, I was content to sit back and wait while the other two continued up the choss for a peak/summit bid. They soon returned however, deciding to turn back early. The other two teams must have pressed on ahead to the summit, for we did not see them.
+
+The sun was setting as we carefully completed the roughly 8 abseils required to descend the route. On the final rappel, our rope got stuck, but thankfully Rodney arrived alone, and just in time to assist. He had left his partner Richard up on the mountain, who had insisted on helping the last team down.
+
+Down in the saddle, I set up my bivi among the rocks and ate dinner, but remained worried about the other three who were still up on the mountain. I could see their head-torches slowly coming down. I watched them carefully, and as they approached the bottom, I climbed up to meet them where the ice bridge had collapsed in the afternoon to give directions and save them some trouble in the dark.
+
+That day was a useful lesson in how far to push one's self to attain a goal. I made a promise to continue in the mindset that the peak is never really the goal, but rather the experience and sensation of climbing. If the conditions are good, and the team is climbing well then a peak will be attained through matter of course, but I have decided never to make this the actual goal.
+
+
+Closing Thoughts
+-----------------
+
+Joined by Dan and Ryan after their day out on Mt Hamilton, together all 11 of the MUMC OXOs walked down the Bonney and the Darwin to our helicopter pickup spot. We passed a large group from NZAC who were scouting out a location for the new hut proposed for the area. They seemed impressed we had gotten so many people together, and had had a successful trip, managing to climb many things.
+
+The sun was hot, and there was blue water running around us near the pickup point. It was the best water I've ever had. The helicopter caught us nearly by surprise, jumping over a ridge, and buzzing us at top speed before pulling up in a swoop and landing immediately, the word "cowboy" seemed appropriate!
+
+Back in Cook Village at the Hermitage Hotel we all sat down to drinks and relaxation at the conclusion of a successful trip. I daresay I probably won't get the chance to go on another like it.
+
+Climbing in NZ left me with many oustanding memories to dwell on. I can almost remember every ice screw we placed and every step over a crevasse. This is coming from someone who forgets things all the time!
 
 .. _extreme air: http://extremeair.co.nz/
 .. _Onsight or Flight 2015: https://vimeo.com/144355766
