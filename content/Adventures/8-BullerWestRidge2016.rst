@@ -8,10 +8,6 @@ West Ridge of Mt Buller
 :image: {photo}BullerWestRidge2016/20160807_114502.jpg
 :dropcap: W
 
-
-
-
-
 hy do the best adventures always seem to happen when I break my phone?
 I was contemplating this while sitting by the round-about in Mansfield outside the pub,
 waiting for my friends to arrive. 
