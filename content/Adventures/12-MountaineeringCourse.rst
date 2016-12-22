@@ -32,8 +32,11 @@ keep taking scoops. On top of this, none of us really know how big our luck buck
 
 The gut reaction to what happened is that mountaineering is not worth the risk and the pain that it causes
 to loved ones. Even now as the pain fades, the memory makes it hard to justify putting my friends and family
-through the same process again.
+through the same process again. About three months later, I was nearly involved in a serious car accident. 
+Reminded of my own mortality, I considered how much I prefered having rocks fly past in the mountains 
+to cars on the highway.
 
-About three months later, I was nearly involved in a serious car accident. Reminded of my own
-mortality, I considered how much I prefered having rocks fly past in the mountains 
-to cars on the highway. 
+I've wanted to write an account of the course for a long time now, but I've been busy, and didn't really
+feel like I could touch the subject given the circumstances. I hope that others who read this can get
+a little piece of Stu, second hand, and that there will be an opportunity to remember these lessons
+and teach them to others.
