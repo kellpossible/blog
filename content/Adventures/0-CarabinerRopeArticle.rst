@@ -2,6 +2,8 @@ Carabiner Damage to Rope
 ==========================
 
 :date: 2014-7-31 10:00
+:author: Luke Frisken
+:slug: adventures/carabiner-rope-damage
 :gallery: {photo}CarabinerRope2014
 :image: {photo}CarabinerRope2014/CarabinerSharpEdge.jpg
 :dropcap: I

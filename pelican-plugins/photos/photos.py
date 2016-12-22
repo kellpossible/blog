@@ -211,7 +211,6 @@ def resize_photos(generator, writer):
 
 
 def detect_content(content):
-
     hrefs = None
 
     def replacer(m):
@@ -230,7 +229,12 @@ def detect_content(content):
             else:
                 photosplit = os.path.splitext(value)
                 photo = photosplit[0] + 'a' + photosplit[1]
-                origin = os.path.join(settings['SITEURL'], 'photos', photo)
+
+                pre = settings['SITEURL']
+                if pre == '':
+                    pre = '/'
+
+                origin = os.path.join(pre, 'photos', photo)
                 enqueue_resize(
                     path,
                     os.path.join('photos', photo),
@@ -388,10 +392,15 @@ def process_image(generator, content, image):
         imagesplit = os.path.splitext(image)
         photo = imagesplit[0] + 'a' + imagesplit[1]
         thumb = imagesplit[0] + 't' + imagesplit[1]
+
+        pre = generator.settings['SITEURL']
+        if pre == '':
+            pre = '/'
+
         content.photo_image = (
             os.path.basename(image),
-            os.path.join('photos', photo),
-            os.path.join('photos', thumb))
+            os.path.join(pre, 'photos', photo),
+            os.path.join(pre, 'photos', thumb))
         enqueue_resize(
             path,
             os.path.join('photos', photo),

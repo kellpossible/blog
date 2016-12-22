@@ -3,6 +3,7 @@ Blue Lake Ice Climbing
 
 :date: 2015-8-01 10:00
 :author: Luke Frisken
+:slug: adventures/blue-lake-ice-climbing
 :gallery: {photo}BlueLake2016
 :image: {photo}BlueLake2016/LukeFrisken_BlueLake_20150723_150028.jpg
 :dropcap: T

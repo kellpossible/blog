@@ -3,11 +3,12 @@ Night Appeal
 
 :date: 2016-11-02 10:00
 :author: Luke Frisken
+:slug: adventures/night-appeal
 :gallery: {photo}NightAppeal
 :image: {photo}NightAppeal/20160708_195321_2.jpg
 :dropcap: M
 
-*y torch flickers, and then goes out. Halfway through the second pitch, I call out below something to make my belayer worried. Stopping to take stock, behind me are yells and hoots, a couch burning bonfire rages in the campsite. Our friend is making funny noises around the corner on Agamemnon.  Waiting was worthwhile, the moon shines through and lights the route ahead.”* - 30th June 2015
+*y torch flickers, and then goes out. Halfway through the second pitch, I call out below something to make my belayer worried. Stopping to take stock, behind me are yells and hoots, a couch burning bonfire rages in the campsite. Our friend is making funny noises around the corner on Agamemnon.  Waiting was worthwhile, the moon shines through and lights the route ahead.”* - 30th June 2015  
 
 .. figure:: {photo}NightAppeal/20150630_232156.jpg
 	:align: left

@@ -3,6 +3,7 @@ Hotham to Fall's Creek
 
 :date: 2015-8-02 10:00
 :author: Luke Frisken
+:slug: adventures/hotham-to-falls-creek
 :gallery: {photo}HothamFallsCreek2015
 :image: {photo}HothamFallsCreek2015/20150829_152719.jpg
 :dropcap: W

@@ -3,6 +3,7 @@ MUMC and Mountaineering
 
 :date: 2015-3-02 10:00
 :author: Luke Frisken
+:slug: adventures/mumc-mountaineering
 :gallery: {photo}MUMCMountaineering
 :image: {photo}MUMCMountaineering/20150101_051457.jpg
 :dropcap: A
@@ -263,7 +264,7 @@ Joined by Dan and Ryan after their day out on Mt Hamilton, together all 11 of th
 
 The sun was hot, and there was blue water running around us near the pickup point. It was the best water I've ever had. The helicopter caught us nearly by surprise, jumping over a ridge, and buzzing us at top speed before pulling up in a swoop and landing immediately, the word "cowboy" seemed appropriate!
 
-Back in Cook Village at the Hermitage Hotel we all sat down to drinks and relaxation at the conclusion of a successful trip, also discovered my Nutella hidden in my bed! I daresay I probably won't get the chance to go on another like it. 
+Back in Cook Village at the Hermitage Hotel we all sat down to drinks and relaxation at the conclusion of a successful trip, also discovered my Nutella hidden in my bed! I daresay I probably won't get the chance to go on another trip like it. 
 
 Climbing in NZ left me with many oustanding memories to dwell on. I can almost remember every ice screw we placed and every step over a crevasse. This is coming from someone who forgets things all the time!
 

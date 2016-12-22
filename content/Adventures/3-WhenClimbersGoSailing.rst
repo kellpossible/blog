@@ -3,6 +3,7 @@ When Climbers Go Sailing
 
 :date: 2015-9-21 10:00
 :author: Luke Frisken
+:slug: adventures/when-climbers-go-sailing
 :gallery: {photo}WhenClimbersGoSailing
 :image: {photo}WhenClimbersGoSailing/20150201_175536.jpg
 :dropcap: F
