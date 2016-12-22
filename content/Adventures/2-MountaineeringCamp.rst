@@ -1,7 +1,7 @@
 MUMC and Mountaineering
 =============================
 
-:date: 2015-3-02 10:00
+:date: 2016-12-5 10:00
 :author: Luke Frisken
 :slug: adventures/mumc-mountaineering
 :gallery: {photo}MUMCMountaineering
