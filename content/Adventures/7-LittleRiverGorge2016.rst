@@ -8,8 +8,8 @@ Little River Gorge
 :image: {photo}LittleRiverGorge2016/20161119_163148.jpg
 :dropcap: R
 
-eturning to Little River Gorge was an exciting prospect. Aparrently Little River Gorge is Victoria's
-deepest gorge. A fair way North-East of Buchan, it is one of the more remote areas of victoria.
+eturning to Little River Gorge was an exciting prospect. Aparently Little River Gorge is Victoria's
+deepest gorge. A fair way North-East of Buchan, it is one of the more remote areas of Victoria.
 When travelling around there, and especially into the gorge, one gets the special feeling that no one else
 has been there before, especially when no traces of campfires or rubbish can be found.
 
@@ -49,8 +49,8 @@ If it had been raining the first, steep section of the climb out would have been
 it was a short moment of unpleasantness before gaining the exciting, exposed ridge line. We found ourselves
 thanking the wombats for clearing us tracks.
 
-The final night was spent at McKillp Bridge at the campsite, where we were lucky enough to witness an impressive 
-thunderstorm, thankful that we were no longer down in the gorge.
+The final night was spent at McKillop Bridge at the campsite, where we were lucky enough to witness an impressive 
+thunderstorm. It was good that we were no longer down in the gorge.
 
 
 Before the trip I took the time to create a couple of maps using QGIS and the data available from the Victorian Government. I'll create a post sometime in the future as to the process required for attaining this data and putting it into a map with QGIS. Use these maps at your own risk, I have no guarantees that they are correct, but they did the job for us just fine while we were down there, we did not even need to take a GPS.		
