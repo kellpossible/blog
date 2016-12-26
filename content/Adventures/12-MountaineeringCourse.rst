@@ -18,28 +18,8 @@ the strongest, and boldest of us, to fall.
 I've wanted to write an account of the course for a long time now, but I've been busy, and didn't really
 feel like I could touch the subject given the circumstances. I hope that others who read this can get
 a little piece of Stu, second hand, and that there will be an opportunity to remember these lessons
-and teach them to others. 
-
-Their fate serves as a real reminder that despite knowing and following
-the best techniques, up there all it takes is a single unfortunate event to ruin
-your day. In my opinion, human fallibility is an objective risk which is perhaps the hardest to manage. 
-We all make mistakes, the best might do it at a lower rate, but they still make mistakes. 
-It is nice that in climbing it often takes a number of mistakes or chances to coincide to result in an accident, but when mountaineering the margin for error is often smaller. Pushing yourself to your physical limit
-on a climb also increases your chance of making mental errors. 
-
-Personally I aim to always stay well within my physical comfort zone, with plenty in reserve to try and reduce this risk and deal
-with unexpected circumstances. This management pricipal I try to apply both while picking climbs, and while on route as
-my understanding of the objective improves. If I want to climb something bigger or harder, I need to train and prepare more such that it is within this comfort level, or I don't go. 
-
-Another philosophy I try to apply which ties in with this is to climb for the enjoyment and not the summit. If I climb
-well within what I am physically comfortable, it will be much more enjoyable. I try to remove any emotional attachment
-to the concept of reaching the top because this clouds sensible judgement about when to turn back. My reason for climbing
-is the enjoyment of being in that environment, and the sensation of climbing. If we're having a good day and the conditions are perfect, we'll make the top by matter of course. As Ed Viesturs says, *"Getting to the top is optional. Getting down is mandatory."*.
-
-I've more or less adhered to this principal the last two seasons of climbing, and despite what people
-say about mountaineering being about suffering, it was actually quite enjoyable and I never felt
-tired, or physically depleted. Sure there were moments of uncertainty, but these are much easier
-to deal with when you're not tired.
+and teach them to others. It's also just a bit of a splurge to get all this out of my head
+so I can look back on it and remind myself.
 
 Our course actually began in Melbourne. All the participants were from MUMC and knew Stu in some capacity
 through the club. We met up on an evening in the clubrooms to discuss the course, some theory, the risks 
@@ -101,8 +81,26 @@ all the slack rope and when you put them on belay where your partner may have di
 down below. Be aware of this and consider putting them on belay sooner if the situation requires.
 
 
+Roping Up
+~~~~~~~~~
+
+The first thing you do in the morning when summer mountaineering out of a hut in New Zealand is usually
+roping up for crevasse travel with your partner/s.
+
+extending for person in the middle, two knots. why? 
+15 metres - three knots.
+knots get caught in wall of crevasse
+Rope passing under the arms. 
+Connected to harness for taking crevasse fall. TODO
+
 Gear Placement
 ~~~~~~~~~~~~~~
+
+
+.. figure:: {photo}MountaineeringCourse/20141218_142803.jpg
+
+   Gear placement with few nuts may require creativity
+
 
 + While climbing easy routes, the best option is just not to fall. Place the minimum gear required to prevent death, and allow you to move quickly and efficiently.
 + Focus your placements on protecting the crux sections of the route. 
@@ -142,6 +140,10 @@ A technique for traversing easy ridge lines is take in coils, and travel togethe
 with the strong climber behind, if someone falls off to one side,
 the other person jumps over the other, and the rope catches them in the middle.
 
+.. figure:: {photo}MountaineeringCourse/20141222_032206.jpg
+
+	Stu short-roping with James and Anja on the Minarets
+
 
 Anchors
 ~~~~~~~
@@ -169,13 +171,29 @@ a crevasse/shrund might be considered sufficient without any extra protection.
 A special focus was on sling anchors, and the need to weight the anchor to keep it sitting on
 the rock in the correct position and stop it slipping off.
 
-Another type of anchor was to just wrap the rope around the back of a chicken head or bollard,
-and pull the person up and over hand. The friction of the rock was enough to hold
+
+Belaying
+~~~~~~~~~
+
+Stu advocated the use of an autoblock atc device and belaying a seconder off the anchor instead of off
+the waist. But often even this is not fast enough to keep up with a climber running up a snow slope.
+
+In this case, a munter/italian hitch belay off a carabiner on the anchor would be better and faster,
+or even just a couple of wraps around the carabiner provided you pull in the slack quickly and
+keep the climber tight.
+
+Another alternative belay which didn't require an anchor was to just wrap the rope around the back of a c
+hicken head or bollard, and pull the person up and over hand. The friction of the rock would be enough to hold
 a person's fall on easy ground.
 
 
 Abseiling
 ~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141223_061406.jpg
+
+	Abseiling with a fireman's belay onto the Fox Glacier
+
 
 In the mountains it is common to find long descents with many abseils. Getting 
 more efficient at abseiling can greatly reduce the time it takes to descend
@@ -196,18 +214,24 @@ In many situations lowering down may be a better option than abseiling.
 + If you want to downclimb afterwards, the first person can place protection for the second person on the way down.
 + Less likely to let go of the rope or need a prusik
 
+Rope Throwing
+*************
+
+If it's windy, other than lowering, another alternative to just throwing your rope away into the wind
+is to coil it into a sling on your harness and take it with you on the way down.
+
 Prusiks
 *******
 
 Stu often didn't use prusiks but I do remember him saying he felt like he 
-should probably try and use them more often. I can't remember exactly what
+should probably try and use them more. I can't remember exactly what
 he said on the topic, so much of this is my own words/logic, probably
 heavily influenced by what he has said on the topic.
 
 Prusiks can make you a lot slower on the abseil and have the potential to jam up. 
 While descending down a clean wall or snow slope, you will go a lot faster without a prusik. In the
 extremely unlikely chance that you let go of the rope in this scenario, 
-you'll go for a slide and hit the knots on the end of your rope and be fine (if you're anchor's bomber).
+you'll go for a slide and hit the knots on the end of your rope and be fine (if your anchor is good).
 
 For the person coming down second, a fireman's belay is a much better option than a prusik,
 it costs no time, no speed, and offers a similar level of safety without the fuss. I always
@@ -274,4 +298,128 @@ was a takeaway catchphrase for all of us from the course. I'm pretty sure Stu ye
 at some stage.
 
 
+New Zealand
+-----------
 
+Can we be finished by Midday?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Despite knowing and following
+the best techniques, up there all it takes is a single unfortunate event to ruin
+your day. In my opinion, human fallibility is an objective and unavoidable risk. It is is perhaps the hardest to manage. 
+We all make mistakes, the best might do it at a lower rate, but mistakes are still made. 
+It is nice that in climbing it often takes a number of mistakes or chances to coincide to result in an accident, but when mountaineering the margin for error is often smaller. Pushing yourself to your physical limit
+on a climb increases your chance of making mental errors. 
+
+Personally I aim to always stay well within my physical comfort zone, with plenty in reserve to try and reduce this risk and deal
+with unexpected circumstances. This management pricipal I try to apply both while picking climbs, and while on route as
+my understanding of the objective improves. If I want to climb something bigger or harder, I need to train and prepare more such that it is within this comfort level, or I don't go. 
+
+Another philosophy I try to apply which ties in with this is to climb for the enjoyment and not the summit. If I climb
+well within what I am physically comfortable, it will be much more enjoyable. I try to remove any emotional attachment
+to the concept of reaching the top because this clouds sensible judgement about when to turn back. My reason for climbing
+is the enjoyment of being in that environment, and the sensation of climbing. If we're having a good day and the conditions are perfect, we'll make the top by matter of course. As Ed Viesturs says, *"Getting to the top is optional. Getting down is mandatory."*.
+
+I've more or less adhered to this principal the last two seasons of climbing, and despite what people
+say about mountaineering being about suffering, it was actually quite enjoyable and I never felt physically depleted. 
+Sure there were some moments of uncertainty, but these are much easier
+to deal with when you're not tired.
+
+Something that Stu advocated to other climbers was the concept of *"Can we be finished by midday?"*.
+Aiming to, in any event, be back at the hut by midday. Picking climbs which are at your level such
+that you can reasonably expect to be back by midday. Always asking yourself this question on a climb
+and taking the actions such as retreating in order to fulfil this goal of getting back to the hut
+by midday. He made a video about it: `Can we be finished by Midday?`_ 
+
+Weather Patterns/Forecasts
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`metvuw weather charts`_ 
+
+Stu's video: `Will the weather and snow stability really hold?`_ 
+
+
+
+
+
+Avalanches
+~~~~~~~~~~
+
+Rockfall
+~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141223_043351.jpg
+
+	Stu walking back after checking out the major rockfall in the pass (out of frame to the left)
+
+
+Freezing Level
+~~~~~~~~~~~~~~
+
+
+Walking with an Ice Axe
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Walking in Crampons
+~~~~~~~~~~~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141215_111508.jpg
+
+	Practicing in crampons on the first day
+
+Ten points or two
+
+Rock Climbing in Crampons
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141218_131758.jpg
+
+   They make horrible noises
+
+
+Rock Climbing in Mountain Boots
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+When to Face In
+~~~~~~~~~~~~~~~
+
+Stu's video: `Should we face in on this slope?`_ 
+
+
+Placing Pitons
+~~~~~~~~~~~~~~
+
+Placing Snow Stakes
+~~~~~~~~~~~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141215_124013.jpg
+
+   Stu showing us how to place snow stakes correctly
+
+Ice Screws
+~~~~~~~~~~
+
+V-Threads
+~~~~~~~~~
+
+
+Snow Bollards
+~~~~~~~~~~~~~
+
+
+Crevasse Rescue
+~~~~~~~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141218_074237.jpg
+
+   Jules practicing building an anchor after holding a fall 
+   (I ran down the hill at full pelt)
+
+
+
+.. _metvuw weather charts: http://www.metvuw.com/forecast/
+.. _Can we be finished by Midday?: https://vimeo.com/146237724
+.. _Should we face in on this slope?: https://vimeo.com/147008364
+.. _Will the weather and snow stability really hold?: https://vimeo.com/146642144
