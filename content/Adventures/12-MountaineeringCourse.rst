@@ -301,6 +301,55 @@ at some stage.
 New Zealand
 -----------
 
+We met for the course in Fox Village. The before we were due to fly out I managed
+to get myself pretty badly entangled with a rusty barbed wire fence while racing back to the lodge.
+
+"That was stupid wasn't it?" I said. I thought I had ruined my chances participating
+in the course. Stu didn't say much but he rushed off to the general store to grab some antiseptic cream
+before it closed.
+
+The next morning we all jumped in a helicopter flight up to Centenial Hut. It's a fairly long flight, 
+and you cross over the Fox Glacier and then the Franz Josef, absolutely spectacular. 
+We landed on a flat spot some way above the hut and had to walk our supplies carefully down the hill.
+
+Walking in Crampons
+~~~~~~~~~~~~~~~~~~~
+
+.. figure:: {photo}MountaineeringCourse/20141215_111508.jpg
+
+	Practicing in crampons on the first day
+
+Once we had our stuff stashed away in the hut we headed down onto the glacier to a shaded section
+where the snow was still firm, for some crampon practice. 
+
+The basic concept is that you either need
+to be on all bottom crampons (usually 10) with foot flat to the ground, or on the front two (or one if you've got monopoints).
+Standing on the crampons only on one side of the foot on a slope will make them liable to shear through
+the snow/ice. Flat-footing is appropriate on moderate slopes.
+
+When to Face In
+~~~~~~~~~~~~~~~
+
+When descending a slope, flat-footing in crampons, this is far less secure than facing into the slope
+and using your front points. This technique is also often less tiring and is more comfortable than
+front-pointing. Deciding when the extra security is required, to face in to the slope, is an
+important decision. 
+
+Stu made a video about this topic: `Should we face in on this slope?`_ .
+
+
+Walking with an Ice Axe
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Self Arrests
+~~~~~~~~~~~~~
+
+We did spend some time practicing self arrests from all the starting positions (forwards, backwards, upside down, etc).
+While it's an important skill to learn, I get the impression that self arrests are not very successful
+in real situations. It's much better to not fall in the first place.
+
+
 Can we be finished by Midday?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -320,8 +369,8 @@ well within what I am physically comfortable, it will be much more enjoyable. I 
 to the concept of reaching the top because this clouds sensible judgement about when to turn back. My reason for climbing
 is the enjoyment of being in that environment, and the sensation of climbing. If we're having a good day and the conditions are perfect, we'll make the top by matter of course. As Ed Viesturs says, *"Getting to the top is optional. Getting down is mandatory."*.
 
-I've more or less adhered to this principal the last two seasons of climbing, and despite what people
-say about mountaineering being about suffering, it was actually quite enjoyable and I never felt physically depleted. 
+I've tried to adhere to this principal the last two seasons of climbing, and despite what some
+say about mountaineering being an act of suffering, it was actually quite enjoyable and I never felt physically depleted. 
 Sure there were some moments of uncertainty, but these are much easier
 to deal with when you're not tired.
 
@@ -339,11 +388,16 @@ Weather Patterns/Forecasts
 Stu's video: `Will the weather and snow stability really hold?`_ 
 
 
-
-
-
 Avalanches
 ~~~~~~~~~~
+
+During summer climbing in New Zealand, the major avalanche concern is wet loose slides causing you to 
+loose your footing and topple over a precipice or into a crevasse. Wet slabs are also a possibility.
+
+The occasional snowfall does lead to some weak layers with dry slabs, especially with wind loading after a storm.
+Mitigating this risk, the strategy is usually to wait a day or so after a storm for the layers to bake in the
+sun and bond again.
+
 
 Rockfall
 ~~~~~~~~
@@ -356,19 +410,19 @@ Rockfall
 Freezing Level
 ~~~~~~~~~~~~~~
 
+Climbing in summer in New Zealand you need to pay a lot of attention to the freezing level. This weather
+attribute has a large impact on the consistency of the frozen water you travel over (and under)!
 
-Walking with an Ice Axe
-~~~~~~~~~~~~~~~~~~~~~~~
+Generally speaking, during good weather periods, each night the snow freezes, and each day it heats up and melts. 
+In the morning, your fast walk across the glacier depends on a good overnight freeze. 
+
+If the freezing level is above you, you will need to stumble quite some distance through soft snow before 
+reaching the frozen neve. Returning that afternoon, your risk of breaking through a snow bridge is greatly
+enhanced. When there is no good overnight freeze it is best to re-evaluate your options, a long classic
+mountaineering route over snow is not a nice option. A rock climb closer to your hut or base could
+be a lot more fun.
 
 
-Walking in Crampons
-~~~~~~~~~~~~~~~~~~~
-
-.. figure:: {photo}MountaineeringCourse/20141215_111508.jpg
-
-	Practicing in crampons on the first day
-
-Ten points or two
 
 Rock Climbing in Crampons
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -381,15 +435,15 @@ Rock Climbing in Crampons
 Rock Climbing in Mountain Boots
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-When to Face In
-~~~~~~~~~~~~~~~
-
-Stu's video: `Should we face in on this slope?`_ 
+Learning to climb easy and moderate rock routes in mountain boots is an important skill. It reduces the
+weight you need to carry (potentially no rock climbing shoes required), and reduces the number of transitions 
+when you need to change shoes.
 
 
 Placing Pitons
 ~~~~~~~~~~~~~~
+
+
 
 Placing Snow Stakes
 ~~~~~~~~~~~~~~~~~~~
