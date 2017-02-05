@@ -317,10 +317,7 @@ def resize_worker(orig, resized, spec, settings):
         if not isthumb or (isthumb and settings['PHOTO_WATERMARK_THUMB']):
             im = watermark_photo(im, settings)
 
-    print("saving image", resized)
-
     im.save(resized, 'JPEG', quality=spec[2], icc_profile=icc_profile, exif=exif_copy)
-    print("image saved")
 
 
 def resize_photos(generator, writer):
