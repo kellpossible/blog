@@ -365,6 +365,9 @@ def detect_content(content):
                 photo_prefix = os.path.splitext(value)[0]
 
                 if what == 'photo':
+                    pre = settings['SITEURL']
+                    if pre == '':
+                        pre = '/'
                     photo_article = photo_prefix + 'a.jpg'
                     enqueue_resize(
                         path,
@@ -379,7 +382,7 @@ def detect_content(content):
                         m.group('src'),
                         '=',
                         m.group('quote'),
-                        os.path.join(settings['SITEURL'], 'photos', photo_article),
+                        os.path.join(pre, 'photos', photo_article),
                         m.group('quote'),
                         m.group('attrs_after'),
                     ))
@@ -536,20 +539,20 @@ def process_gallery(generator, content, location):
 
                 with Image.open(filename) as im:
                     src_width, src_height = im.size
+                    width = src_width
+                    height = src_height
+
                     if src_width > max_width:
                         width = max_width
                         height = int(float(src_height) * (float(max_width)/float(src_width)))
-                    else:
-                        width = src_width
 
                     if height > max_height:
                         height = max_height
                         width = int(float(src_width) * (float(max_height)/float(src_height)))
-                    else:
-                        height = src_height
 
                 # swap height and width if the image is to be rotated
                 img = Image.open(filename)
+
                 if will_rotate(img, generator.settings):
                     width, height = height, width
 
