@@ -8,8 +8,8 @@
     <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}" />
     <title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
 
-    {% if FEED_ATOM %}
-      <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ATOM }}"  title="{{ SITENAME }} Atom Feed">
+    {% if FEED_ALL_ATOM %}
+      <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITENAME }} Atom Feed">
     {% endif %}
     {% if FEED_RSS %}
       <link type="application/rss+xml" rel="alternate" href="/{{ FEED_RSS }}" title="{{ SITENAME }} RSS Feed">

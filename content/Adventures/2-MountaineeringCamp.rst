@@ -97,7 +97,7 @@ The next day I was on a bus and heading over to the west coast to Fox for the mo
 
 I hope to cover the mountaineering course, and its content more in a different post, but suffice to say we had a great time. It was fortunate that our group had the opportunity to interact with our guide, and train and climb together before heading over to New Zealand before the course. We all got a lot out of it, and have all been on subsequent trips up into the mountains. 
 
-.. figure:: {photo}MUMCMountaineering/10952542_885597678129116_2350276163205895008_n.jpg
+.. figure:: {photo}MUMCMountaineering/10952542_885597678129116_2350276163205895008.jpg
 	:alt: mountaineering course minarets
 
 	the mountaineering course participants on top of the Minarets. Photo credit - Stu
