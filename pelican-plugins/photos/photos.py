@@ -157,6 +157,7 @@ def watermark_photo(image, watermark_text, watermark_image, watermark_image_size
 
 def resize_worker(orig, resized, spec, wm, wm_text, wm_img, wm_img_size):
     logger.info('photos: make photo {} -> {}'.format(orig, resized))
+    print('photos: make photo {} -> {}'.format(orig, resized))
     im = Image.open(orig)
     try:
         exif = im._getexif()
@@ -170,13 +171,14 @@ def resize_worker(orig, resized, spec, wm, wm_text, wm_img, wm_img_size):
             decoded = ExifTags.TAGS.get(tag, tag)
             if decoded == 'Orientation':
                 if value == 3:
-                    im = im.rotate(180)
+                    im = im.rotate(180, expand=True)
                 elif value == 6:
-                    im = im.rotate(270)
+                    im = im.rotate(270, expand=True)
                 elif value == 8:
-                    im = im.rotate(90)
+                    im = im.rotate(90, expand=True)
                 break
-    im.thumbnail((spec[0], spec[1]), Image.ANTIALIAS)
+    im.thumbnail((spec[0], spec[1]), Image.BICUBIC)
+    print(spec)
     try:
         os.makedirs(os.path.split(resized)[0])
     except:
@@ -189,7 +191,7 @@ def resize_worker(orig, resized, spec, wm, wm_text, wm_img, wm_img_size):
 
 
 def resize_photos(generator, writer):
-    logger.info('photos: {} photo resizes to consider.'.format(len(DEFAULT_CONFIG['queue_resize'].items())))
+    print('photos: {} photo resizes to consider.'.format(len(DEFAULT_CONFIG['queue_resize'].items())))
     pool = multiprocessing.Pool(generator.settings['PHOTO_RESIZE_JOBS'])
     for resized, what in DEFAULT_CONFIG['queue_resize'].items():
         resized = os.path.join(generator.output_path, resized)
