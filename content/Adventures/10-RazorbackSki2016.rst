@@ -29,6 +29,7 @@ Looking up in the morning to see our tracks and our indecision from the previous
 .. figure:: {photo}SkiingRazorback/20160814_132014.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Summit Cornice
 
 	Summit cornice
 
@@ -43,6 +44,7 @@ season for me, can't wait to go back!
 
 .. figure:: {photo}SkiingRazorback/20160814_153218.jpg
 	:align: center
+	:alt: razorback tracks
 
 	Tracks off the spur from the Razorback
 

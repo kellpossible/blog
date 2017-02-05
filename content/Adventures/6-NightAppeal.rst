@@ -13,6 +13,7 @@ Night Appeal
 .. figure:: {photo}NightAppeal/20150630_232156.jpg
 	:align: left
 	:figwidth: 50%
+	:alt: Agamenmon
 
 	Climbing Agamenmon. A bonfire rages in The Pines.
 
@@ -29,6 +30,7 @@ Night Appeal
 To me, the night is exciting and irresistibly appealing. With sight diminished, I find myself paying more attention to my partners, and the other senses. The experience becomes a little surreal. I do struggle with balancing the desire to prance under the starlight with the voice of reason, comfort and safety. I know that climbing, skiing and even walking at night holds an extra element of risk, but romantic notions often get the better.
 
 .. figure:: {photo}NightAppeal/20161201_233538.jpg
+	:alt: Arapiles
 
 	Night climbing at Mt Arapiles
 
@@ -49,6 +51,7 @@ The study *Evidence of Heuristic traps in recreational avalanche accidents* by I
 + “Risk Homeostasis”, our risk appetite/tolerance is fairly stable in the short term. Advances in risk management technology or technique which are considered to reduce risk in our activities result in us deciding to undertake correspondingly riskier activities in order to maintain this appetite that satisfies our cravings.
 
 .. figure:: {photo}NightAppeal/20160708_195321_2.jpg
+	:alt: Mt Buller
 	
 	Mt Buller as seen from Mt Stirling
 

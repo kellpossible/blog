@@ -15,6 +15,7 @@ waiting for my friends to arrive.
 .. figure:: {photo}BullerWestRidge2016/20160807_120205.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: West Ridge
 
 I had managed to break my phone that day
 while on a day trip to Mt Stirling with MUMC and MUSKI, and now the 

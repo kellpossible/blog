@@ -119,3 +119,7 @@ p.exif-data {
 a.reference.external {
   color: #428bca;
 }
+
+.pagination .pagination-numbers {
+  color: black;
+}
