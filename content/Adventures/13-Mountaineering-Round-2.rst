@@ -7,9 +7,7 @@ Mountaineering Round 2
 :gallery: {photo}MountaineeringCourse
 :image: {photo}MountaineeringCourse/20141222_062454.jpg
 :dropcap: A
-
-
-
+:status: draft
 
 Plans
 Reality - Conditions

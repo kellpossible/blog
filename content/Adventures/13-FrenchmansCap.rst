@@ -88,8 +88,8 @@ to a drop at the end after climbing it.
 After reaching my turn-back time of
 4pm, I decided to drop down one of the gulleys to the right, which I could see 
 led to easy ground. Little streams ran down the gulleys, and a morraine runout
-reminded me of New Zealand. I forgot to look back at where I had come down,
-but the best guess is maybe I made it half way to the summit track.
+reminded me of New Zealand. I forgot to keep track of where I had come down,
+but the best guess from the photo is maybe I made it 1/2 to 1/3 of the way to the summit track.
 
 
 
