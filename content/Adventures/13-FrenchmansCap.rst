@@ -5,7 +5,7 @@ Frenchman's Cap
 :author: Luke Frisken
 :slug: adventures/frenchmans-cap
 :gallery: {photo}FrenchmansCap2016/
-:image: {photo}FrenchmansCap2016/20170103_144142_3.jpg
+:image: {photo}FrenchmansCap2016/20170103_144142.jpg
 :dropcap: W
 
 ith the Christmas/New Year period shutdown at work, there was

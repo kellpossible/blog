@@ -55,6 +55,8 @@ PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = False
 PHOTO_WATERMARK_TEXT = "Copyright Luke Frisken"
 PHOTO_WATERMARK_IMG = ''
+PHOTO_EXIF_KEEP = True
+PHOTO_EXIF_AUTOROTATE = True
 
 # Better Figures and Images
 

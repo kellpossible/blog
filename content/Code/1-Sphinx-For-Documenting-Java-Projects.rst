@@ -4,7 +4,7 @@ Sphinx For Documenting Java Projects
 :date: 2017-01-28 11:00
 :author: Luke Frisken
 :slug: code/sphinx-for-documenting-java-projects
-:image: {photo}Sphinx/FinalYearProject1.png
+:image: {photo}Sphinx/FinalYearProject1.jpg
 :dropcap: L
 
 ast year I had the pleasure of using Sphinx for documenting my final
