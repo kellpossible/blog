@@ -11,6 +11,7 @@ MUMC and Mountaineering
 bored engineering student watching videos on his computer during summer break experienced that phenomenon so often attributed to wasting time on the YouTube website. One minute I was learning how to assemble a remote control aircraft, the next I got hooked watching paragliding videos, and finally I reached the channel of an individual who went on multi-day excursions, including climbing up into hostile New Zealand alpine terrain and launching from its peaks. 
 
 .. figure:: {photo}MUMCMountaineering/20111207_110852.jpg
+	:alt: family holiday
 
 	New Zealand mountains on a family holiday
 
@@ -34,6 +35,7 @@ The next few months I threw myself wholeheartedly into getting the experience ne
 .. figure:: {photo}MUMCMountaineering/20140412_111836.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Richard belaying
 
 	Richard belaying with style at Werribie Gorge
 
@@ -46,6 +48,7 @@ Dale (Stu's partner) and Gaetan (the current club mountaineering officer) were o
 On the way home from the Banff film festival I spotted someone who I recognised as a friend of a friend. An older fellow, who, back in the day, I was told, had been a mountaineer in South America, but had stopped after some of his partners died in a climbing accident. I approached him, and was curious to see what his views might be if I told him I had joined MUMC to go mountaineering. What he said, I cannot remember exactly, but it shook my confidence, and began to make me question my motivations. Stu, right in our first conversation had said that people die mountaineering, and you have to be willing to accept that possibility if you want to do that. I don't think one can ever understand precisely what this means. I thought I understood it, but I since realise that I didn't.
 
 .. figure:: {photo}MUMCMountaineering/20140531_130722.jpg
+	:alt: onsight or flight
 
 	The "Onsight or Flight" weekend at Mt Arapiles
 
@@ -59,12 +62,14 @@ My first lead climb and my first lead fall occured on Stu's annual *"Onsight or 
 .. figure:: {photo}MUMCMountaineering/20140622_150818.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: multipitch lead
 
 	My first multipitch lead
 
 The first multipitch climb that I lead was out at the Cathedral Ranges. I went with a friend who had never climbed before. In retrospect, this was a mistake, because although I was fairly confident about my own ability to do the climb safely and to teach him to belay, my partner would not have had the skills to deal with a scenario should I fall and be injured. We had a great time, but lesson learned.
 
 .. figure:: {photo}MUMCMountaineering/20140906_134659.jpg
+	:alt: egil first multipitch lead
 
 	Egil on his first multipitch lead at the Cathedral Ranges
 
@@ -74,6 +79,7 @@ Mountaineering Course
 .. figure:: {photo}MUMCMountaineering/20141213_094334.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: morning walk
 
 	Nice morning for a walk
 
@@ -81,6 +87,7 @@ Mountaineering Course
 The morning I arrived in New Zealand, I took a connecting flight out to Queenstown. I had planned to do a single day of a paragliding course, just to see what it was like. Mistaking the accent of the taxi driver at the airport, I accepted his charge of "fifteen dollars" for the drive out to the course location. Bouncing along the country road I glanced at the cost counter and saw that it was already at 30 dollars, oh dear, I asked to be let out right then and he was kind enough to give me the fare I had anticipated. Walking along the road I had little luck hitching a ride, probably something to do with the ice axes on the backpack. So I legged it on over the kilometers to the paragliding field. It was a brilliant day, the sun was shining and there was a little bit of wind.
 
 .. figure:: {photo}MUMCMountaineering/20141213_140945.jpg
+	:alt: paragliding lessons
 
 	Paragliding lessons
 
@@ -90,7 +97,8 @@ The next day I was on a bus and heading over to the west coast to Fox for the mo
 
 I hope to cover the mountaineering course, and its content more in a different post, but suffice to say we had a great time. It was fortunate that our group had the opportunity to interact with our guide, and train and climb together before heading over to New Zealand before the course. We all got a lot out of it, and have all been on subsequent trips up into the mountains. 
 
-.. figure:: {photo}MUMCMountaineering/10952542_885597678129116_2350276163205895008_n.jpg
+.. figure:: {photo}MUMCMountaineering/10952542_885597678129116_2350276163205895008.jpg
+	:alt: mountaineering course minarets
 
 	the mountaineering course participants on top of the Minarets. Photo credit - Stu
 
@@ -104,6 +112,7 @@ Jules and myself were stuck in Christchurch on Christmas day. We decided that we
 .. figure:: {photo}MUMCMountaineering/20141225_114908.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: walking into clouds
 
 	Walking up into the clouds
 
@@ -112,6 +121,7 @@ Arriving at the start of the walking track, all the hills above us were covered 
 .. figure:: {photo}MUMCMountaineering/20141225_122258.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: abseiling
 
 	Abseiling
 
@@ -125,7 +135,8 @@ I had understood these things in theory, but it took a practical mistake to high
 We ended up finding a fun trad line, and wondering how half the cliff face had managed to roll down the hill, taking with it many climbs, presumably as a result of the earthquake.
 
 .. figure:: {photo}MUMCMountaineering/20141225_144139.jpg
-	
+	:alt: climbing Christchurch
+
 	Climbing above Christchurch
 
 Mountaineering Camp
@@ -137,6 +148,7 @@ Arrival
 .. figure:: {photo}MUMCMountaineering/20141227_130044.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: museum mt cook park model
 	
 	The model of the park in the museum
 
@@ -148,18 +160,21 @@ In Cook Village we took the liberty to check out the climbing museum, highly rec
 .. figure:: {photo}MUMCMountaineering/20141228_121730.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: rogue potatoes
 
 	Rogue potatoes
 
 With food boxes re-packed, two helicopter flights up to Tasman saddle hut ensued the next good weather morning. I was on the second flight in. The helicopter landed on the glacier in the the saddle above the hut. A number of "rogue" potatos escaped their bag and had to be retrieved. Stu had told us enough stories about people tripping, falling, sliding and dying next to the huts that we were all on guard while ferrying our goods into the hut down below. For the entire time we were there, we were the sole occupants of Tasman Saddle Hut, a very lucky and happy turn of events.
 
 .. figure:: {photo}MUMCMountaineering/20141229_054606.jpg
-
+	:alt: Mt Aylmer summit
+	
 	Summit of Mt Aylmer
 
 .. figure:: {photo}MUMCMountaineering/20141229_085540.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Hochstetter Dome
 
 	Hochstetter Dome
 
@@ -174,6 +189,7 @@ Every evening back in the hut, as a way to encourage safe climbing, a flouro "sa
 A traverse of the ridge between Mt Annan and Mt Abel and a rock climb near Mt Abel were the material for the following days. On the traverse we noticed our friends about to arrive in the saddle below us, so, assured they were in good humour and safe, we snuck up and threw snowballs at them.
 
 .. figure:: {photo}MUMCMountaineering/20150101_063606.jpg
+	:alt: on traverse
 
 	On the traverse
 
@@ -186,6 +202,7 @@ Back in the hut, Dale and Stu had returned from their attempt on Elie De Beaumon
 .. figure:: {photo}MUMCMountaineering/20150102_052744.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: first pitch
 
 	The first pitch
 
@@ -198,6 +215,7 @@ Here we came across a problem: what we expected to be a nice, clean snow slope, 
 After spotting me retreat to a safe spot, Richard resumed. A couple more rocks went sliding by and down over the lip of the schrund, and I half expected to see Richard join them. The sun was out and it was a beautiful morning, curled up on that ledge with a great view of the Tasman Valley and Mt Cook. I know not how much later, but was surprised to hear a friendly voice call up to me from the slope. I stretched to look down, and it was Richard, casually walking down, sounding unconcerned. I think we both had a laugh! (or at least I do feel like laughing about it now!)
 
 .. figure:: {photo}MUMCMountaineering/20150102_114541.jpg
+	:alt: rockfall
 
 	The rockfall
 
@@ -207,6 +225,7 @@ Nutella Wars
 .. figure:: {photo}MUMCMountaineering/20141218_104901.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: nutella
 
 	Keen for Nutella in the mountains
 
@@ -220,6 +239,7 @@ Storm Days
 .. figure:: {photo}MUMCMountaineering/20141230_130154.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: entertainment
 
 	Storm day entertainment
 
@@ -237,6 +257,7 @@ Malte Brun
 When the weather cleared, Stu and Dale headed out for an afternoon slog over to the Bonney Glacier to camp next to Rumdoodle for an ascent of Malte Brun. We were all amused at the prospect of hearing them radio in from that location for the 7pm radio sched. I teamed up with Tom and Gaetan, and early in the morning we all evacuated the hut and followed in their frozen footprints. The moon was up, and head-torches were uneccessary. Turning the corner into the Darwin Glacier, the sun began to rise just as the moon was setting, with perfect timing. When we reached the Bonney Glacier, ahead we could see Danni and Liv, who we soon overtook just before reaching Stu and Dale's little yellow tent which was perched in the saddle below the mass of Malte Brun.
 
 .. figure:: {photo}MUMCMountaineering/20141216_075047.jpg
+	:alt: west ridge looking up
 
 	Looking up along the West Ridge of Malte Brun. Bonney/Malte col in the center.
 
@@ -257,6 +278,7 @@ Closing Thoughts
 .. figure:: {photo}MUMCMountaineering/20150108_122600.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: walking darwin glacier
 
 	Walking back down the Darwin Glacier
 
@@ -269,6 +291,7 @@ Back in Cook Village at the Hermitage Hotel we all sat down to drinks and relaxa
 Climbing in NZ left me with many oustanding memories to dwell on. I can almost remember every ice screw we placed and every step over a crevasse. This is coming from someone who forgets things all the time!
 
 .. figure:: {photo}MUMCMountaineering/20150108_161447.jpg
+	:alt: drinks at Hermitage
 
 	Drinks back at the Hermitage
 

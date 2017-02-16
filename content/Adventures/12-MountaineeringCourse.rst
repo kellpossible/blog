@@ -98,8 +98,9 @@ Gear Placement
 
 
 .. figure:: {photo}MountaineeringCourse/20141218_142803.jpg
+	:alt: Gear Placement
 
-   Gear placement with few nuts may require creativity
+	Gear placement with few nuts may require creativity
 
 
 + While climbing easy routes, the best option is just not to fall. Place the minimum gear required to prevent death, and allow you to move quickly and efficiently.
@@ -141,6 +142,7 @@ with the strong climber behind, if someone falls off to one side,
 the other person jumps over the other, and the rope catches them in the middle.
 
 .. figure:: {photo}MountaineeringCourse/20141222_032206.jpg
+	:alt: short roping
 
 	Stu short-roping with James and Anja on the Minarets
 
@@ -191,6 +193,7 @@ Abseiling
 ~~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141223_061406.jpg
+	:alt: abseiling
 
 	Abseiling with a fireman's belay onto the Fox Glacier
 
@@ -316,6 +319,7 @@ Walking in Crampons
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141215_111508.jpg
+	:alt: crampon practice
 
 	Practicing in crampons on the first day
 
@@ -403,6 +407,7 @@ Rockfall
 ~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141223_043351.jpg
+	:alt: rockfall
 
 	Stu walking back after checking out the major rockfall in the pass (out of frame to the left)
 
@@ -428,8 +433,9 @@ Rock Climbing in Crampons
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141218_131758.jpg
+	:alt: climbing in crampons
 
-   They make horrible noises
+	They make horrible noises
 
 
 Rock Climbing in Mountain Boots
@@ -449,8 +455,9 @@ Placing Snow Stakes
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141215_124013.jpg
-
-   Stu showing us how to place snow stakes correctly
+	:alt: snow stakes
+	
+	Stu showing us how to place snow stakes correctly
 
 Ice Screws
 ~~~~~~~~~~
@@ -467,9 +474,10 @@ Crevasse Rescue
 ~~~~~~~~~~~~~~~
 
 .. figure:: {photo}MountaineeringCourse/20141218_074237.jpg
+	:alt: snow stake anchor
 
-   Jules practicing building an anchor after holding a fall 
-   (I ran down the hill at full pelt)
+	Jules practicing building an anchor after holding a fall 
+	(I ran down the hill at full pelt)
 
 
 

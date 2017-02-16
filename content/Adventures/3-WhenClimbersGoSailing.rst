@@ -11,6 +11,7 @@ When Climbers Go Sailing
 air-weather sailing is underrated. As we nosed our way into the Bass Strait and waves began to wash over the deck, I couldn't help but ponder the truth in the words from our skipper.  Sailing in good weather, I have discovered, leaves plenty of time for reflection between brief moments excitement. As we journey under the darkening sky, out into the willowing sea I begin to wonder what sailing in bad weather is like…
 
 .. figure:: {photo}WhenClimbersGoSailing/20150127_170731.jpg
+	:alt: First lunch on board
 	:align: right
 	:figwidth: 40%
 
@@ -26,6 +27,7 @@ Our first night of the journey was spent in Oyster Cove near Kettering. French e
 There are a lot more houses and roads there these days, but still to come were the hundreds of kilometers of virtually untouched wilderness coastline in South West Tasmania, which I think we were all very excited to see first hand.
 
 .. figure:: {photo}WhenClimbersGoSailing/20150127_202632.jpg
+	:alt: Near Kettering
 
 	Near Kettering
 
@@ -39,6 +41,7 @@ Muscles, winding, creaking and flapping. Sails are up for our second leg to Rech
 The third leg of the trip was spectacular. With the wind behind us as we rounded the point and headed north, it was easy sailing, and wave surfing all the way up to Port Davey. The sun was shining, and the coastline put on a show, such as I have never seen before. Jagged rocks of many colours, standing proud amidst the waves slowly passed us by. In the distance, white granite outcrops on impressive inland peaks glittered in the afternoon light. At the far end of Port Davey, an opening like a river, once followed, leads to the improbable expanse of Bathurst Harbour. 
 
 .. figure:: {photo}WhenClimbersGoSailing/20150129_173719.jpg
+	:alt: Outside Port Davey
 
 	Outside Port Davey
 
@@ -47,6 +50,7 @@ While the others set off to explore the tiny settlement of Melaleuca, I stayed b
 .. figure:: {photo}WhenClimbersGoSailing/20150131_141012.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Climbing Mt Stokes
 
 	Climbing Mt Stokes
 
@@ -55,12 +59,14 @@ We spent several days in the vicinity of Port Davey, and on the final day we fou
 .. figure:: {photo}WhenClimbersGoSailing/20150201_183146.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Close eye on depth meter
 
 	Close eye on the depth meter
 
 Sailing north on an early alpine start, and we passed the lights of fishermen braving the waves, almost too close to rocks for my comfort. As we neared the aptly named Hell’s Gates with the tall white lighthouse decorating the horizon, we began to celebrate the return to civilisation. But Peter, who is an airline pilot gave his word of caution, “it’s not over until the wheels are on the tarmac and the engines stop turning”. 30 seconds later, “What the #*@# is that!?” shouts Jack who slams the wheel hard left to avoid an unfortunate encounter with some rocks just under the surface. So small were they that they had not been observed on our map. With hearts still in mouths, we approached the infamous entrance of Hell’s Gates and Macquarie Harbour. The penal station in Macquarie Harbour had the reputation of being the worst in Australia. Prisoners attempted murder, to be tried and hung in order to avoid a return to this place. The channel is narrow, and rocky, so we slowed down to a crawl, and motored through.
 
 .. figure:: {photo}WhenClimbersGoSailing/20150201_175536.jpg
+	:alt: Hell's Gates
 
 	Hell's Gates
 
@@ -70,6 +76,7 @@ Travelling from Strahan to the north coast of Tasmania was to be our first overn
 
 
 .. figure:: {photo}WhenClimbersGoSailing/20150202_202847.jpg
+	:alt: Sunset
 
 	Sunset on the run up the west coast
 
@@ -82,6 +89,7 @@ With a 22 knot wind blowing, it would be lying if I said that the Bass Strait cr
 .. figure:: {photo}WhenClimbersGoSailing/20150203_223217.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Scared sailors
 
 	Scared sailors entering Devonport
 
@@ -90,6 +98,7 @@ The sky was overcast, and as the sun fell below the horizon the world around us 
 .. figure:: {photo}WhenClimbersGoSailing/20150215_114003.jpg
 	:align: right
 	:figwidth: 40%
+	:alt: The Kaileia
 
 	The Kaileia in the Kent Group
 

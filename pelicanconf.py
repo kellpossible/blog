@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Australia/Melbourne'
 
 DEFAULT_LANG = 'en'
 
@@ -29,7 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 15
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -55,6 +55,8 @@ PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = False
 PHOTO_WATERMARK_TEXT = "Copyright Luke Frisken"
 PHOTO_WATERMARK_IMG = ''
+PHOTO_EXIF_KEEP = True
+PHOTO_EXIF_AUTOROTATE = True
 
 # Better Figures and Images
 

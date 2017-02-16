@@ -31,6 +31,7 @@ An attempt was made to reach Wulgulmerang Falls, but we neglected to bring our r
 	:target: /files/maps/LittleRiverGorgeMapA3.pdf
 	:align: right
 	:figwidth: 50%
+	:alt: A3 Map
 
 	A3 Map PDF **(click image to open pdf)**
 
@@ -39,6 +40,7 @@ An attempt was made to reach Wulgulmerang Falls, but we neglected to bring our r
 	:target: /files/maps/LittleRiverGorgeMapA4.pdf
 	:align: right
 	:figwidth: 50%
+	:alt: A4 Map
 
 	A4 Map PDF, 2 pages **(click image to open pdf)**
 

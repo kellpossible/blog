@@ -8,7 +8,6 @@ Mountaineering Round 2
 :image: {photo}MountaineeringCourse/20141222_062454.jpg
 :dropcap: A
 
-
 follow up mountaineering trip to New Zealand, given the success of the
 previous season, was always going to be on the cards. Five of us flew
 over near the new year for 2016, for a couple of weeks climbing up at
@@ -16,13 +15,13 @@ Pioneer hut. I was excited about this trip for the entire year, and it
 was a possibility that we may make an attempt on Mt Tasman, something
 that, if the conditions were favourable, should be within our ability.
 
-Flying in to Pioneer, we looked down and saw the remains of a snowman, and a Happy New Year
-MUMC sign. These were still visible messages from our friends who had spent the
-previous two weeks climbing and mucking about. The logbook was a bit
-of a mystery, filled with what was evidently a clash of emotions and
-personalities. After an afternoon jaunt on the pink cliffs above the
-hut, Jules found the accordion and we were in for a lazy evening of
-banter.
+Flying in to Pioneer, we looked down and saw the remains of a snowman,
+and a Happy New Year MUMC sign. These were still visible messages from
+our friends who had spent the previous two weeks climbing and mucking
+about. The logbook was a bit of a mystery, filled with what was
+evidently a clash of emotions and personalities. After an afternoon
+jaunt on the pink cliffs above the hut, Jules found the accordion and
+we were in for a lazy evening of banter.
 
 After a push up the west ridge of Haidinger, the conditions could
 aptly be referred to as a slop fest, we were all hanging out for a

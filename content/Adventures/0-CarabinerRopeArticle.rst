@@ -5,7 +5,7 @@ Carabiner Damage to Rope
 :author: Luke Frisken
 :slug: adventures/carabiner-rope-damage
 :gallery: {photo}CarabinerRope2014
-:image: {photo}CarabinerRope2014/CarabinerSharpEdge.jpg
+:image: {photo}CarabinerRope2014/carabiner_sharp_edge.jpg
 :dropcap: I
 
 recently had the misfortune of cutting the sheath midway along a brand new rope whilst taking a catching a lead fall while climbing indoors. How might this happen? Climbing gyms are carefully controlled environments. The quickdraws on the wall that get used during lead climbing are likely checked for damage, or excessive wear and replaced on a regular basis. The holds are not sharp, and the climbs are designed in a way which has relatively low rope wear. It’s hard to imagine such a thing happening indoors.

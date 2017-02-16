@@ -17,6 +17,7 @@ When all had arrived at Guthega, I was somewhat surprised by the weight of my pa
 .. figure:: {photo}BlueLake2016/LukeFrisken_BlueLake_20150723_103253.jpg
 	:align: right
 	:figwidth: 50%
+	:alt: Blue Lake Skiing
 
 	Jack negotiating some icy conditions on the traverse around Blue Lake
 
