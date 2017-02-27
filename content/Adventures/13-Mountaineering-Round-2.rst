@@ -1,11 +1,11 @@
 Mountaineering Round 2
 ======================
 
-:date: 2017-01-28 10:00
+:date: 2017-02-27 10:00
 :author: Luke Frisken
 :slug: adventures/mountaineering-round-2
-:gallery: {photo}MountaineeringCourse
-:image: {photo}MountaineeringCourse/20141222_062454.jpg
+:gallery: {photo}MountaineeringRound2
+:image: {photo}MountaineeringRound2/20160120_102022.jpg
 :dropcap: A
 
 follow up mountaineering trip to New Zealand, given the success of the
