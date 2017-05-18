@@ -57,11 +57,53 @@ stubborn bushes at night.
 Starlight Canyon
 -----------------
 
-The drive to Newnes was an interesting one, as the roads were
-exceptionally interesting. Tight corners, big drops, and a short
-tunnel through Jenolan Caves provided plenty to look at as we
+The drive to Newnes the next morning was an interesting one, as the
+roads were exceptionally... interesting. Tight corners, big drops, and
+a short tunnel through Jenolan Caves provided plenty to look at as we
 descended towards the greener low lands before turning off to
 Newnes. The campground at Newnes was very popular, probably all up,
 around 2,000 people staying there that weekend. The cliffs surround
-the campsite, dominating the skyline, and providing an atmosphere that
-will not soon be forgotten.
+the campsite, dominating the skyline; they provide an eye catching
+backdrop.
+
+Near the entrance to the campground I was surprised to see some rather
+large looking rail carriages, with the label of an oil company. It
+seemed like a rather strange location to leave a carriage, and there
+didn't appear to be a railway in sight. Furthermore, it seemed
+unlikely that a railway would even service such a dead end
+location. Walking up the "pipeline" track on the way to Starlight
+canyon, we passed a number of relics from a bygone industrial
+era. Signs indicated that the "pipeline" track had indeed accompanied
+a small oil pipeline, used when the area was subjected to shale oil
+mining. The mystery was answered.
+
+It was getting late in the day, our group split in two, the other
+group going to do Pipeline canyon, and ours, to continue on up and
+over the hill to Starlight canyon. It was almost certain that we would
+be seeing some starlight this evening as we scrub bashed our way down
+the hill. We ended up downstream of our intended entrance to the
+canyon, obviously a common mistake, as demonstrated by the recently
+placed anchor we used enter the deep slot. The transition from bush to
+slot canyon as I abseiled in after the others was startling, having
+never been in a place like that before.
+
+Down there it feels like you've entered another world, with vines
+hanging down from the canopy far above, and snaking about your
+feet. 
+
+Eventually the landscape opened out, and headlamps were turned on. We
+crossed the river at the bottom and walked out along the 4wd
+track.
+
+
+Devil's Pinch Canyon
+---------------------
+
+By far my favourite canyon for the trip was Devil's Pinch, also at
+Newnes, and running almost parallel to Pipeline Canyon. This time we
+made a better effort at navigation and entered the canyon from the
+top. It was interesting to see how the watercourse gradually had its
+effect on the geology downstream.
+
+We entered a constriction, and again abseiled into the slimey and
+narrow depths, the laughter of friends bouncing off the walls. 
