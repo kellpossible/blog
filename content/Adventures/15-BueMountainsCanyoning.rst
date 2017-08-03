@@ -1,13 +1,12 @@
 Blue Mountains Canyoning
-======================
+=========================
 
 :date: 2017-05-04 10:00
 :author: Luke Frisken
 :slug: adventures/blue-mountains-canyoning
 :gallery: {photo}BlueMountainsCanyoning
-:image: {photo}BlueMountainsCanyoning/0.jpg
+:image: {photo}BlueMountainsCanyoning/20170416_172609_1.jpg
 :dropcap: T
-:status: draft
 
 his Easter, I made the long car drive journey up to New South Whales
 to join in the annual pilgrimage to go canyoning in the Blue
@@ -100,10 +99,48 @@ Devil's Pinch Canyon
 ---------------------
 
 By far my favourite canyon for the trip was Devil's Pinch, also at
-Newnes, and running almost parallel to Pipeline Canyon. This time we
-made a better effort at navigation and entered the canyon from the
-top. It was interesting to see how the watercourse gradually had its
-effect on the geology downstream.
+Newnes. Devil's pinch runs almost parallel to Pipeline Canyon. This
+time we made a better effort at navigation and entered the canyon from
+the top. Our second group accompanied us up for the walk, and split
+off to Pipeline along the way. It was interesting to see how the
+watercourse gradually had its effect on the geology downstream. 
 
 We entered a constriction, and again abseiled into the slimey and
 narrow depths, the laughter of friends bouncing off the walls. 
+
+Out the other end we made it just in time for sunset. I was glad I
+decided not to drink the water in the canyon as we passed a dead
+kangaroo who had fallen to an unfortunate death during our final abseil
+down the waterfall!
+
+
+Grand Caynon
+--------------
+
+The final canyon for the trip was Grand Canyon, near Blackheath I
+think. To enter the canyon, you travel along an extremely popular
+tourist track. It feels rather strange to drop down into the canyon
+with many onlookers, to find the place picture perfect and all to
+yourself. The voices of the hoards of tourists drowned out by the
+water gurgling down below.
+
+This canyon was a lot of fun and I would recommend it to beginner
+canyoners as it seemed fairly simple, the first abseil being the only
+major problem spot, and even this is bolted and clearly sign posted
+next to the walking track.
+
+After the final cold swim win wonder-land, our re-entrance to
+civilization was marked by the discovery of faeces and toilet paper
+sitting on a rock, just round the corner from the tourist track.
+
+I can't wait for next year to come around, and another fun Easter
+canyoning trip in the Blue Mountains!
+
+
+Short Film
+-----------
+
+I made a short film about the trip which can be found on youtube here:
+`Blue Mountains Canyoning Easter 2017`_ 
+
+.. _Blue Mountains Canyoning Easter 2017: https://youtu.be/r3WmqtEVpt0
