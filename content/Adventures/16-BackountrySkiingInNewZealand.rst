@@ -1,5 +1,5 @@
 Backcountry Skiing in New Zealand
-=================================
+=======================================================================
 
 :date: 2017-08-03 10:00
 :author: Luke Frisken
@@ -36,6 +36,9 @@ interested in participating.
 
 New Skis
 -------------------------------------------------------------------------------
+
+This section is rather dry, and more stands for a reference for those
+searching for information on the same products, feel free to skip!
 
 In the lead up to the trip, I decided to buy a new pair of skis.
 My current pair was a Fischer S-Bound 98 ski. Interestingly, Fischer have
@@ -91,4 +94,35 @@ with surprise, was that the new skis, were lighter than my telemark setup.
 The Fischer skis are very light, but the hunk of metal that is the 7TM 
 binding pretty much ways more than the entire ski!
 
-Throughout the entire trip, the new setup performed admirably.
+Being only the second pair of skis that I have owned, or used for a
+significant amount of time, I don't really feel qualified to pass
+judgement in a comprehensive review. The bindings had no failures,
+and only got iced up on one occasion. The skis themselves were
+comfortable in every snow condition we encountered (ice, powder,
+hard packed powder, etc). The boots, one of the rivets that holds
+the power strap in place popped out because I was walking around without
+it done up and it got caught on something.
+
+Flock Hill Station
+---------------------------------------------------------------------------
+
+Dobson
+--------------------------------------------------------------------------
+
+Mueller Hut Bivvy
+--------------------------------------------------------------------------
+
+Ohau
+--------------------------------------------------------------------------
+
+Wanaka
+--------------------------------------------------------------------------
+
+Pisa Range
+--------------------------------------------------------------------------
+
+Remarkables
+--------------------------------------------------------------------------
+
+Temple Basin
+--------------------------------------------------------------------------
