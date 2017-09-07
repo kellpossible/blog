@@ -40,6 +40,8 @@ New Skis
 This section is rather dry, and more stands for a reference for those
 searching for information on the same products, feel free to skip!
 
+TODO: move this section to its own article.
+
 In the lead up to the trip, I decided to buy a new pair of skis.
 My current pair was a Fischer S-Bound 98 ski. Interestingly, Fischer have
 enguaged in some misleading marketing, the sidecut of these skis is really
@@ -92,7 +94,7 @@ Dynastar Cham 98 2.0 skis, with Dynafit TLT Radical ST 2.0 bindings and
 the bright green Dynafit Winter Guide boots. The first thing I noticed,
 with surprise, was that the new skis, were lighter than my telemark setup.
 The Fischer skis are very light, but the hunk of metal that is the 7TM 
-binding pretty much ways more than the entire ski!
+binding pretty much weighs more than the entire ski!
 
 Being only the second pair of skis that I have owned, or used for a
 significant amount of time, I don't really feel qualified to pass
@@ -105,6 +107,18 @@ it done up and it got caught on something.
 
 Flock Hill Station
 ---------------------------------------------------------------------------
+
+On Friday we all departed from Melbourne on a red-eye flight to arrive out at 
+Christchurch international about 5am the next morning. 
+
+Sam, Julian and myself were to be borrowing a friend's car which he keeps
+on another friend's parent's property in Christchurch. The Dad, who works
+at Christchurch airport very kindly offered to bring the car to meet us
+in the morning, which was the same time when he started his shift! So
+there it was sitting in the carpark at the airport. *"I've had a little trouble
+starting the engine this morning, I think the battery is a bit flat*"
+
+After a quick round up of shopping and visiting the outdoor stores, 
 
 Dobson
 --------------------------------------------------------------------------
