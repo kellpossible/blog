@@ -65,3 +65,5 @@ RESPONSIVE_IMAGES = True
 # Disqus
 
 DISQUS_SITENAME = "lukefrisken"
+
+DISPLAY_PAGES_ON_MENU = True

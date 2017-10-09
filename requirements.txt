@@ -1,3 +1,4 @@
 piexif
 pelican_vimeo
 Pillow
+pelican
