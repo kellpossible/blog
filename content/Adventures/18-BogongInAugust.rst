@@ -26,11 +26,10 @@ skinning, but it was managed in the end.
 
 We sat and ate lunch, and the cloud began to close in. I had been
 hoping we could take a look at the gully to the West of Staircase
-(Devil's Door?), but descending from the summit with 5m
-visibility, something along the lines of *"this is bad
-isn't it?" "yes it is bad!*, we turned
-around before it got steep and made a beeline down the south face
-instead.
+(Devil's Door?), but descending from the summit with 5m visibility,
+something along the lines of *"this is bad isn't it?" "yes it is
+bad!"*, we turned around before it got steep and made a beeline down
+the south face instead.
 
 With clouds drifting in and out, we spent the afternoon on a
 surprising amount of secretly stashed fluffy stuff.
@@ -178,7 +177,3 @@ conversation with your partners about snow conditions (and route
 selection) as you notice them a more difficult affair. It's
 certainly been worthwhile chatting and debriefing with each other, so
 much to learn from such experiences!
-
-Thinking about doing a write up about an avalanche course and some
-backcountry trips did in New Zealand this winter too at some stage if
-I get the time.
