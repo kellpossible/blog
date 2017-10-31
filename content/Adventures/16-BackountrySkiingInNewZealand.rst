@@ -79,7 +79,7 @@ with a brief introduction, then straight out into the field. The
 weather was due to close in, and it was looking unlikely that we would
 be able to get out the next day.
 
-So we drove to the nearby ski field of Mt Cheeseman. Al had procured a
+We drove to the nearby ski field of Mt Cheeseman. Al had procured a
 key to the gate to allow us access, as the field had not yet opened
 for the season. Driving up the track, I couldn't help but admire the
 feeling that dark green trees on either side gives as the morning sun
@@ -134,12 +134,13 @@ tranceiver buried during the demonstrations and had to rush all the
 way back up the hill again to retrieve it!
 
 That night we were to stay at Flock Hill in their backpacker's
-accommodation. Tim the manager explained that "a big storm" was due to
-hit that week, and it seemed likely we would be stuck there, possibly
-without power, and he was happy for us to cancel. Perhaps he was
-surprised at how excited we all were at the prospects of being stuck
-in a snow storm. We explained we all had our own stoves and food for
-snow camping so we would be able to cope just fine.
+accommodation. Tim the manager explained that big snow storm from the
+South was due to hit that week, and it seemed likely we would be stuck
+there, possibly without power, and he was happy for us to
+cancel. Perhaps he was surprised at how excited we all were at the
+prospects of being stuck in a snow storm. We explained we all had our
+own stoves and food for snow camping so we would be able to cope just
+fine.
 
 The next morning we were brought into Anna's house in the Castle Hill
 village. The hall was being used by another group, and the impending
@@ -150,7 +151,7 @@ look outside at the changing weather, and conduct some more tranceiver
 practice.
 
 That evening, we had a great snow fight as big snow flakes covered
-Flock Hill. A number of people pulled in during the night, taking
+Flock Hill. A number of travellers pulled in during the night, taking
 refuge from the storm as the roads became impassable. They obviously
 didn't read the weather report, or decided to risk it. I'm sure the
 tourists were on a schedule to get back to Christchurch for their
@@ -215,10 +216,10 @@ down to a bridge. But we were too tired to think clearly, and jumped
 out and put up our tent.
 
 In the morning we were woken by a loud diesel tractor engine, and a
-door slam. "You fellows alive in there?" shouts a friendly voice over
+door slam. "You fellas alive in there?" shouts a friendly voice over
 the motor. A few mumbles as we wake up serves as an answer. Again the
 friendly voice: "It was minus 11 last night, you must be cold!", and
-this time I replied "Thankfully we have warm sleeping bags, so we're
+this time I replied "We have warm sleeping bags, so we're
 alright!". "I just need you fellas to move your car, it's in the way
 of the snow plow, oh and by the way you're camped on my land", oh dear
 what a mistake "Sorry sorry! we got confused!". "That's okay, but I do
@@ -232,13 +233,13 @@ have to hill start it".
 We gave the car a push, but the tires slipped, and the engine wouldn't
 turn. We ended up getting into position to block the bridge. The
 single lane road was the only way in or out of the area, a poor place
-to fail to push start! The man grabbed a rope out of his tractor and
-pulled us backwards to attempt a backwards push start, but again the
-tires lacked the traction required. He jumped out, and walked over,
-the look of incredulity still yet magnified. "You've got jumper
-leads?" "No sorry". A grumble about pulling tourists out of his
-property and that his cables were with his car, drove off with his
-tractor to collect his car.
+to fail to push start! The man found a rope in his tractor and pulled
+us backwards to attempt a backwards pull start, but again the tires
+lacked the traction required. He jumped out, and walked over, the look
+of incredulity still yet magnified. "You've got jumper leads?" "No
+sorry". A grumble about pulling tourists out of his property and that
+his cables were with his car, drove off with his tractor to collect
+his car.
 
 As he sets up for the jump start he asks us some more questions. "So
 this is all very well, but you've got snow chains don't you?". A
@@ -347,19 +348,55 @@ and off again, the steering appeared appeared to regain function and
 we were on our way again, with a lot more caution! Our new friends
 deposited us in Fairlie and continued on their way up to Fox Peak
 where they were spending the night, even offering to take us there to
-spend the night, but we insisted on staying in Fairly to hunt down a
-mechanic in the morning.
+spend the night, but we insisted on staying in Fairly to get our car
+fixed sooner.
 
 
-Stuck in Fairly
+Stuck in Fairlie
 ---------------------------------------------------------------------
 
+Major frustration. We had landed ourselves with a weathered, cranky
+mechanic who didn't have the skills to fix the problem with our car.
+He was waiting on his auto electrician who was sick, we would be stuck
+in Fairlie yet another day! He did drop a little hint about it being
+related to the imobilizer. So I did some searching on the internet and
+figured out we could probably disable it if we looked for the method
+in the manual. Sure enough, the incantation instructions required was
+right there in the glovebox!
 
 
 Mueller Hut Bivvy
 ----------------------------------------------------------------------
 
-Climbing in the morning
+On the road again, our next destination was Cook National Park, the
+segment of the trip I was most looking forward to. Much has been
+written about the alure of the bigger mountains; they certainly still
+have their hold on me. 
+
+While we were shopping for food I gave Simon, the Unwin Lodge warden a
+call to check there would be room for us there that night. As you
+drive up the road to Mt Cook the ranges on either side close in upon
+you, and they grow taller and taller.
+
+First port of call was the Mt Cook village, to find a guide who would
+be willing to give us some intel on the conditions up on the
+glacier. Our fears were confirmed, the crevasses were still gaping and
+very dangerous. Plan B was a trip up to Muller Hut, the guide didn't
+sound so enthusiastic about that idea either with regards to the
+avalanche conditions.
+
+We made ourselves comfortable in the familiar Unwin Lodge. "Hi you're
+Simon right?" "Yes, give me money" his blunt reply. As the evening
+wore on and perhaps because he figured we were there for climbing,
+Simon gave us some friendly advice for our planned trip up to Muller
+Hut the next day.
+
+In the morning we checked the avalanche forecast again, and the danger
+level for our intended route had dropped to moderate. The weather
+forecast was for today to be cloudy, and for tomorrow to be sunny, the
+the following day the weather would begin to close in again. Sam and
+Julian wanted to get some climbing done at Sebastopol Bluffs, so I
+chilled inside until they returned. 
 
 muller hut leaving at lunch
 
