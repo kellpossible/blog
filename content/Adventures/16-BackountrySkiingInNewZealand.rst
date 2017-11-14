@@ -386,7 +386,7 @@ sound so enthusiastic about that idea either with regards to the
 avalanche conditions.
 
 We made ourselves comfortable in the familiar Unwin Lodge. "Hi you're
-Simon right?" "Yes, give me money" his blunt reply. As the evening
+Simon right?" "Yes, give me money" came his blunt reply. As the evening
 wore on and perhaps because he figured we were there for climbing,
 Simon gave us some friendly advice for our planned trip up to Muller
 Hut the next day.
@@ -398,9 +398,61 @@ the following day the weather would begin to close in again. Sam and
 Julian wanted to get some climbing done at Sebastopol Bluffs, so I
 chilled inside until they returned. 
 
-muller hut leaving at lunch
+By the time we had parked the car in the village, and unpacked, it was
+already nearing mid-day, but the weather, while cloudy, was
+pleasant. There was snow all the way down to the village, and we were
+able to step into our skis right away!
 
-we had talked to helicopter pilot day before
+The stairs on the track up to Muller Hut, as we had been warned by DOC
+were filled in with snow and ice, making climbing them a
+challenge. Progress was slower than we would have liked, reaching
+Sealy Tarns by about 2-3pm. We were carrying enough mountaineering
+gear for a protected climb of Mt Sealy if we got the chance, I was
+definitely regretting it by that stage. Solo it or don't plan to do it
+next time I think! The snow at the tarns was dense and a little moist,
+I intended to dig a pit at the slope just above the tarns,
+representative of what we would spend the rest of the day
+climbing. Julian protested "We don't have time to dig a pit", I
+replied, "If we don't have time to dig a pit, maybe we shouldn't be
+going!", he agreed I think, but retrospectively we were both right! I
+dug a pit and got some encouraging results, so we continued on our
+way.
+
+The advice from DOC was that we should be able to find a route on
+climbers right which avoids most of the avalanche terrain. We
+attempted to follow this advice, snaking our way up the hill, and for
+the most part it worked, but as we neared the top, it became evident
+that it was going to be too rocky to crest the top without pulling out
+ropes. Daylight was running out, we were getting tired. I was
+exploring above on a slope where the snow conditions were evidently
+different to where we dug our pit 300 or so meters below at the
+tarns. It was not a good feeling in the stomach, so I backed off, and
+we decided to traverse across to where the summer walking track goes
+up.
+
+By the time we reached the gulley where the walking track reaches the
+ridge line it was well and truely dusk. Squeezed between two layers of
+cloud, the scene presented to us was certainly an interesting one. We
+had two choices, accept defeat and attempt to find a place to spend
+the night comfortably, or continue on up the final slope in the
+dark. Even though we were really only a short distance to the hut, and
+it was increadibly tempting, I'm proud of our decision to turn
+around. We weren't willing to take the time to properly test the steep
+(and arguably most dangerous) slope above us, we were tired, it was
+getting dark, all the signs saying we needed to take things
+conservatively.
+
+Sam and Jules sped down the mellow terrain immediately below us
+scoping out rocks and wind drifts for shelter opportunities while I
+fumbled around and took a little tumble while attempting to ski in
+tour mode (lesson learned: don't attempt this when you're tired and
+carrying a heavy backpack!!). I cornered a large boulder to find the
+other two excitedly exploring a small cave. A few shovels of snow
+enabled entry to the area beneath the boulder. The floor was uneven,
+and the roof only a few feet high, so I opted to dig a snow
+cave/platform in the drift at the entrance, while the other two made
+themselves cosy on the rocks. 
+
 
 
 Ohau
