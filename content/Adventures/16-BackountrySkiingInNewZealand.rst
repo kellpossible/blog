@@ -365,7 +365,7 @@ in the manual. Sure enough, the incantation instructions required was
 right there in the glovebox!
 
 
-Mueller Hut Bivvy
+Mueller Hut Adventures 
 ----------------------------------------------------------------------
 
 On the road again, our next destination was Cook National Park, the
@@ -447,11 +447,21 @@ scoping out rocks and wind drifts for shelter opportunities while I
 fumbled around and took a little tumble while attempting to ski in
 tour mode (lesson learned: don't attempt this when you're tired and
 carrying a heavy backpack!!). I cornered a large boulder to find the
-other two excitedly exploring a small cave. A few shovels of snow
-enabled entry to the area beneath the boulder. The floor was uneven,
-and the roof only a few feet high, so I opted to dig a snow
-cave/platform in the drift at the entrance, while the other two made
-themselves cosy on the rocks. 
+them excitedly exploring a small cave. A few shovels of snow enabled
+entry to the area beneath the boulder. The floor was uneven, and the
+roof only a few feet high, so I opted to dig a snow cave/platform in
+the drift at the entrance, while the other two made themselves cosy on
+the rocks.
+
+This is our first unplanned bivy, and it makes me realise how much
+easier it is to make the decision when you're carrying the gear to
+make it comfortable. An interesting dichotomy, as the extra gear
+probably slowed us down, partly contributing to our trouble.
+
+In the morning we dug a couple of snow pits outside our shelter to
+discover that we had good reason to be concerned, the results of the
+compresssion tests did little to assure us that the slope above would
+have been fine.
 
 
 
