@@ -224,8 +224,8 @@ alright!". "I just need you fellas to move your car, it's in the way
 of the snow plow, oh and by the way you're camped on my land", oh dear
 what a mistake "Sorry sorry! we got confused!". "That's okay, but I do
 need you to move your car". We sheepishly crawled out of the tent and
-made our way over to the car. This was all the more embarassing have a
-good idea about what was to come when we were to start the car. The
+made our way over to the car. This was all the more embarassing having
+a good idea about what was to come when we were to start the car. The
 key turned and the motor hardly made a sound. The look of incredulity
 grew on the farmer's face, "I'm sorry we have a flat battery! We'll
 have to hill start it".
@@ -291,17 +291,17 @@ peak out of our minds, and we continued over to the top of the
 chairlift on the south side.
 
 Here we ran into our skeptical ski patroller again. He seemed a little
-surprised and thanked us, but did not consider the results unexpected,
-saying that there had been a slide on this same slope before (taking
-out a cat machine or something if I recall correctly?). Considering
-how many people were walking across it, perhaps it was stable, but
-having that many people testing didn't seem like the greatest idea to
-me! And so we continued on our traverse of the ridge line to end up at
-the weather station above our car. The wind was picking up, and we
-sheltered behind an old fridge (what the heck was a fridge doing up
-here?) while we took our skins off. Julian struck a rock with his skis
-on the way down, but apart from that, it was an exciting and fun
-descent.
+surprised about our snow report and thanked us, but did not consider
+the results unexpected, saying that there had been a slide on this
+same slope before (taking out a cat machine or something if I recall
+correctly?). Considering how many people were walking across it,
+perhaps it was stable, but having that many people testing didn't seem
+like the greatest idea to me! And so we continued on our traverse of
+the ridge line to end up at the weather station above our car. The
+wind was picking up, and we sheltered behind an old fridge (what the
+heck was a fridge doing up here?) while we took our skins off. Julian
+struck a rock with his skis on the way down, but apart from that, it
+was an exciting and fun descent.
 
 Back at the car, I knew something was up when the central locking
 didn't work. "That's strange!?". I turned the key in the ignition, no
@@ -348,8 +348,8 @@ and off again, the steering appeared appeared to regain function and
 we were on our way again, with a lot more caution! Our new friends
 deposited us in Fairlie and continued on their way up to Fox Peak
 where they were spending the night, even offering to take us there to
-spend the night, but we insisted on staying in Fairly to get our car
-fixed sooner.
+join them, but we insisted on staying in Fairly to get our car fixed
+sooner.
 
 
 Stuck in Fairlie
@@ -431,16 +431,16 @@ we decided to traverse across to where the summer walking track goes
 up.
 
 By the time we reached the gulley where the walking track reaches the
-ridge line it was well and truely dusk. Squeezed between two layers of
-cloud, the scene presented to us was certainly an interesting one. We
-had two choices, accept defeat and attempt to find a place to spend
-the night comfortably, or continue on up the final slope in the
-dark. Even though we were really only a short distance to the hut, and
-it was increadibly tempting, I'm proud of our decision to turn
-around. We weren't willing to take the time to properly test the steep
-(and arguably most dangerous) slope above us, we were tired, it was
-getting dark, all the signs saying we needed to take things
-conservatively.
+ridge line it getting on dusk. Squeezed between two layers of cloud,
+the scene presented to us was certainly an interesting one. We had two
+choices, accept defeat and attempt to find a place to spend the night
+comfortably, or continue on up the final slope in the dark. Even
+though we were really only a short distance to the hut, and it was
+increadibly tempting, I'm proud of our decision to turn around. We
+weren't willing to take the time to properly test the snow pack before
+climbing the steep (and arguably most dangerous) slope above us, we
+were tired, it was getting dark, all the signs saying we needed to
+take things conservatively.
 
 Sam and Jules sped down the mellow terrain immediately below us
 scoping out rocks and wind drifts for shelter opportunities while I
@@ -459,27 +459,242 @@ make it comfortable. An interesting dichotomy, as the extra gear
 probably slowed us down, partly contributing to our trouble.
 
 In the morning we dug a couple of snow pits outside our shelter to
-discover that we had good reason to be concerned, the results of the
-compresssion tests did little to assure us that the slope above would
-have been fine.
+discover that we had good reason to be concerned, the mixed results of
+the compresssion tests encouraged us that our decision to turn around
+before reaching the top and the steepest slopes was a good one. The
+sun was out, no wind, it was perfect weather. Stepping out from our
+cave and into skis, the first few turns with a heavy backpack and a
+steep slope were a shock to the system! We made it down to the tarns
+in almost no time at all.
 
-
-
-Ohau
----------------------------------------------------------------------
-
+While Sam chilled on the bench, Jules and I went up for a couple more
+runs above the tarns. With a snow covered Aoraki looming in the
+background, I struggle to think of a more pictureque location for a
+day of skiing. With the snow beginning to melt, we made the call to
+complete the walk back down before things got dicey. Back in Unwin
+Lodge we cooked up a storm of bacon and eggs for a late lunch while we
+celebrated our failure in style. Over drinks that night, Simon and
+Pip, the wardens, made some friendly suggestions about where we could
+head to next. Ohau and the Remarkables were on the agenda!
 
 Wanaka
 ----------------------------------------------------------------------
 
+We arrived in Wanaka after spending the day at Ohau ski field. Ohau
+has some of the best views of any ski field we visited on the trip,
+the lake views are next level. A brief excursion into the side country
+and some encounters with other skiers out the back of the resort
+brought us to the realisation about how many people have very little
+idea about what they are getting themselves into when they step over
+the resort boundary. Slightly concerning to see loaded slopes failing
+quickly to compression tests so close to the resort itself.
+
+Wanaka, as always, is a great place to relax and debrief after periods
+in the mountains. We stayed in the Purple Cow this time, had dinner
+out in the town. Julian and I had a bit of a row over plans for the
+rest of the trip. I can only put the confrontation down to a mix of
+cabin fever, stress about our car, and a difference in expectations
+and preference for activities during the trip.
+
+After a couple of days spent rock climbing together and hanging out in
+Wanaka, our Melbourne friends in the other car caught up with us after
+they had done a tour in the Two Thumb Range. Julian and Sam decided
+that they would head off on their own to Queenstown to catch a
+helicopter into Wye Creek for ice climbing, and suggested that I join
+the others for some skiing around Wanaka. Mixed feelings here for
+myself having fully intended to do some ice climbing on the trip, and
+slightly upset at having not been involved in the plan, but also happy
+at the opportunity to spend some time with the others in our group who
+had now joined us.
 
 Pisa Range
 ----------------------------------------------------------------------
+
+After a day skiing with the the other group at Cadrona, we were met in
+Wanaka by the third contingent from Melbourne, having also just
+finished an Avalanche course with Anna Keeling. Saying goodbye to my
+Cadrona friends (they left back for Melbourne), and I joined Molis,
+Tom, Jim and Gina for a tour into the Pisa Range.
+
+The tour into Kirtle Birn Hut had been on my list of tours
+scecifically for the purpose of having somewhere to go when the
+avalanche risk was high, as most of the terrain in the area is not
+steep enough to slide.
+
+INSERT SCREENSHOT OF AVALANCHE FORECAST FOR THE AREA
+
+We transferred our excess baggage into one car so we could all fit
+into the other, and drove up to the Snow Farm. This cross-country
+ski field is also one of the trailheads for the route into Kirtle Birn
+Hut and the Pisa Range. At the top, we parked our car in the large
+carpark and began pulling out our gear as we watched with interest all
+the sled dogs being unloaded from cars around us. After paying the
+road fee in the Administration building, we followed the markers to
+the beginning of the trail. Skis on, and a fun ride down to the
+creek. I tried to keep my momentum up in the shallow gully and didn't
+stop to look back until at the bottom.
+
+While waiting for the others, I had a chat to a friendly skier who was
+off to go kite skiing. He pointed out the other wings already on the
+horizon, it looked to be a good day for the sport.
+
+It turned out the reason for our slow progress over very easy terrain
+was that one of our group who had hurt their knee earlier, was finding
+it worse than expected. To add to this, this was also their first time
+skiing with an overnight backpack. It was a tough call, because we
+didn't want to leave them behind, or cancel the trip, we ended up
+deciding to continue, knowing full well that it would now take us the
+entire day to reach the hut.
+
+The first snow pit for the day was just below the Southern slope I had
+suggested we climb. The route up should be less than 30 degrees, but
+it was worthwhile checking out this aspect for future reference.
+
+Column test failed on the first tap from the wrist, 10cm down, facets
+on a rain crust. Continued tapping yielded a CT M 16 on a thick layer
+of facets on the tussocks (ground). This confirmed the cautions in the
+avalanche advisory, I was glad we had picked the Pisa range. On the
+ascent we were careful to stick to the ridge, and the lower agled
+slopes.
+
+On the way up, I noted a consistent rain crust, lightly covered by a
+dusting of snow. I was hoping that higher up this rain from the
+previous precipitation event would have fallen as snow.
+
+After reaching the hut and leaving our stuff behind, we headed up to
+Mt Pisa for the sunset, just stunning. Skiing down was a particularly
+bad crust, the others struggled a lot getting down not having had much
+practice on that type of snow.
+
+The next day the visibility was terrible. I convinced Tom and Jim to
+join me on some jaunts on the surrounding hills.
+
+On the third day, we got up early and decided to head for Mt Pisa
+proper, which we had failed to reach thus far. As we climbed the ridge
+where the road goes, the wind picked up significantly, such that
+reaching the summit rocks and sheltering behind them we a big
+relief. The chains covered in ice lining the road were kind of
+strange in that desolate place, reminding me of illustrations
+Isenguard in Lord of the Rings. Keen to explore further, maybe check
+out Cliff Burn, but the state of the group was such that I was
+eventually convinced this was a bad idea, especially considering the
+conditions. We decided to take the gully down, somehow, this bowl had
+collected all the recent snow, and we no longer had to deal with the
+crust, just fantastic fun down to the hut again where lunch awaited us
+before the hike out.
+
+On the ski out, we finally encountered some northerly slopes with a
+thin layer of fantastic snow on them. For some reason, maybe everyone
+was feeling a bit down that day, nobody wanted to stop for a run
+on the best snow we had encountered all trip! Gina was keen though I
+could tell, and eventually offers to buy a round of drinks if we
+weren't back in 15 minutes pursuaded the group to stop. What a blast,
+and the final run back to Snow Farm capped off a great little trip
+in the Pisa Range.
 
 
 Remarkables
 ----------------------------------------------------------------------
 
+Parting ways once again, I drove by myself over to Queenstown to be
+reunited with Sam and Jules after their ice climbing adventures. Next
+up on the menu was some day touring around the Remarkables ski field,
+especially the ridge heading North, which Pip from Unwin Lodge had
+pointed out to me on the map.
+
+After climbing the cat track under the lift on the Western edge of the
+field, we skipped North until a small saddle where Jules and I
+continued to traverse around on the thin snow cover while Sam stopped
+to take photos, and take it easy. I was surprised how much less snow
+there was here than what we had seen so far up north!
+
+A non-planar, broken fracture on a layer 15cm down after 15 hits of
+the shovel on the column test, and no result from the extended column
+test. The new snow appeared to be pretty well bonded and not super
+slabby. The snow pack in our start location was so deep we weren't
+able to dig to the bottom. We didn't discover any reactive weak
+layers, but perhaps they could have been deeper, and retrospectively
+another snow pit in a shallower location would probably have been a
+good idea.
+
+As we weren't in the danger zone according to the advisory, it looked
+like a green light, so we plunged down towards the road. Skiing
+between the tussocks poking up near the bottom was entertaining for
+sure! An attempted hitch hike, and a short walk up the road back to
+the resort. Definetely keen to check out some of the runs further
+North on that route!
+
 
 Temple Basin
 ----------------------------------------------------------------------
+
+It was a nostalgic couple of days driving up the West coast, and a
+good night at NZAC Porter Lodge, the place all to ourselves in Fox
+Glacier. Temple Basin had recieved a fair amount of snow in the storms
+during the month, enough to be opening the final weekend of our trip,
+just in time before we were due to leave.
+
+I was super excited, Temple Basin, it has a bit of a reputation, and
+we had managed to catch it on it's opening day with brilliant
+snow. Clear skies and a brisk morning walk up, admiring all the epic
+Athurs Pass scenery we had missed during our stay at the beginning of
+the month.
+
+Temple basin isn't like a regular ski field. It's operated by a club,
+with a few full time staff during the season, and many volunteers
+helping to maintain throughout the year. In place of ski lifts, are
+rope tows. To use a rope tow, you use a clamping device called a
+nutcracker, to grip onto the rope and pull you up. There is so much
+terrain in the area, and many runs require you to boot pack a
+little. Even getting between the lower and upper tows requires you to
+talk around on a platform chopped out of the snow.
+
+Temple had the goods, starting off on the lower tow, we were
+among the first tracks for the day. Very amusing trying to figure out
+how to attach to the nutcracker. I managed to bump my knee on one of
+the posts. My first proper experience skiing in powder snow!
+
+Eventually the track between the lower and upper tows was excavated by
+a small army of keen volunteers with snow shovels, and we walked
+around and  joined the group of 30 or so people waiting for the
+patrollers to start the upper tow.
+
+"So as you probably heard this morning, we've set off a few charges,
+and cleared the bigger avalanche paths, but we still expect some parts
+to slide, so you need to be on your game, keep an eye out for each
+other. Who here has avalanche beacons?" Everyone stick their hands up!
+This is awesome I thought to myself, everyone here is super keen, and
+has the same mindset.
+
+Kicking back down in Athurs Pass after what was one of the most
+satistying days I can remember, we discussed plans for the next
+day. Jules and Sam had had enough of skiing, and wanted to go climbing
+at Castle Hill, so we decided to split again for the next day, I would
+head on back up to Temple Basin by myself.
+
+It was Saturday morning and there was a lot more traffic on the track
+walking up, people staying for the weekend. Snow not quite as good as
+the day before, a fair bit more tracked out, and getting a little
+gluggy. On the West side of Temple Col, I decided to dig a snow pit to
+investigate the conditions which had led to the instabilities
+triggered by the patrollers the day before. Back at the lift I had a
+chat to the patroller about it, and he introduced me to a friendly group
+heading up to check out the Mingha basin which is on the East side of
+Temple Basin. They were happy to have me join them.
+
+At the top of the Col, we chatted while we waited for a steady stream
+of people to climb out from the basin we were about to ski. Because
+there were six of us we decided to split into two groups.
+
+While we were waiting I decided to dig a pit and investigate. The
+results weren't super encouraging, a layer about 50cm down seemed
+reactive. But 30 or so people had just skied the line we were about to
+take, so the risk seemed acceptable (hopefully they would have
+triggered it if there was something there), the danger for the day was
+considerable. One young lady in the other group asked what the danger
+was. I was a little surprised she hadn't checked before heading up
+with the intention of skiing out of bounds. She decided, upon hearing
+it was considerable, to turn around. In the end, it was just the group
+of 3 in the group I was with who did the run together. A great day
+out.
+
