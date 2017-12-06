@@ -143,4 +143,6 @@ Short Film
 I made a short film about the trip which can be found on youtube here:
 `Blue Mountains Canyoning Easter 2017`_ 
 
+.. youtube:: r3WmqtEVpt0
+
 .. _Blue Mountains Canyoning Easter 2017: https://youtu.be/r3WmqtEVpt0

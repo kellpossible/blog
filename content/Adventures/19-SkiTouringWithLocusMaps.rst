@@ -7,6 +7,7 @@ Ski Touring and Hiking with Locus Map
 :gallery: 
 :image: 
 :dropcap: O
+:status: draft
 
 ver the past couple of years, I've been on the hunt for a smartphone application for the Android platform which will perform the duties of a GPS unit, allowing me to use my phone on trips with colour maps, and keep the garmin gps as a backup.
 

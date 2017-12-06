@@ -25,6 +25,13 @@ Our course actually began in Melbourne. All the participants were from MUMC and 
 through the club. We met up on an evening in the clubrooms to discuss the course, some theory, the risks 
 invovled, and to practice some roping up technique.
 
+Video
+-----------------
+
+I made a short film about the trip which is up on vimeo.
+
+.. vimeo:: 144838304
+
 Pre-Alpine Weekend
 ------------------
 
@@ -341,6 +348,8 @@ important decision.
 
 Stu made a video about this topic: `Should we face in on this slope?`_ .
 
+.. vimeo:: 147008364
+
 
 Walking with an Ice Axe
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,12 +393,17 @@ that you can reasonably expect to be back by midday. Always asking yourself this
 and taking the actions such as retreating in order to fulfil this goal of getting back to the hut
 by midday. He made a video about it: `Can we be finished by Midday?`_ 
 
+.. vimeo:: 146237724
+
+
 Weather Patterns/Forecasts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `metvuw weather charts`_ 
 
 Stu's video: `Will the weather and snow stability really hold?`_ 
+
+.. vimeo:: 146642144
 
 
 Avalanches

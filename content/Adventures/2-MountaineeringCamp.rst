@@ -27,6 +27,11 @@ I rushed to get to the clubrooms on Berkeley St. It was the week before orientat
 
 We walked together down to the fantastic old pub (The Corkman, which has since been illegally demolished in 2016!), and after a drink or two, Stu walked in and sat at our table. While I was listening and participating in the general conversation, he struck me as quite a strong minded character. Richard introduced me. We had a chat, and worked out I could hopefully go on the next club mountaineering course, which he had been running the past couple of years. I was to learn climbing (Trad especially) in the meantime, as the best mental preperation for the trip. 
 
+Short Film
+-----------
+
+I made a short film about the mountaineering camp which can be found on vimeo here: `MUMC Mountaineering Camp`_ 
+
 Learning the Ropes
 ------------------
 
@@ -295,10 +300,7 @@ Climbing in NZ left me with many oustanding memories to dwell on. I can almost r
 
 	Drinks back at the Hermitage
 
-Short Film
------------
-
-I made a short film about the mountaineering camp which can be found on vimeo here: `MUMC Mountaineering Camp`_ 
+.. vimeo:: 144355586
 
 .. _MUMC Mountaineering Camp: https://vimeo.com/144355586
 

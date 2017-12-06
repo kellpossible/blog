@@ -4,11 +4,11 @@ Bogong in August
 :date: 2017-08-28 10:00
 :author: Luke Frisken
 :slug: adventures/bogong-in-august
-:gallery: {photo}SkiingInNewZealand
-:image: {photo}SkiingInNewZealand/20170724_130842.jpg
+:gallery: {photo}BogongInAugust2017
+:image: {photo}BogongInAugust2017/20170827_154008.jpg
 :dropcap: A
 
-friend and I decided to head up to Bogong for the weekend
+friend Mitch and I decided to head up to Bogong for the weekend
 together. Walking up Eskdale on Saturday morning we hit the snow
 surprisingly early, and after about an hour and a half of walking,
 reached the hut, with blue skies above.
@@ -18,6 +18,15 @@ north side of the mountain it was appearing to be spring snow galore,
 and our warm up (which ended up somehow being the steepest of the
 weekend), was dropping in off the East side of Eskdale after had
 climbed above the tree line. It was much fun.
+
+
+.. figure:: {photo}BogongInAugust2017/20170826_132122.jpg
+	:align: right
+	:figwidth: 50%
+	:alt: photo
+
+	At the bottom of our first run off Eskdale Spur
+
 
 With the snow looking to be stable, we opted to skin up the gully
 towards Hell's Gap (instead of bootpacking back up to the
@@ -39,6 +48,14 @@ to fall, with what appeared to be 10cm by morning. I felt a little
 sorry (and slightly amused) for our friends who had decided to explore
 the concept of bivy bags on (and now under) the snow.
 
+.. figure:: {photo}BogongInAugust2017/20170827_095426.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Our campsite in the morning
+
+
 In the morning I had a discussion with someone else who was at the
 hut. I asked them whether they had ended up skiing the bowl we had
 been in the day before, down from Hell's Gap. They replied that they
@@ -52,7 +69,14 @@ doing up the top", and the conversation ended there. It was a good
 conversation to have, as it doubled my attention to what was going on
 with the snow that day.
 
-As we skinned up Eskdale spur, I pointed out to my ski partner my
+.. figure:: {photo}BogongInAugust2017/20170827_110414.jpg
+	:align: right
+	:figwidth: 50%
+	:alt: photo
+
+	The view from Eskdale Spur in the morning
+
+As we skinned up Eskdale spur, I pointed out to Mitch my
 preference to ski the open, face-like, North ridge we could see coming
 down between the Staircase and Eskdale from the top of Eskdale. My
 thoughts were that if the snow had come from the NW, this ridge would
@@ -91,6 +115,15 @@ transported. I was also a little concerned we would hit a dangerous
 patch of ice, but visibility was good, and it was easy to stick to the
 small snow drifts and avoid the ice.
 
+
+.. figure:: {photo}BogongInAugust2017/20170827_104235.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Down the West Face (Photo taken by Mitch)
+
+
 We made it all the way down to between the trees, and had an absolute
 blast. Upon climbing back up it was interesting to notice (and we
 talked out loud about this) the naturally pinwheeling chunks of snow
@@ -125,33 +158,48 @@ on a knoll, how embarrassing, probably the silliest thing I did all
 weekend. Too much gusto on the slightly unnecessary ski cut?
 
 Putting skis back on, a snowboarder on snowshoes walks up to us from
-below, followed by their partner on skis. My ski buddy's beliefs on
-the better snow are confirmed by an enthusiastic recommendation to
-follow in their tracks on the East side of the Staircase.
+below, followed by their partner on skis. Mitch's belief that the
+better snow was on the other side was confirmed by an enthusiastic
+recommendation to follow in their tracks on the East side of the
+Staircase.
 
-By this stage, I was content to go with that option and watched my ski
-partner drop in over the edge of the small cornice, and followed him
-down after he had stopped in a suitable location. I slightly regret
-having not dug a snow pit here before dropping, or discussed its
-merits more fully, as there would have definitely been enough fresh
-snow at the top to have done so, and quite possibly we may have gotten
-some results which would have rendered entering the face at a more
-shallow location a sensible (and somewhat less exciting) idea, or
-perhaps it would have been fine, I guess we'll never know. We
-were keen to get the last run in for the day, and apart from the small
-amount of loading visible near the top, with no obvious signs of
-instability from the previous skiers or our own observations, the
-level of risk appeared acceptable. The snow was harder packed, and not
-quite as enjoyable as our previous run but still great fun. Zooming
-down into the gully, in the back of my head was the thought that
-perhaps the snow was was different enough to warrant stopping to check
-it out further.
+.. figure:: {photo}BogongInAugust2017/20170827_132703.jpg
+	:align: right
+	:figwidth: 50%
+	:alt: photo
+
+	Mitch zooming down
+
+By this stage, I was content to go with that option and watched Mitch
+drop in over the edge of the small cornice, and followed him down
+after he had stopped in a suitable location. I slightly regret having
+not dug a snow pit here before dropping, or discussed its merits more
+fully, as there would have definitely been enough fresh snow at the
+top to have done so, and quite possibly we may have gotten some
+results which would have rendered entering the face at a more shallow
+location a sensible (and somewhat less exciting) idea, or perhaps it
+would have been fine, I guess we'll never know. We were keen to get
+the last run in for the day, and apart from the small amount of
+loading visible near the top, with no obvious signs of instability
+from the previous skiers or our own observations, the level of risk
+appeared acceptable. The snow was harder packed, and not quite as
+enjoyable as our previous run but still great fun. Zooming down into
+the gully, in the back of my head was the thought that perhaps the
+snow was was different enough to warrant stopping to check it out
+further.
+
+.. figure:: {photo}BogongInAugust2017/20170827_121436.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Me zooming down (Photo taken by Mitch)
 
 Anyhow, with the time for thought during the climb up, we aimed
 instead for the shallow entry option further down the ridge,
 remembering the adage that it's better to take the safest possible
-route on the way up. Received several helpful tips on skinning
-technique from buddy too.
+route on the way up. Mitch also gave me several helpful tips for
+laying a good skin track.
 
 Upon reaching the Staircase, finally got some use out of the ski
 crampons lugged with me on several trips, we reached the point where
@@ -161,6 +209,13 @@ ahead, it was obvious that wind transport was taking its effect, so I
 opted conservatively to continue up the ridge a little further above
 the pole line to where the slope was less inclined to begin our
 traverse through the soft stuff.
+
+.. figure:: {photo}BogongInAugust2017/20170827_144249.jpg
+	:align: right
+	:figwidth: 50%
+	:alt: photo
+
+	Sandpaper to the face!
 
 The wind was like sandpaper to face and hard to stand straight, but
 excellent type 1.5 fun, we finally got down to Michell hut, where it

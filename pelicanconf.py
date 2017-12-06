@@ -40,7 +40,8 @@ STATIC_PATHS = ['images', 'thumbnailer', 'files']
 PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = [
 	'photos',
-	'pelican_vimeo'
+	'pelican_vimeo',
+	'pelican_youtube'
 	]
 
 THEME = 'themes/lukefrisken'

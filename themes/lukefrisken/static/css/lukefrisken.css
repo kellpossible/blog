@@ -123,3 +123,12 @@ a.reference.external {
 .pagination .pagination-numbers {
   color: black;
 }
+
+img.rss-icon {
+  border: none;
+  box-shadow: none;
+  padding: 0px;
+  float: none;
+  display: inline-block;
+  margin: 0px;
+}

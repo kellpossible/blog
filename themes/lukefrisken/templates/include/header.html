@@ -4,18 +4,24 @@
 		<br>
 		<div class="row">
 			<div class="col-sm-3">
-				Articles:
-				<br>
-				{% for cat, articles in categories %}
-					<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-				{% endfor %}
-			</div>
-			<div class="col-sm-3">
 				Pages:
 				<br>
+				<ul>
+					<li><a class="nodec" href="{{ SITEURL }}/">Home</a></li>
 				{% for p in pages %}
 					<li><a class="nodec" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
 				{% endfor %}
+				</ul>
+			</div>
+			<div class="col-sm-3">
+				Articles:
+				<br>
+				<ul>
+				{% for cat, articles in categories %}
+					<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+				{% endfor %}
+					<li><a href="{{ SITEURL }}/feeds/all.atom.xml">RSS Feed <img class="rss-icon" alt="rss icon" src="{{ SITEURL }}/theme/icons/120px-Feed-icon.svg.png" width="12em" height="12em"></a></li>
+				</ul>
 			</div>
 		</div>
   </div>
