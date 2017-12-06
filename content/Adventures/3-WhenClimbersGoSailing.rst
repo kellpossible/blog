@@ -119,4 +119,6 @@ Short Film
 
 This is a short film I made from footage taken on the trip: `https://vimeo.com/144355555`_ 
 
+.. vimeo:: 144355555
+
 .. _https://vimeo.com/144355555: https://vimeo.com/144355555
