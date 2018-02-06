@@ -108,14 +108,14 @@ resort slopes, winding around the hillside and dodging through
 trees. I'm ready for a rest, but Yuki points at the lift and says
 "again!".
 
-I stayed with Yuki and her partner Masahiro at their place in Sapporo,
-and they guided me around Rusutsu and Teine showing me many favourite
-spots, undoubtedly learned after 10+ years skiing in the area. Luckily
-our trip to Rusutsu enabled me to grab my skis again from Setsu Getsu
-Karou, ready for a chest deep powder day. I'm very grateful for their
-friendly company and their impressive hospitality. A couple of days
-later, they left for Niseko, and I went to collect a hire car again
-for the next stage of the journey.
+I stayed with Yuki and her partner Masahiro at their appartment in
+Sapporo, and they guided me around Rusutsu and Teine showing me many
+favourite spots, undoubtedly learned after 10+ years skiing in the
+area. Luckily our trip to Rusutsu enabled me to grab my skis again
+from Setsu Getsu Karou, ready for a chest deep powder day. I'm very
+grateful for their friendly company and their impressive
+hospitality. A couple of days later, they left for Niseko, and I went
+to collect a hire car again for the next stage of the journey.
 
 While collecting the car, I got a message from Sam. Sam and I had met
 through a mutual online acquaintence. He was living in Niseko for the
@@ -153,8 +153,63 @@ were truely breathtaking!
 
 Before reaching the top it was necessary to remove skis and bootpack
 the last couple of hundred vertical meters. The firm snow was verging
-on crampon territory, we were almost regretting not packing our
-crampons for the day!
+on crampon territory and we were almost regretting not packing our
+crampons for the day! Sam was convinced on the way up that we should
+skip skiing the crater because he needed to get back early for work,
+but one look down from the top and the temptation was too great.
+
+After returning from the bottom of the crater, we stood at the lip and
+prepared for our run down to the carpark. It was at this point I
+should have realised I had left part of my backpack nearby to collect
+on the way back, but I forgot! I guess somebody will find it in
+Spring. The first couple of hundred meters were a little touch and go
+on the ice, but as the snow improved, we were able to open up the
+throttle a little, and fully enjoy then end of an epic New Year's Eve
+out on the hill.
+
+But that wasn't the end. Back in Niseko, I met up with Yuki and her
+partner for the annual flaming torchlight skiing for the countdown to
+midnight. They had very kindly invited me to join them in the
+formation for the number 18. We hiked up the hill and got into
+position. The resort lights were turned off. As the clock struck 12,
+we lit each other's torches and made our way down the hill.
+
+
+
+The final destination on my list was to check out the Tokachidake
+area. Under the recommendation of Nii-san, I booked a couple of nights
+at the North Star Lodge, run by a friend of his. This lodge is very
+pretty, but well outside my usual budget. It was a last ditch ploy to
+try and find someone willing to accompany me on a backcountry trip out
+to Tokachidake. Luckily, after returning from a day skiing at Furano,
+a family from the U.S who was also staying there overheard my
+questions about ski partners, and very kindly offered to let me join
+them on the next morning's adventure to Furanodake.
+
+The next morning the father was feeling sick, so they sent their 18
+year old son out with me (a total stranger more or less!) for a
+backcountry adventure. He had done a fair bit of skiing, but also
+surprising lacked some basic knowledge about avalanche risk
+evaluation. I took at leaf out of Nii-san's book and ran through a
+beacon search drill, each of us taking turns to bury and find
+beacons. Here I was able to pass on some of the tips from Nii-san, and
+reinforce my own learning, whilst also getting to know what my new
+partner would be like under pressure.
+
+After digging a snow pit and deciding that today would be a good day
+to stick to the trees and avoid steep slopes, we made our way to just
+above the tree-line. The snow surface gradually got icy as the wind
+picked up. On our way down, I overshot our contour to traverse out to
+the creek we had crossed on the way in. As we made our way back, I
+spotted a hand line for a walking track and took my eye off the
+compass, assuming this would take us to where we wanted to go. After a
+while, we found some tracks and realised we had completed a circle!
+
+That afternoon we joined the rest of the family at the carpark. I went
+skiing with their father (who was feeling better) just off the road,
+and finally returned to meet the family at the Onsen! It was cold, and
+the snow was falling into the hot pools outside, the end of the last
+day skiing in Hokkaido.
 
 I came to Japan not so much seeking good skiing, as seeking the
 opportunity to meet new people; to see a different culture, and have
