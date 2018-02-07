@@ -252,11 +252,11 @@ of the route in to Camp Stream hut. Little did we know, this was
 actually still private property, and not part of the reserve! It was
 very late by the time we arrived, and the road was firm and a bit
 icy. We didn't have snow chains for our car (a big mistake, we decided
-due to lack of time not to procure them in Christchurch). I was
-skeptical that we would even be able to start again as we did a u-turn
-and parked on the side of the road at the top of a little hill leading
-down to a bridge. But we were too tired to think clearly, and jumped
-out and put up our tent.
+due to lack of time not to procure them during our departure from
+Christchurch). I was skeptical that we would even be able to start
+again as we did a u-turn and parked on the side of the road at the top
+of a little hill leading down to a bridge. But we were too tired to
+think clearly, and jumped out and put up our tent.
 
 In the morning we were woken by a loud diesel tractor engine, and a
 door slam. "You fellas alive in there?" shouts a friendly voice over
@@ -283,6 +283,8 @@ of incredulity still yet magnified. "You've got jumper leads?" "No
 sorry". A grumble about pulling tourists out of his property and that
 his cables were with his car, drove off with his tractor to collect
 his car.
+
+    "So this is all very well, but you've go snow chains don't you?" - Kiwi Farmer
 
 As he sets up for the jump start he asks us some more questions. "So
 this is all very well, but you've got snow chains don't you?". A
@@ -697,15 +699,15 @@ practice on that type of snow.
 The next day the visibility was terrible. I convinced Tom and Jim to
 join me on some jaunts on the surrounding hills.
 
-On the third day, we got up early and decided to head for Mt Pisa
-proper, which we had failed to reach thus far. As we climbed the ridge
-where the road goes, the wind picked up significantly, such that
-reaching the summit rocks and sheltering behind them we a big
-relief. The chains covered in ice lining the road were kind of
-strange in that desolate place, reminding me of illustrations
-Isenguard in Lord of the Rings. Keen to explore further, maybe check
-out Cliff Burn, but the state of the group was such that I was
-eventually convinced this was a bad idea, especially considering the
+On the third day, we got up and decided to head for Mt Pisa proper,
+which we had failed to reach thus far. As we climbed the ridge where
+the road goes, the wind picked up significantly, such that reaching
+the summit rocks and sheltering behind them we a big relief. The
+chains covered in ice lining the road were kind of strange in that
+desolate place, reminding me of illustrations Isengard in JRR
+Tolkein's Lord of the Rings. Keen to explore further, maybe check out
+Cliff Burn, but the state of the group was such that I was eventually
+convinced this was a bad idea, especially considering the
 conditions. We decided to take the gully down, somehow, this bowl had
 collected all the recent snow, and we no longer had to deal with the
 crust, just fantastic fun down to the hut again where lunch awaited us
@@ -713,12 +715,12 @@ before the hike out.
 
 On the ski out, we finally encountered some northerly slopes with a
 thin layer of fantastic snow on them. For some reason, maybe everyone
-was feeling a bit down that day, nobody wanted to stop for a run
-on the best snow we had encountered all trip! Gina was keen though I
-could tell, and eventually offers to buy a round of drinks if we
-weren't back in 15 minutes pursuaded the group to stop. What a blast,
-and the final run back to Snow Farm capped off a great little trip
-in the Pisa Range.
+was feeling a bit down that day, nobody wanted to stop for a run on
+the best snow we had encountered all trip! Gina was keen though I
+could tell, and eventually only my repeated offers to buy a round of
+drinks if we weren't back in 15 minutes pursuaded the group to
+stop. What a blast, and the final run back to Snow Farm capped off a
+great little trip in the Pisa Range.
 
 .. figure:: {photo}SkiingInNewZealand/20170725_121619.jpg
 	:align: center
@@ -820,6 +822,8 @@ to slide, so you need to be on your game, keep an eye out for each
 other. Who here has avalanche beacons?" Everyone stick their hands up!
 This is awesome I thought to myself, everyone here is super keen, and
 has the same mindset.
+
+    "Who here has avalanche beacons?" - Temple Basin Ski Patrol
 
 Kicking back down in Athurs Pass after what was one of the most
 satistying days I can remember, we discussed plans for the next

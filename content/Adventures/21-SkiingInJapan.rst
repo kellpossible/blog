@@ -36,15 +36,16 @@ Setsu Getsu Karou is owned by Maiko, she and her husband (who recently
 passed away) bought the small abandoned primary school (abandonded due
 to declining population), and turned it into a local history
 museum. You could easily spend two days wandering around its hallways
-and rooms observing the photos and items on display, and I did in fact
-spend an entire day doing this! Maiko runs an airbnb with private and
-hostel style rooms, along with a resteraunt with meals cooked by her
-in her kitchen. She has three cute kids, whom I played basketball with
-and observed their cooking skills. On Christmas eve I was the only
-guest staying, so Maiko invited me for dinner with her family and her
-parents who live in the house next door. From this point onwards I
-felt like I was a part of the family. I was so taken by the place that
-before I had left I booked another 4 day stay for later in the trip.
+and classrooms observing the many photos and items on display, and I
+did in fact spend an entire day doing this! Maiko runs an airbnb with
+private and hostel style rooms, along with a resteraunt with meals
+cooked by her in her kitchen. She has three cute kids, whom I played
+basketball with and observed their cooking skills. On Christmas eve I
+was the only guest staying, so Maiko invited me for dinner with her
+family and her parents who live in the house next door. From this
+point onwards I felt like I was a part of the family. I was so taken
+by the place that before I had left I booked another 4 day stay for
+later in the trip.
 
 A few months previously, while hunting around online for people to go
 backcountry skiing with in Hokkaido, a friend put me onto
@@ -74,12 +75,12 @@ due to conditions and we would now meet at Teine. As I got out of the
 car in Teine, I realised with a shock that I had left my skis in the
 drying room at Setsu Getsu Karou! I scrambled to hire some downhill
 skis and boots, which were skinny and heavy. My phone battery was
-about to die, and I stood around waiting. We figured out that I had
-gone to the wrong car park, and I jumped on the Gondola up to the
-upper mountain section of the ski field. I skied down from the
-Gondola, and finally met Yuki in her bright blue ski outfit. We didn't
-say much, and she motioned for me to join her on the lift up to the
-top of the mountain.
+about to die, and I stood around waiting feeling stupid. We figured
+out that I had gone to the wrong car park, and I jumped on the Gondola
+up to the upper mountain section of the ski field. I skied down from
+the Gondola, and finally met Yuki in her bright blue ski outfit. We
+didn't say much, and she motioned for me to join her on the lift up to
+the top of the mountain.
 
 A few broken sentences were exchanged, and we jumped off the lift. I
 followed Yuki through a gap in the fence, next to which were bright
@@ -101,7 +102,8 @@ was following. I couldn't help but get the impression this was some
 kind of test. We paused briefly at the top of a long gully. This, Yuki
 tells me, was the old olympic men's slalom course. It was at this
 point I was really missing my skis, I took several tumbles,
-apologising profusely to Yuki who was too far away to hear anyway!
+apologising profusely to Yuki who was often too far away to hear
+anyway!
 
 At the bottom, a long and fun traverse ensues to get back to the
 resort slopes, winding around the hillside and dodging through
@@ -110,7 +112,7 @@ trees. I'm ready for a rest, but Yuki points at the lift and says
 
 I stayed with Yuki and her partner Masahiro at their appartment in
 Sapporo, and they guided me around Rusutsu and Teine showing me many
-favourite spots, undoubtedly learned after 10+ years skiing in the
+favourite spots, undoubtedly learned after a lifetime skiing in the
 area. Luckily our trip to Rusutsu enabled me to grab my skis again
 from Setsu Getsu Karou, ready for a chest deep powder day. I'm very
 grateful for their friendly company and their impressive
@@ -165,15 +167,31 @@ on the way back, but I forgot! I guess somebody will find it in
 Spring. The first couple of hundred meters were a little touch and go
 on the ice, but as the snow improved, we were able to open up the
 throttle a little, and fully enjoy then end of an epic New Year's Eve
-out on the hill.
+out on the hill. Sam did a write-up on his blog about it, you can find
+here: http://www.forloveofthemountains.com/2018/01/01/mt-yotei-finishing-2017-well/
 
-But that wasn't the end. Back in Niseko, I met up with Yuki and her
-partner for the annual flaming torchlight skiing for the countdown to
+But that wasn't the end. Back in Niseko, I met up with Yuki and
+Masahiro for the annual flaming torchlight skiing for the countdown to
 midnight. They had very kindly invited me to join them in the
 formation for the number 18. We hiked up the hill and got into
 position. The resort lights were turned off. As the clock struck 12,
 we lit each other's torches and made our way down the hill.
 
+I got into the car at 1am and drove slowly and carefully back to Setsu
+Getsu Karou in the moonlight. Inside, waiting next to the fire, Maiko
+and a friend and guest Ken (visiting from Honshu), were welcomed me
+with drinks in hand. We had a second celebration and stayed up late
+into the night talking, drinking and listening to jazz on the record
+player.
+
+
+.. figure:: {photo}SkiingInJapan/.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	A brief stop at the Tomakomai Science Museum to check out the
+	backup copy of the Russian Mir space station.
 
 
 The final destination on my list was to check out the Tokachidake
@@ -206,10 +224,10 @@ compass, assuming this would take us to where we wanted to go. After a
 while, we found some tracks and realised we had completed a circle!
 
 That afternoon we joined the rest of the family at the carpark. I went
-skiing with their father (who was feeling better) just off the road,
-and finally returned to meet the family at the Onsen! It was cold, and
-the snow was falling into the hot pools outside, the end of the last
-day skiing in Hokkaido.
+skiing with their father (who was feeling better) in the trees above
+the road, and finally returned to meet the family at the Onsen! It was
+cold, and the snow was falling into the hot pools outside, the end of
+the last day skiing in Hokkaido.
 
 I came to Japan not so much seeking good skiing, as seeking the
 opportunity to meet new people; to see a different culture, and have
@@ -217,12 +235,3 @@ adventures. Don't get me wrong, the snow in Hokkaido is amazing! But I
 think if I had spent my entire holiday in Niseko or with my friends
 from home (like so many foreigners who come to visit this snow covered
 island), I may have missed the better part of the experience on offer.
-
-
-
-Ken and Maiko staying up waiting for me driving back from Niseko on
-NYE.
-
-
-	  
-http://www.forloveofthemountains.com/2018/01/01/mt-yotei-finishing-2017-well/
