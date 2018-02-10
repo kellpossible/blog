@@ -7,6 +7,7 @@ Athurs Ranges Traverse
 :gallery: {photo}AthursRangesTraverse
 :image: {photo}AthursRangesTraverse/.jpg
 :dropcap: W
+:status: draft
 
 hen people ask me what my favourite outdoor adventure was, it doesn't
 take me long to think back on this amazing two weeks in the Tasmanian
