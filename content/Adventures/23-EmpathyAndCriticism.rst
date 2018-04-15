@@ -7,7 +7,6 @@ Empathy and Criticism, Reconciling Risk in Outdoor Sports
 :gallery: {photo}EmpathyAndCriticism
 :image: {photo}EmpathyAndCriticism/.jpg
 :dropcap: W
-:status: draft
 
 e tell ourselves (and our friends and families) that our adventure
 sport of choice can be safe, you shouldn't get hurt if you do the
