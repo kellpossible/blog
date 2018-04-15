@@ -68,18 +68,18 @@ come to this conclusion themselves. Who better to criticise and share
 details about an accident or a near miss than the person who was
 themselves involved?
 
-If you know someone, perhaps a friend who has had an accident or a
-near miss, before launching into criticising/reporting their mistakes
-behind their backs consider doing this first instead: talk to them
-about it if they are willing. Be empathetic, be *very* careful to
-avoid implying judgement. They may feel shame, or they may not even
-realise the full extent of their mistake, which may be why they have
-not told you about it of their own accord. Build up a rapport with
-them on the subject, ask careful questions and help them to to feel
-comfortable identifying and sharing their own mistakes with others. It
-may even be that you are not the best person to do approach them,
-perhaps they will be more comfortable talking to another friend, so
-delegate this responsibility!
+If you know someone who has had an accident or a near miss, before
+launching into criticising/reporting their mistakes behind their backs
+consider doing this first instead: talk to them about it if they are
+willing. Be empathetic, be *very* careful to avoid implying
+judgement. They may feel shame, or they may not even realise the full
+extent of their mistake, which may be why they have not told you about
+it of their own accord. Build up a rapport with them on the subject,
+ask careful questions and help them to to feel comfortable identifying
+and sharing their own mistakes with others. It may even be that you
+are not the best person to do approach them, perhaps they will be more
+comfortable talking to another friend, so delegate this
+responsibility!
 
 To open the proceedings, a story about one of my own near misses, a
 couple of weekends ago I was in a canyon with some friends. We were
