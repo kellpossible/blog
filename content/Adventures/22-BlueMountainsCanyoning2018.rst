@@ -5,12 +5,12 @@ Blue Mountains Canyoning 2018
 :author: Luke Frisken
 :slug: adventures/blue-mountains-canyoning-2018
 :gallery: {photo}BlueMountainsCanyoning2018
-:image: {photo}BlueMountainsCanyoning2018/.jpg
+:image: {photo}BlueMountainsCanyoning2018/20180331_142255.jpg
 :dropcap: O
 
 nce again I found myself struggling on the 10 hour drive from
 Melbourne to the Blue Mountains over the Easter Weekend. In the car
-with me were 3 other intrepid folks, keen to taste the fresh, moist,
+with me were 3 other intrepid folks, keen to get into the moist
 green air of the canyons in the Wollangambe area.
 
 At about 9:45pm, deciding we were definitely unwilling to try Mc
@@ -31,19 +31,27 @@ New South Wales present. Most of us met each other over the years
 through connections between the various university outdoor clubs and
 communities in Melbourne.
 
-For a non-club, casual trip with a group of friends, everything was
+For a casual trip with a group of friends, everything was
 surprisingly well organised. A Google spreadsheet created by Taner and
 shared with everyone as contributers was an excellent tool for
 coordinating transport and gear logistics before the trip in a
-decentralized manner. While we were there, every morning groups would
-form and write their names and canyoning intentions on a list in the
-middle of our campsite. Each night, as the groups returned, we would
-all keep an eye on the list and who had made it back to the
-campfire. A few of us would stay awake until everyone returned so that
-a rescue party could go out that night if the missing party failed to
-show up. It was comforting knowing that people would be waiting for
-you every night and able to respond quickly and effectively should
-mishap occur.
+decentralized manner. 
+
+.. figure:: {photo}BlueMountainsCanyoning2018/20180328_000000_CanyoningSpreadsheet.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Our Google Spreadsheet
+
+While we were there, every morning groups would form and write their
+names and canyoning intentions on a list in the middle of our
+campsite. Each night, as the groups returned, we would all keep an eye
+on the list and who had made it back to the campfire. A few of us
+would stay awake until everyone returned so that a rescue party could
+go out that night if the missing party failed to show up. It was
+comforting knowing that people would be waiting for you every night
+and able to respond quickly and effectively should mishap occur.
 
 Serendipity Canyon
 ------------------
@@ -56,6 +64,13 @@ swimming. In the afternoon we emerged shivering out into the valley
 with the Wollangambe River and ate lunch in the sunshine before
 jumping into the river from the rocks.
 
+.. figure:: {photo}BlueMountainsCanyoning2018/20180330_132041.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Holding the rope for the first abseil into Serendipity Canyon
+
 Claustral Canyon
 ----------------
 
@@ -65,6 +80,13 @@ it. And so it was, on the second day the Serendipity Canyon crew
 joined with an additional Keith and Lauren to clamber down through the
 rainforest, sliding into the many pleasures that awaited us in
 Claustral Canyon.
+
+.. figure:: {photo}BlueMountainsCanyoning2018/20180331_130918.jpg
+	:align: right
+	:figwidth: 50%
+	:alt: photo
+
+	The Black Hole of Calcutta
 
 The most noteable feature of the canyon is a series of abseils into
 the "Black Hole of Calcutta". I was amazed as we descended, we had our
@@ -80,9 +102,22 @@ As I caught up with the group, we discovered that Lauren had managed
 to place her hand on the resident snake, who was lying sleepily on a
 rock in the sunlight.
 
+Towards the end of the canyon, we were doing well for time so we
+decided to explore Thunder Canyon, which joins onto Claustral Canyon.
+It was well worth the side trip, as Thunder Canyon, is possibly
+even more beautiful than Claustral Canyon. There is even a 
+cave of glow worms which is lit up like stars in the night sky!
+
 During the walk out of the canyon, we managed to lose the track and
-had a bit of an epic night, but we made it back to camp by 10pm so
-perhaps it wasn't so bad!
+had a bit of an epic night. Someone's backpack also fell to pieces. We
+made it back to camp by 10pm so perhaps it wasn't so bad!
+
+.. figure:: {photo}BlueMountainsCanyoning2018/20180331_142255.jpg
+	:align: center
+	:figwidth: 100%
+	:alt: photo
+
+	Entering Thunder Canyon
 
 Going Home
 ----------
