@@ -9,11 +9,12 @@ Empathy and Criticism; Reconciling Risk in Outdoor Sports
 
 e tell ourselves (and our friends and families) that our adventure
 sport of choice can be safe, you shouldn't get hurt if you do the
-right thing, that person must have been doing something wrong or were
-unlucky. We've convinced ourselves that it's safe enough for us to be
-comfortable participating, and when some evidence comes up to the
-contrary, we may seek to disprove or minimise it so we can feel better
-about our own selfish choices regarding risk taking.
+right thing, that person who had an accident must have been doing
+something wrong or were unlucky. We've convinced ourselves that it's
+safe enough for us to be comfortable participating, and when some
+evidence comes up to the contrary, we may seek to disprove or minimise
+it so we can feel better about our own selfish choices regarding risk
+taking.
 
 This week I was struck by the `sad news of the death of promising
 young female climber Savannah Buik
