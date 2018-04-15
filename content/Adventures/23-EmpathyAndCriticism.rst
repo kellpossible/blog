@@ -108,6 +108,6 @@ clearly did the value of this policy make itself clear to me.
 
 If you've had a personal accident or a near miss you'd like to share,
 consider writing about it, and sharing it with your friends, and
-perhaps the world at large, besides helping yourself process what's
+perhaps the world at large. Besides helping yourself process what's
 happened, you never know how you may be helping to improve the
 experience of others in the outdoors.
