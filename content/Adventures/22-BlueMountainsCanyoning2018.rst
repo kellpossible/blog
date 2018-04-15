@@ -60,11 +60,11 @@ Claustral Canyon
 ----------------
 
 Whenever someone talks about canyoning in New South Wales, Claustral
-Canyon often comes to mind and gets a mention. Its reputation
-precedes it. And so it was, on the second day the Serendipity Canyon
-crew joined with an additional Keith and Lauren to clamber down through
-the rainforest sliding into the many pleasures that awaited us in Claustral
-Canyon.
+Canyon often comes to mind and gets a mention. Its reputation precedes
+it. And so it was, on the second day the Serendipity Canyon crew
+joined with an additional Keith and Lauren to clamber down through the
+rainforest, sliding into the many pleasures that awaited us in
+Claustral Canyon.
 
 The most noteable feature of the canyon is a series of abseils into
 the "Black Hole of Calcutta". I was amazed as we descended, we had our
@@ -73,5 +73,28 @@ round hole through which the stream flows.
 
 Finally at the bottom of this hole you emerge into one of the most
 majestic sights I have ever encountered. The sunlight thrown in from
-far above dances among the ferns and moss lining the walls before
-reaching us where it lands and w
+far above dances among the ferns and moss lining the walls. It casts
+everything in an aura of green light.
+
+As I caught up with the group, we discovered that Lauren had managed
+to place her hand on the resident snake, who was lying sleepily on a
+rock in the sunlight.
+
+During the walk out of the canyon, we managed to lose the track and
+had a bit of an epic night, but we made it back to camp by 10pm so
+perhaps it wasn't so bad!
+
+Going Home
+----------
+
+The final day we spent sport climbing and relaxing at the Dam Cliffs
+climbing area near Lithgow.
+
+On the way home on Tuesday we stopped in Gundagai for lunch. As we
+parked, we noticed the door was open to an interesting looking
+building. So I ran up to it and poked my head inside. It appeared to
+be an old jail. The Guillaume and Amy followed me and we had a good
+look around inside the old jail cells. We were about to leave when we
+met an older couple who were also leaving. They looked surprised to
+see us. They told us that you needed a key to get in, and they were
+about to lock it up, we were almost locked up in Old Gundagai Jail!
