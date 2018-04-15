@@ -32,7 +32,7 @@ There is a line we must tread between trying to identify mistakes and
 criticising them in the name of progress/improvement, but also being
 empathetic and respectful towards the person who had the accident,
 accepting that we ourselves can be exposed to the same risks and are
-capablie of making the same kinds of mistakes.
+capable of making the same kinds of mistakes.
 
 Over the years I've overheard or even participated several discussions
 which take an overly critical tone. I've often left feeling
@@ -70,16 +70,16 @@ themselves involved?
 
 If you know someone, perhaps a friend who has had an accident or a
 near miss, before launching into criticising/reporting their mistakes
-behind their backs consider doing this instead: talk to them about it
-first if they are willing. Be empathetic, be *very* careful to avoid
-implying judgement. They may feel shame, or they may not even realise
-the full extent of their mistake, which may be why they have not told
-you about it of their own accord. Build up a rapport with them on the
-subject, ask careful questions and help them to to feel comfortable
-identifying and sharing their own mistakes with others. It may even be
-that you are not the best person to do approach them, perhaps they
-will be more comfortable talking to another friend, so delegate this
-responsibility!
+behind their backs consider doing this first instead: talk to them
+about it if they are willing. Be empathetic, be *very* careful to
+avoid implying judgement. They may feel shame, or they may not even
+realise the full extent of their mistake, which may be why they have
+not told you about it of their own accord. Build up a rapport with
+them on the subject, ask careful questions and help them to to feel
+comfortable identifying and sharing their own mistakes with others. It
+may even be that you are not the best person to do approach them,
+perhaps they will be more comfortable talking to another friend, so
+delegate this responsibility!
 
 To open the proceedings, a story about one of my own near misses, a
 couple of weekends ago I was in a canyon with some friends. We were
