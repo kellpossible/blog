@@ -31,8 +31,8 @@ killed.
 There is a line we must tread between trying to identify mistakes and
 criticising them in the name of progress/improvement, but also being
 empathetic and respectful towards the person who had the accident,
-accepting that we ourselves can be exposed to the same risks and make
-the very same mistakes.
+accepting that we ourselves can be exposed to the same risks and are
+capablie of making the same kinds of mistakes.
 
 Over the years I've overheard or even participated several discussions
 which take an overly critical tone. I've often left feeling
