@@ -118,12 +118,12 @@ nightmare.*
 
 *I should not have let my guard down, the trip is not over until
 you're back sitting at home. I'm very thankful that my friend was
-watching out for me should I have fallen and incapacitated myself
-in the deep water and began to drown. This was is the often
-unspoken and seemingly obvious policy while on outdoor trips with
-friends, watching out for each other, up to the very last person,
-at each obstacle. Never more clearly did the value of this policy
-make itself known to me.*
+watching out for me should I have fallen and incapacitated myself in
+the deep water and began to drown. This is the often unspoken and
+seemingly obvious policy while on outdoor trips with friends, watching
+out for each other, up to the very last person, at each obstacle.
+Never more clearly did the value of this policy make itself known to
+me.*
 
 If you've had a personal accident or a near miss you'd like to share,
 consider writing about it, and sharing it with your friends, and
