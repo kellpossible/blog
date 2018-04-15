@@ -48,7 +48,7 @@ our reputation and the reputation of our clubs/companies/communities,
 making us appear reckless and dagerous. It might make others question
 our personal suitability for taking on leadership responsibilities?
 
-Of course, unfortunately considerations for admission of guilt and
+Of course, unfortunately, considerations for admission of guilt and
 culpability in the context of litigation increasingly plays a part in
 a number of accident scenarios in our societies, but I would like to
 argue that these considerations when applied liberally are also toxic
