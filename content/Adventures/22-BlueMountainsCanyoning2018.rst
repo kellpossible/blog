@@ -119,6 +119,14 @@ made it back to camp by 10pm so perhaps it wasn't so bad!
 
 	Entering Thunder Canyon
 
+Yileen Canyon
+-------------
+
+Unfortunately I didn't get any photos in Yileen as my camera and phone were
+wet and out of action from the previous day. The views in Yileen were
+spectacular and we were very glad that the skies were clear during the
+afternoon light and the 50m abseil at the end.
+
 Going Home
 ----------
 
@@ -128,7 +136,7 @@ climbing area near Lithgow.
 On the way home on Tuesday we stopped in Gundagai for lunch. As we
 parked, we noticed the door was open to an interesting looking
 building. So I ran up to it and poked my head inside. It appeared to
-be an old jail. The Guillaume and Amy followed me and we had a good
+be an old jail. Guillaume and Amy followed me and we had a good
 look around inside the old jail cells. We were about to leave when we
 met an older couple who were also leaving. They looked surprised to
 see us. They told us that you needed a key to get in, and they were
