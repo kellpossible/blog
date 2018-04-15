@@ -54,12 +54,12 @@ argue that these considerations when applied liberally are also toxic
 to a healthy safety culture.
 
 I don't speak for my club on this, but I personally believe it is far
-better that we as a club and as individual members strive have a
-reputation of being open, honest, and willing to learn from our
-mistakes. Other clubs and experienced adventurers may have a good
-looking public safety record, but I can guarantee that they probably
-have had many problems, accidents and near misses which go unreported,
-and undiscussed.
+better that we as a club and as individual members of our respective
+communities strive have a reputation of being open, honest, and
+willing to learn from our mistakes. Other clubs and experienced
+adventurers may have a good looking public safety record, but I can
+guarantee that they probably have had many problems, accidents and
+near misses which go unreported, and undiscussed.
 
 Yes it's important that we try to discourage out of place bravado,
 poor technique and poorly thought out decisions regarding risk. But I
