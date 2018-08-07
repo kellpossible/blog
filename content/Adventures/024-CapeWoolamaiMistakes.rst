@@ -110,12 +110,11 @@ Seeing the Same Mistakes
 ------------------------
 
 Years later I was back at Woolamai for perhaps my 6th time, and I
-witnessed another climber making the same mistakes, and perhaps, I
-didn't think it possible; worse. He was there with not one, but two
-complete beginners, with two helmets between three people. I asked him
-why he had chosen to go to Cape Woolamai for climbing rather than
-somewhere with better rock, and he stated that it was a convenient
-location for where they lived.
+witnessed another climber making some of the same mistakes. He was
+there with not one, but two complete beginners, with two helmets
+between three people. I asked him why he had chosen to go to Cape
+Woolamai for climbing rather than somewhere with better rock, and he
+stated that it was a convenient location for where they lived.
 
 As he was climbing, I talked with his two beginner friends. They
 seemed rather impressed that he had been "mountaineering", and was
