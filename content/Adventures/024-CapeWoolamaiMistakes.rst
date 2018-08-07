@@ -1,7 +1,7 @@
 Cape Woolamai Mistakes
 ======================
 
-:date: 2018-04-16 20:00
+:date: 2018-08-08 10:00
 :author: Luke Frisken
 :slug: adventures/cape-woolamai-mistakes
 :gallery: {photo}CapeWoolamaiMistakes
