@@ -7,12 +7,11 @@ Sphinx For Documenting Java Projects
 :image: {photo}Sphinx/FinalYearProject1.jpg
 :dropcap: L
 
-ast year I had the pleasure of using Sphinx for documenting my final
-year software project at university. The project was primarily java,
-but also included a number of python utilities and the requirement of
-documenting the central algorithm clearly. For the benefit of others I
-thought I would document our experience using it and the configuration
-we ended up with.
+ast year I had the pleasure of using Sphinx for documenting my `final year
+software project`_ at university. The project was primarily java, but also
+included a number of python utilities and the requirement of documenting the
+central algorithm clearly. For the benefit of others I thought I would document
+our experience using it and the configuration we ended up with.
 
 What is Sphinx?
 ---------------
@@ -374,6 +373,7 @@ provides.
 Have a look at the gogs project and see what they do 
 `for editing files`_.
 
+.. _final year software project: https://github.com/kellpossible/libgdx-atc-sim
 .. _many available lexers: http://pygments.org/docs/lexers/
 .. _AutoStructify documentation: http://recommonmark.readthedocs.io/en/latest/auto_structify.html
 .. _Sphinx documentation about markdown: http://www.sphinx-doc.org/en/stable/markdown.html
