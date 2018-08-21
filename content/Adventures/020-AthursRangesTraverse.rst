@@ -111,8 +111,3 @@ I made a short video while on this adventure, available on vimeo
 INSERT VIDEO
 
 
-
-
-
-
-
