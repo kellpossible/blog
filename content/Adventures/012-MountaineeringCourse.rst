@@ -351,9 +351,29 @@ Stu made a video about this topic: `Should we face in on this slope?`_ .
 .. vimeo:: 147008364
 
 
-Walking with an Ice Axe
-~~~~~~~~~~~~~~~~~~~~~~~
+Travelling with an Ice Axe
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+These tips hold for when walking diagonally up a slope:
+
++ Hold the axe in your uphill hand.
++ When stepping with the inside foot (the foot closest to the hill), this is the
+  time to place your axe like a walking stick and use it for stability. Stepping
+  with the outside foot is more stable than stepping with the inside foot.
+
+When the slope gets a bit steeper you will need to change how you are using your
+axe.
+
+If the snow is soft you will switch to plunging the axe into the snow up in
+front of you, and it may be worth getting both axes out for this.
+
+If the snow is hard you will switch to holding the axe on its shaft and
+daggering it into the snow.
+
+Once the slope gets steeper, somewhere in the range of 60-70 degrees you will
+want to switch to placing the axe by swinging it. You should be able to do this
+efficiently with a flick of the wrist to finish the motion, avoiding smashing
+your arm into the ice.
 
 Self Arrests
 ~~~~~~~~~~~~~
@@ -361,6 +381,17 @@ Self Arrests
 We did spend some time practicing self arrests from all the starting positions (forwards, backwards, upside down, etc).
 While it's an important skill to learn, I get the impression that self arrests are not very successful
 in real situations. It's much better to not fall in the first place.
+
+*Update 21/09/2018:*
+
+After this weekend Rodney reminded me of the following tips.
+
++ Hold the axe diagonally across your body, and use your body weight and your shoulder/chest
+  to push the head of the axe into the ice.
++ Always roll towards the head of the Axe, no matter what orientation you start in.
++ If you start the fall head-first, reach out diagonally away from your body in the direction
+  of the axe head, in order to first get a point to pivot around on before pulling the axe
+  into your body and pressing down on it more firmly.
 
 
 Can we be finished by Midday?
