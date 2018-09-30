@@ -6,11 +6,13 @@ Javadoc's inheritDoc
 :slug: code/javadoc-inheritdoc
 :image: {photo}/.jpg
 :dropcap:
+:status: draft
 
 
 Talk about how inheritdoc works
 
 Parent Class, this will be used in all examples.
+
 .. code-block:: java
 
 	/**
