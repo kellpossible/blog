@@ -1,13 +1,12 @@
 Victorian Backcountry Festival 2018
 ===================================
 
-:date: 2018-08-08 10:00
+:date: 2018-09-30 10:00
 :author: Luke Frisken
 :slug: adventures/backcountry-festival-2018
 :gallery: {photo}BackcountryFestival2018
-:image: {photo}}BackcountryFestival2018/.jpg
+:image: {photo}BackcountryFestival2018/20180901_124656.jpg
 :dropcap: I
-:status: draft
 
 n September this year the inaugural Victorian Backcountry Festival was
 held. There was a fantastic turnout, perhaps around 200 people. Along with being
@@ -20,22 +19,27 @@ a backcountry navigation clinic on Saturday morning. My friend Guillaume kindly
 offered to help out. We had 10 people in total, all very keen to learn essential
 skills for effective navigation in off-track snow/white-out conditions.
 
+.. figure:: {photo}BackcountryFestival2018/20180901_124656.jpg
+	:alt: Navigation clinic
+
+	Running the Navigation Clinic (Photo: Guillaume Stanguennec)
+
 Some of the topics we covered in the 2 hours of theory and 1.5 hours of
 practical outside:
 
- * Reading and understanding topographic maps
- * Identifying terrain features on a map
- * Methods for visualising terrain and slope angles
- * Compass navigation
- * How to plan a route, being conservative about avalanche danger
- * Slope angle measurment methods
- * Conservative (Aiming off) navigation using a compass and gps, the concept of
-   catching features and terrain features you can follow.
- * How to use a compass to take bearings
- * Smart phone applications for navigation purposes
- * Navigation without a compass, orienting using the sun and snow/wind features
-   (not really covered, I forgot to do this one!)
- * Applications of an Altimeter for navigation
+* Reading and understanding topographic maps
+* Identifying terrain features on a map
+* Methods for visualising terrain and slope angles
+* Compass navigation
+* How to plan a route, being conservative about avalanche danger
+* Slope angle measurment methods
+* Conservative (Aiming off) navigation using a compass and gps, the concept of
+  catching features and terrain features you can follow.
+* How to use a compass to take bearings
+* Smart phone applications for navigation purposes
+* Navigation without a compass, orienting using the sun and snow/wind features
+  (not really covered, I forgot to do this one!)
+* Applications of an Altimeter for navigation
 
 I spent a fair bit of time researching questions and methods I could use to try
 and help keep everyone engaged, and understand where they were coming from and
@@ -47,6 +51,11 @@ people had grasped the basic idea of compass navigation. However I still feel
 like a longer practical component, perhaps a day tour with people planning their
 own navigation and bearings would also be a valuable option for a future
 clinic. Maybe next year...
+
+.. figure:: {photo}BackcountryFestival2018/20180901_153758.jpg
+	:alt: Skiing Saturday afternoon
+
+	Skiing on Saturday afternoon (Photo: Guillaume Stanguennec)
 
 On Saturday afternoon after the clinic, I went out for a tour with Peter (from
 BSAR) and Guillaume. The snow was shockingly similar to sloppy wet concrete, but
@@ -61,6 +70,11 @@ That night after the talks and films, Guillaume and I headed out under the stars
 towards Roper's Lookout to find a campsite. It has been a long time since I
 skied with just the starlight, it is truely a wonderful experience.
 
+.. figure:: {photo}BackcountryFestival2018/20180902_132907.jpg
+	:alt: Spion Kopje views
+
+	Views out towards Spion Kopje (Photo: Guillaume Stanguennec)
+
 In the morning, we packed up the tent just in time to meet Peter again for a day
 of touring with perfect weather, and a snow pack that had firmed up
 overnight. Up at the top of the hill, there were some fantastic views of Spion
@@ -71,6 +85,14 @@ looking terrain feature at the top. It was at this point that our party (no
 names!) managed to drop one ski, followed by another ski 20 minutes later!
 Luckily they were stopped by a ditch and didn't hit anybody or disappear into
 the valley.
+
+.. figure:: {photo}BackcountryFestival2018/20180902_141050.jpg
+	:alt: Steep turns
+	:align: right
+	:figwidth: 50%
+
+	Practicing some jump turns (Photo: Guillaume Stanguennec)
+
 
 The final run down the creek can only be described as exceedingly enjoyable. The
 gaps between the snowgums were wide enough to really crank on the speed around
