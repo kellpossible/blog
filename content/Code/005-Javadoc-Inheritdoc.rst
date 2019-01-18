@@ -6,11 +6,13 @@ Javadoc's inheritDoc
 :slug: code/javadoc-inheritdoc
 :image: {photo}/.jpg
 :dropcap:
+:status: draft
 
 
 Talk about how inheritdoc works
 
 Parent Class, this will be used in all examples.
+
 .. code-block:: java
 
 	/**
@@ -44,8 +46,8 @@ insert image
 .. code-block:: java
 
 	/**
-	 * Change to the text
-	 */
+	* Change to the text
+	*/
 	@Override
 	public boolean testMethod(boolean test)
 	{
@@ -57,8 +59,8 @@ insert image
 .. code-block:: java
 
 	/**
-	 * @return change to the return
-	 */
+	* @return change to the return
+	*/
 	@Override
 	public boolean testMethod(boolean test)
 	{
@@ -71,11 +73,11 @@ insert image
 .. code-block:: java
 
 	/**
-	 * {@inheritDoc} extended with the following <br>
-	 * text
-	 * @param test {@inheritDoc} extended with this
-	 * @return {@inheritDoc} extended with that
-	 */
+	* {@inheritDoc} extended with the following <br>
+	* text
+	* @param test {@inheritDoc} extended with this
+	* @return {@inheritDoc} extended with that
+	*/
 	@Override
 	public boolean testMethod(boolean test)
 	{

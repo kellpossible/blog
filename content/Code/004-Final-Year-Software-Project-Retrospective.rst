@@ -6,4 +6,5 @@ Final Year Software Project Retrospective
 :slug: code/fyp-retrospective
 :image: {photo}/.jpg
 :dropcap: 
+:status: draft
 
