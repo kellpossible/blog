@@ -248,12 +248,6 @@ Who stands to lose from the failure of this idea?
 What are the potential roadblocks?
 ----------------------------------
 
-
-
-
-
-
-
 How much will it cost to implement?
 -----------------------------------
 
@@ -284,5 +278,7 @@ decisions on fact, my personal bias will have an effect in any grey
 areas of the decision making, of which there are always some.
 
 
+How to avoid "analysis paralysis"?
+----------------------------------
 
-
+After all this talk of analysis, one might ask, how do we avoid doing too much of it?
