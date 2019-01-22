@@ -1,7 +1,7 @@
 Good Idea?
 ==========
 
-:date: 2019-01-22 11:00
+:date: 2019-01-22 22:00
 :author: Luke Frisken
 :slug: code/good-ideas
 :image: {photo}album/photo.jpg
