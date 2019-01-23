@@ -9,34 +9,33 @@ Good Idea?
 
 ow should you decide whether an idea is a "good idea"?
 
-This article discusses this question mostly in the context of business
+This post discusses the question mostly in the context of business
 propositions, product ideas and process improvements, however I'm sure
 the some of this could be applied to other walks of life.
 
 This is a question I've been asking myself and thinking about in my
-head for a few years now, but a recent debate with a co-worker, with
-many tangents, made me consider the value of placing these ideas down
-in words so I can consider them further and form a more cohesive
+head for a few years now, but a discussion with a co-worker, with many
+tangents, made me consider the value of placing these ideas down in
+words so I can consider them further and form a more cohesive
 perspective. This question comes from wanting to understand the
 project management aspect to innovation, and also wanting to improve
 my own process for generating and evaluating ideas for product
-developement. I've had the opportunity to pitch a number of ideas in
-companies, for university group projects, and working on a number
-personal ideas. I've also had the opportunity to work in product
-support and see some of the consequences of decisions. I want to think
-about these experiences and learn from them, and try to discover
-better ways to do things, to improve.
+developement. I've had the chance to pitch a number of ideas in
+companies, work on new ideas for university/industry projects, and
+working on a number personal ideas. I've also had the opportunity to
+work in product support and see some of the long term consequences of
+design decisions. I want to think about these experiences and learn
+from them, and try to discover better ways to do things, to improve.
 
-As I've progressed in my various interests in outdoor sports (hiking,
-climbing, mountaineering, ski mountaineering, kayaking), outside of
-the software industry, it has become apparent to me how important it
-is to properly assess risk, and to seek to methodically eliminate
-personal and group bias when making decisions. We need to find a way
-to do this that is practical and likely to be performed when it is
-needed. It has also helped me to understand accidents and disasters
-are most often a result of a string of small mistakes, rather than one
-large poor decision. You need to be careful and diligent to catch
-these mistakes.
+We all get inspiration from somewhere. As I've progressed in my
+various interests in outdoor sports, outside of the software industry,
+it has become apparent to me how important it is to properly assess
+risk, and to seek to methodically eliminate personal and group bias
+when making decisions. We need to find a way to do this that is
+practical and likely to be performed when it is needed. It has also
+helped me to understand accidents and disasters are most often a
+result of a string of small mistakes, rather than one large poor
+decision. You need to be careful and diligent to catch these mistakes.
 
 Many people rely heuristics decision making, mental shortcuts,
 effective ways to reach a conclusion quickly and efficiently. Without
@@ -50,19 +49,13 @@ how to make decisions that result in less mistakes.
 What is *quality* training for your heuristic decision making? It's
 all about accurate feedback. In the world of outdoor sports, it is
 difficult to receive quality training because many mistakes do not
-result in any measurable alteration of the outcome, and when they are
-measurable the situation is serious. You need to seek carefully for
-alternative sources of information in order to provide quality
-feedback of your decisions. You need to take the time to sit down and
-analyse your decisions. You need to be willing to subject yourself to
-the scrutiny of your peers, and others with more experience.
-
-In the world of software development and professional developement in
-a business context, this culture around rigorous self-improvement is
-perhaps lacking, but I would like to try and apply more of it to
-myself if possible. Undoubtedly, many decisions are made, and many
-situtations in this context do not provide immediate or convenient
-feedback on the quality of the decisions being made.
+result in any measurable negative feedback, and sometimes they can
+even result in positive feedback. You need to seek carefully for
+alternative sources of information in order to provide accurate
+feedback on the quality of your decisions. You need to take the time
+to sit down and analyse your decisions. You need to be willing to
+subject yourself to the scrutiny of your peers, and others with more
+experience.
 
 Management and Personal Perspectives
 ------------------------------------
@@ -106,11 +99,11 @@ have very different perspectives to myself) in order to be able to
 work on the idea, or for it to be able to gain traction and become a
 success.
 
-In some ways, even if it is a personal project, I still need to
-allocate my limited personal time towards ideas and projects that I
-find valuable. The time spent evaluating ideas in protracted "analysis
-paralysis" also needs to be taken into account when crafting a better
-strategy around this issue.
+Even if it is a personal project, I still need to allocate my limited
+personal time towards ideas and projects that I find valuable. The
+time spent evaluating ideas in protracted "analysis paralysis" also
+needs to be taken into account when crafting a better strategy around
+this issue.
 
 * Why do I want to work on my idea?
 * What gets me excited about ideas?
@@ -240,10 +233,32 @@ Who stands to lose from the success of this idea?
 --------------------------------------------------
 
 Assuming your project for implementing the idea was successful, who,
-after implementation, stands to lose something as a result?
+after implementation, stands to lose something as a result? Perhaps it
+may have unintented or inconsiderate side-effects? History has plenty
+of bold examples of this, where perhaps with a little more forethought
+such consequences could have been avoided, however even small scale
+projects can suffer from the same problem. Perhaps you may be entering
+into competition with a partner. Perhaps you may be increasing someone
+else's workload or stress levels.
 
 Who stands to lose from the failure of this idea?
 -------------------------------------------------
+
+You may lose time, you may lose opportunities, you may lose money. Or
+perhaps someone else, or some other entity invested in the project may
+stand to lose a great deal more than yourself. However at an early
+stage, I think these thoughts should not get in the way of the desire
+to take the idea further and test its value with more research and
+low cost prototyping.
+
+Who stands to gain from the failure of this idea?
+-------------------------------------------------
+
+Yourself of course! A lot can be learned from failure, however it can
+come at a cost. You don't want to learn about avalanche safety by
+being buried in an avalanche, your odds are not good once you're in
+there. Try to catch and identify failures early, and don't let them
+stack up.
 
 What are the potential roadblocks?
 ----------------------------------
@@ -281,4 +296,5 @@ areas of the decision making, of which there are always some.
 How to avoid "analysis paralysis"?
 ----------------------------------
 
-After all this talk of analysis, one might ask, how do we avoid doing too much of it?
+After all this analysis, one might ask, how do we avoid doing too much
+of it for our ideas? 
