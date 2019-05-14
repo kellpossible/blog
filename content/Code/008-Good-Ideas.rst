@@ -33,7 +33,7 @@ it has become apparent to me how important it is to properly assess
 risk, and to seek to methodically eliminate personal and group bias
 when making decisions. We need to find a way to do this that is
 practical and likely to be performed when it is needed. It has also
-helped me to understand accidents and disasters are most often a
+helped me to understand that accidents and disasters are most often a
 result of a string of small mistakes, rather than one large poor
 decision. You need to be careful and diligent to catch these mistakes.
 
