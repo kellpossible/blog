@@ -269,9 +269,49 @@ with the stars. This was probably my favorite trip, despite being
 sick, and having many emotions. It's great being with a group of fun
 friends.
 
-Blue Lakes
-----------
+(Голубые озера) Blue Lakes
+--------------------------
 
 The final hike of my trip to Kamchatka was a day trip to a location
 known as Blue Lakes. It is on the opposite side of the same mountain
-range as Vach Kazhets.
+range as Вачкажец. Anna and I caught the bus to Yelisovo and a taxi
+down the short road out to the Gora Moroznaya ski resort to meet the
+group we were hiking with.
+
+From the resort the track runs parallel on the north bank of a
+river. The green vegetation is up to our shoulders on either side, and
+the guide for the trip made the occasional loud call to deter
+bears. Along the way we were overtaken by a group of horse riders, it
+looks like a lot of fun! They make their way through the valley off
+the track.
+
+Plunging down into a gully, a slippery board crossed the rushing
+creek, and at each corssing, I observed the guys ceremoniously offered
+their hand out to the girls in the group, who seemed quite capable
+hikers. Chivalry is alive in Russia, and everyone seems to get right
+into it, a noted cultural difference. Gender roles are strong, and yet
+so many women out there on the outdoor trips, it almost puts the
+average hiking trip I've been on at home to shame. Food for thought in
+the debates about gender equality in the outdoors.
+
+At some point, the valley narrows and steepens, and we crossed the
+river at a flat spot. Strangely, we watched a duckling float past and
+plunge into the subsequent rapids, not sure what happened there! The
+hiking from this point reminded me a bit of South West Tasmania, until
+gaining the snow, and thereupon, the Blue Lakes themselves, cloaked in
+fog.
+
+Up on the hillside, we observed the horse riders approach from above,
+evidently having taken a different route. On the opposite side, a bear
+was ambling among the bushes. We sat for lunch and watched the
+reflections in calm water.
+
+Conclusion
+----------
+
+Almost a full year later as I sit here finishing this account, I still
+dream about the majestic volcanos framed against the sky, the friendly
+smiles, and fun with new friends. Kamchatka is vast, and full of so
+many wild and stunningly beautiful places to explore, here you can
+feel your horizons expanding. I can't wait to get back and join my new
+friends, next time in Spring for some skiing!
