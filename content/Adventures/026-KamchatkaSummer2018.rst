@@ -285,15 +285,6 @@ bears. Along the way we were overtaken by a group of horse riders, it
 looked like a lot of fun! They make their way through the valley off
 the track.
 
-Plunging down into a gully, a slippery board crossed the rushing
-creek, and at each crossing, I observed the guys ceremoniously offered
-their hand out to the girls in the group, who seemed quite capable
-hikers. Chivalry is alive in Russia, and everyone seems to get right
-into it, a noted cultural difference. Gender roles are strong, and yet
-there are so many women out there on the outdoor trips, it almost puts
-the average hiking trip I've been on at home to shame. Food for
-thought in the debates about gender equality in the outdoors.
-
 At some point, the valley narrows and steepens, and we crossed the
 river at a flat spot. Strangely, we watched a duckling float past and
 plunge into the subsequent rapids, not sure what happened there! The
