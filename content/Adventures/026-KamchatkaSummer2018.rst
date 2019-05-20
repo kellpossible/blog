@@ -16,12 +16,12 @@ agenda for many Australians, and far Eastern Russia must be a fair bit
 lower, despite Kamchatka almost being in the same time zone as us.
 
 "A land of ice and fire", during winter Kamchatka's weather consists
-of very low temperatures, and a huge amount of snow. There are <insert
-here> active volcanos on Kamchatka, two of these will be erupting on
-any given day. From a geological perspective, the vast wilderness
-areas of Kamchatka are full of interesting discoveries. Kamchatka is
-also full of interesting wildlife which tends to be more active during
-the summer months, the Kamchatka Brown Bear being the most noteable
+of very low temperatures, and a huge amount of snow. There are 29
+active volcanos on Kamchatka, two of these will be erupting on any
+given day. From a geological perspective, the vast wilderness areas of
+Kamchatka are full of interesting discoveries. Kamchatka is also full
+of interesting wildlife which tends to be more active during the
+summer months, the Kamchatka Brown Bear being the most noteable
 resident in the region.
 
 Ever since seeing a photograph of a skier descending one of the many
@@ -88,7 +88,7 @@ Once outside, Anna was standing alone waiting for me, and we caught
 the bus together to Petropavalsk-Kamchatsky.
 
 (Горели) Gorely Volcano
--------------------------
+-----------------------
 
 The first hike for the trip was a visit to Gorely volcano. From what I
 could understand this trip was to consist mostly of people from
@@ -134,7 +134,7 @@ the party was having on their wilderness getaway.
 
 
 (Толбачик) Tolbachik Volcano
-------------------------------
+----------------------------
 
 By far the most anticipated adventure we had planned for the my visit,
 was an excursion to Tolbachik Volcano. Anna had managed to secure a
@@ -282,24 +282,24 @@ From the resort the track runs parallel on the north bank of a
 river. The green vegetation is up to our shoulders on either side, and
 the guide for the trip made the occasional loud call to deter
 bears. Along the way we were overtaken by a group of horse riders, it
-looks like a lot of fun! They make their way through the valley off
+looked like a lot of fun! They make their way through the valley off
 the track.
 
 Plunging down into a gully, a slippery board crossed the rushing
-creek, and at each corssing, I observed the guys ceremoniously offered
+creek, and at each crossing, I observed the guys ceremoniously offered
 their hand out to the girls in the group, who seemed quite capable
 hikers. Chivalry is alive in Russia, and everyone seems to get right
 into it, a noted cultural difference. Gender roles are strong, and yet
-so many women out there on the outdoor trips, it almost puts the
-average hiking trip I've been on at home to shame. Food for thought in
-the debates about gender equality in the outdoors.
+there are so many women out there on the outdoor trips, it almost puts
+the average hiking trip I've been on at home to shame. Food for
+thought in the debates about gender equality in the outdoors.
 
 At some point, the valley narrows and steepens, and we crossed the
 river at a flat spot. Strangely, we watched a duckling float past and
 plunge into the subsequent rapids, not sure what happened there! The
-hiking from this point reminded me a bit of South West Tasmania, until
-gaining the snow, and thereupon, the Blue Lakes themselves, cloaked in
-fog.
+hiking from this point reminded me a bit of South West Tasmania, steep
+and moist, until gaining the snow, and thereupon, the Blue Lakes
+themselves, cloaked in fog.
 
 Up on the hillside, we observed the horse riders approach from above,
 evidently having taken a different route. On the opposite side, a bear
@@ -311,7 +311,8 @@ Conclusion
 
 Almost a full year later as I sit here finishing this account, I still
 dream about the majestic volcanos framed against the sky, the friendly
-smiles, and fun with new friends. Kamchatka is vast, and full of so
-many wild and stunningly beautiful places to explore, here you can
-feel your horizons expanding. I can't wait to get back and join my new
-friends, next time in Spring for some skiing!
+faces, the genuine hospitality, and fun with new friends. Kamchatka is
+vast, and full of so many wild and stunningly beautiful places to
+explore, here you can feel your horizons expanding. I can't wait to
+get back and join my friends there again, next time in Spring for some
+skiing!
