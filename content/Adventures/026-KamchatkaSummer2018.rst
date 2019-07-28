@@ -185,9 +185,10 @@ and tourists food.
 
 At some point we stopped for a toilet break after lunch, and it began
 to dawn on me just how crazy the mosquitoes here get during summer. It
-was insane: You couldn't do your business without getting a dozen
-bites at least! Deet is a necessity here! On the road again, we spent
-the next 5 minutes killing mosquitoes that had managed to get inside.
+was insane: You couldn't do your toilet business without getting a
+dozen bites at least; Deet is a necessity here! On the road again, we
+spent the next 5 minutes killing mosquitoes that had managed to get
+inside.
 
 As the sun began to set, we found ourselves descending into a valley,
 with the sides steepening, and the trees rising around us. Ессо (Esso)
@@ -195,8 +196,7 @@ was our destination for that night. It's a very beautiful area, and I
 wish we could have spent more time there. The lodge we stayed at had
 an outdoor spa, we waited until after dinner and the grandma's had
 retired, then quickly jumped in before the mosquitoes devoured
-us. Sveta snuck some champaign over to the spa, and the evening
-settled.
+us. Sveta snuck some champaign over to us, and the evening settled.
 
 .. figure:: {photo}Kamchatka2018/20180722_072927.jpg
     :align: right
@@ -224,8 +224,8 @@ of colours.
 
 In the morning, we started on the track to the crater (lower summit)
 of Tolbachik. After skirting the lava field from the recent eruption
-for about an hour, we came across some red mice-like creatures, and
-then headed out to cross the field. There was a tunnel with hot air
+for about an hour, we came across some red mice, and then headed out
+to cross the labyrinth of black lava. There was a tunnel with hot air
 still blasting out of it, incredible to think that it was still so hot
 after many years.
 
@@ -244,8 +244,8 @@ location. I can certainly see why! It could easily be mistaken for
 another planet.
 
 The crater at the summit is something to be admired, it's reminiscent
-Sarlacc pit in The Return of the Jedi, but x10! I was almost afraid to
-look down into it.
+Sarlacc pit in The Return of the Jedi, but 10 times larger! I was
+almost afraid to look down into it.
 
 On our return, at the back of group once again with a grandma in tow,
 I was informed that the clouds looked like silver serving spoons. I
@@ -330,6 +330,37 @@ friends made it all the better.
 (Камчатский Камень) Kamchatka Stone
 -----------------------------------
 
+One morning we met up with a couple of Anna's friends who were working
+at a hostel in the city, to go out and have a picnic on the beach. In
+the afternoon as we were driving back, we had the crazy idea to hike
+up Kamchatka Kamen, so they dropped us off at a point on the
+road. Kamchatka Kamen is a spiky and picturesque volcanic lump of
+rock, sitting isolated on a ridge overlooking the city. This route is
+accessible via public transport, there is a bus which runs nearby.
+
+The sun was rapidly setting, so Anna and I tried to find out way up to
+the top before it got dark, and before we missed the last bus
+home. The path crosses a small creek, and passes by a small prison
+surrounded by barbed wire and greenery. Finding our way among the ruts
+and puddles in the road, beneath the powerlines, the sunset glow lit
+the scene.
+
+As the hill steepened, we lost the actual track, and took an
+interesting shortcut up a steep hill and through the bushes to regain
+the path along the ridge to the top. We couldn't enjoy the view for
+long, because we didn't have headtorches, and our phones were nearly
+dead! We struggled our way down the steep path in the dark, and
+eventually emerged on the flats beneath the eaves of the now gloomy
+prison scene. We were both incredibly thirsty after this exciting
+ordeal, and sought refreshment from a small shop. All the windows and
+doors were closed, I was skeptical, but Anna assured me that the shop
+was open, and sure enough, a little square window slid open and we
+soon had water running down our chins!
+
+We made our way over to the bus stop, to learn that we had managed to
+miss the final bus for the evening. By this stage, both our phones had
+flat batteries, so the only option was to walk back into town to try
+and find a taxi!
 
 
 (Голубые озера) Blue Lakes
@@ -354,13 +385,13 @@ bears. Along the way we were overtaken by a group of horse riders, it
 looked like a lot of fun! They make their way through the valley off
 the track.
 
-At some point, the valley narrows and steepens, and we crossed the
-river at a flat spot. Strangely, we watched a duckling float past and
-plunge into the subsequent rapids, not sure what happened there! The
-hiking from this point reminded me a bit of South West Tasmania, steep
-and moist, until gaining the snow, and subsequently, the Blue Lakes
-themselves, cloaked in mysterious fog with horses sliding by once
-again.
+At some point, the valley narrows and steepens, just below a
+waterfall, and we crossed the river at a flat spot. Strangely, we
+watched a duckling float past and plunge into the subsequent rapids,
+not sure what happened there! The hiking from this point reminded me a
+bit of South West Tasmania, steep and moist, until gaining the snow,
+and subsequently, the Blue Lakes themselves, cloaked in mysterious fog
+with horses sliding by once again.
 
 We sat for lunch and watched the reflections in calm water. Up on the
 hillside, a brown bear ambled among the bushes.
