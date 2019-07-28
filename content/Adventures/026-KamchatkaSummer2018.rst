@@ -400,6 +400,14 @@ hillside, a brown bear ambled among the bushes.
 
     Blue Lakes reflections
 
+Beijing
+-------
+
+On the way home, I flew via Khabarovsk to Beijing, and spent a few
+days there with my friend Jesse who lives there. Just did the usual
+touristy things, visited the Summer Palace, explored the Huton
+district, pushed through the crowds at Tianamen Square, etc.
+
 Conclusion
 ----------
 
