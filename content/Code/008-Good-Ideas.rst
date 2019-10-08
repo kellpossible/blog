@@ -6,7 +6,8 @@ Good Idea?
 :slug: code/good-ideas
 :image: {photo}album/photo.jpg
 :dropcap: H
-
+:status: draft
+	 
 ow should you decide whether an idea is a "good idea"?
 
 This post discusses the question mostly in the context of business
