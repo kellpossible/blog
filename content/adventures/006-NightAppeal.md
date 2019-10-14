@@ -3,8 +3,8 @@ title = "Night Appeal"
 date = 2016-11-02
 author = "Luke Frisken"
 slug = "night-appeal"
-gallery = "{photo}NightAppeal"
-image = "{photo}NightAppeal/20160708_195321_2.jpg"
+gallery = "/photos/NightAppeal"
+banner_image = "/photos/NightAppeal/20160708_195321_2.jpg"
 +++
 
 My torch flickers, and then goes out. Halfway through the second pitch,
@@ -15,7 +15,7 @@ Agamemnon. Waiting was worthwhile, the moon shines through and lights
 the route ahead.”* - 30th June 2015
 
 ![Climbing Agamenmon. A bonfire rages in The
-Pines.](photos/NightAppeal/20150630_232156.jpg)
+Pines.](/photos/NightAppeal/20150630_232156.jpg)
 
 *“It was dark, so we backed off from a climb and went exploring for
 another way up the Horn instead. We found a cave which lead to nowhere,
@@ -42,7 +42,7 @@ walking at night holds an extra element of risk, but romantic notions
 often get the better.
 
 ![Night climbing at Mt
-Arapiles](photos/NightAppeal/20161201_233538.jpg)
+Arapiles](/photos/NightAppeal/20161201_233538.jpg)
 
 Coming to the realisation this past year that this particular personal
 factor has had the ability to affect my ability to make rational and
@@ -82,7 +82,7 @@ presented with complex situations:
     maintain this appetite that satisfies our cravings.
 
 ![Mt Buller as seen from Mt
-Stirling](photos/NightAppeal/20160708_195321_2.jpg)
+Stirling](/photos/NightAppeal/20160708_195321_2.jpg)
 
 Recognising the factors within ourselves which affect our ability to
 make quality decisions in the outdoors, and being honest about them to

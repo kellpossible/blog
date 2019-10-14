@@ -3,8 +3,8 @@ title = "Mountaineering Round 2"
 date = 2017-02-27
 author = "Luke Frisken"
 slug = "mountaineering-round-2"
-gallery = "{photo}MountaineeringRound2"
-image = "{photo}MountaineeringRound2/20160120_102022.jpg"
+gallery = "/photos/MountaineeringRound2"
+banner_image = "/photos/MountaineeringRound2/20160120_102022.jpg"
 +++
 
 A follow up mountaineering trip to New Zealand, given the success of the

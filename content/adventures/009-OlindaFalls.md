@@ -3,8 +3,8 @@ title = "Olinda Falls"
 date = 2016-09-03
 author = "Luke Frisken"
 slug = "olinda-falls"
-gallery = "{photo}OlindaFalls2016"
-image = "{photo}OlindaFalls2016/20160903_120249.jpg"
+gallery = "/photos/OlindaFalls2016"
+banner_image = "/photos/OlindaFalls2016/20160903_120249.jpg"
 +++
 
 Olinda Falls is a fantastic spot for an escape from Melbourne via public

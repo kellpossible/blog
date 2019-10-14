@@ -3,8 +3,8 @@ title = "Skiing in Georgia"
 date = 2019-01-18
 author = "Luke Frisken"
 slug = "skiing-in-georgia"
-gallery = "{photo}Georgia2018"
-image = "{photo}Georgia2018/.jpg"
+gallery = "/photos/Georgia2018"
+banner_image = "/photos/Georgia2018/.jpg"
 draft = true
 +++
 
@@ -18,7 +18,7 @@ see if anyone else wanted to join us, but to no avail, so headed off to
 Gudauri at breakneck speed\! Probably one of the more interesting car
 rides I've been on for sure...
 
-![Our taxi ride to Gudauri](photos/Georgia2018/20181221_223042.jpg)
+![Our taxi ride to Gudauri](/photos/Georgia2018/20181221_223042.jpg)
 
 Just before Gudauri, we started passing kilometers of trucks parked on
 the side, they were all waiting for the pass to open after snow to
@@ -38,7 +38,7 @@ and Taylor, the other participants for the course. David was a fellow
 Aussie, funny to meet another one so far afield\!
 
 ![Skiing to Wild Guru from the
-resort.](photos/Georgia2018/20181222_183938.jpg)
+resort.](/photos/Georgia2018/20181222_183938.jpg)
 
 Wild Guru have a cinema room upstairs (where we also did the theory
 components of the course) and one of the nights we had a photo night and
@@ -50,7 +50,7 @@ It was a fantastic day out as can be seen from the photos. It did cloud
 in a bit at the top, but it was fine by the time we dropped down after
 lunch.
 
-![Near the top of Bidara](photos/Georgia2018/20181223_193751.jpg)
+![Near the top of Bidara](/photos/Georgia2018/20181223_193751.jpg)
 
 The next day, as part of the AST2 (while there was still good weather)
 we headed out to Milioni Gorge. This terrain is very easy to access from
@@ -58,7 +58,7 @@ the chairlift, and a couple of short skins for the day.
 
 ![Conditions were a bit variable, I took a mini tumble here halfway
 down, wasn't paying enough attention to the snow, such amazing
-scenery\!](photos/Georgia2018/20181224_175956.jpg)
+scenery\!](/photos/Georgia2018/20181224_175956.jpg)
 
 Peter informed us that the top, north facing section of the gorge is
 often a death trap hoar farm near the start of the season, but that
@@ -76,7 +76,7 @@ eventually decided to head on as originally planned (but late) to Mestia
 to see out the new year.
 
 ![The spectacular drive from Zugdidi to
-Mestia](photos/Georgia2018/20181230_215444.jpg)
+Mestia](/photos/Georgia2018/20181230_215444.jpg)
 
 We caught the train to Zugdidi, and met some friendly Norwegians who
 were willing to go halves on a taxi to Mestia (as we had once again
@@ -85,7 +85,7 @@ Svaneti region is incredible. The mountains close in on the sides, and
 the scenery becomes spectacular.
 
 ![Horses and towers in
-Mestia](photos/Georgia2018/20181231_210648.jpg)
+Mestia](/photos/Georgia2018/20181231_210648.jpg)
 
 I was still pretty sick, too sick to do backcountry skiing so we spent
 time in the town. I would have loved to have spent an entire month or a
@@ -106,7 +106,7 @@ Mestia was also a great place to spend New Year's eve, the town has an
 open air concert and celebration, with some ice sculptures.
 
 ![New Year's Eve celebrations in
-Mestia](photos/Georgia2018/20190101_002147.jpg)
+Mestia](/photos/Georgia2018/20190101_002147.jpg)
 
 Hope to be back in Georgia again sometime soonish\! Just a great mixture
 of culture, adventure, great snow, good vibes, and not super expensive\!

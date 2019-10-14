@@ -3,8 +3,8 @@ title = "Skiing the Razorback"
 date = 2016-08-13
 author = "Luke Frisken"
 slug = "skiing-razorback"
-gallery = "{photo}SkiingRazorback"
-image = "{photo}SkiingRazorback/20160814_170813.jpg"
+gallery = "/photos/SkiingRazorback"
+banner_image = "/photos/SkiingRazorback/20160814_170813.jpg"
 +++
 
 This was my first trip skiing along the Razorback to Mt Feathertop,
@@ -31,7 +31,7 @@ the hut.
 Looking up in the morning to see our tracks and our indecision from the
 previous day was quite the laugh.
 
-![Summit cornice](photos/SkiingRazorback/20160814_132014.jpg)
+![Summit cornice](/photos/SkiingRazorback/20160814_132014.jpg)
 
 The conditions up to the summit were verging on icy, so the girls
 decided to take the traverse back, while we continued up. As we reached
@@ -44,4 +44,4 @@ definitely the highlight of the 2016 season for me, can't wait to go
 back\!
 
 ![Tracks off the spur from the
-Razorback](photos/SkiingRazorback/20160814_153218.jpg)
+Razorback](/photos/SkiingRazorback/20160814_153218.jpg)

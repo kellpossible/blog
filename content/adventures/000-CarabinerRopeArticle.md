@@ -3,8 +3,8 @@ title = "Carabiner Damage to Rope"
 date = 2014-07-31
 author = "Luke Frisken"
 slug = "carabiner-rope-damage"
-gallery = "{photo}CarabinerRope2014"
-image = "{photo}CarabinerRope2014/carabiner_sharp_edge.jpg"
+gallery = "/photos/CarabinerRope2014"
+banner_image = "/photos/CarabinerRope2014/carabiner_sharp_edge.jpg"
 
 +++
 

@@ -3,8 +3,8 @@ title = "Ski Gear Review"
 date = 2017-10-10
 author = "Luke Frisken"
 slug = "ski-gear-review"
-gallery = "{photo}SkiingInNewZealand"
-image = "{photo}SkiingInNewZealand/20170724_130842.jpg"
+gallery = "/photos/SkiingInNewZealand"
+banner_image = "/photos/SkiingInNewZealand/20170724_130842.jpg"
 draft = true
 +++
 

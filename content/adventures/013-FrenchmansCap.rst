@@ -56,8 +56,8 @@ and OpenStreetMap:
 
 	Two Page A3 Map PDF **(click image to open pdf)**
 
-.. figure:: /images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg
-	:target: /images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg
+.. figure:: /images/external_/photos/Cradle_Mountain_And_Barn_Bluff.jpg
+	:target: /images/external_/photos/Cradle_Mountain_And_Barn_Bluff.jpg
 	:alt: Cradle Mountain Skyline
 
 	Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from http://bjornfree.com/galleries.html

@@ -3,8 +3,8 @@ title = "Ski Mountaineering in New Zealand"
 date = 2019-09-19
 author = "Luke Frisken"
 slug = "ski-mountaineering-nz"
-gallery = "{photo}SkiMountaineeringNewZealand"
-image = "{photo}SkiMountaineeringNewZealand/.jpg"
+gallery = "/photos/SkiMountaineeringNewZealand"
+banner_image = "/photos/SkiMountaineeringNewZealand/.jpg"
 +++
 
 The past couple of years I have set a goal for myself, to work towards

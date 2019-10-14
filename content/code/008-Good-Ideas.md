@@ -3,7 +3,7 @@ title = "Good Idea?"
 date = 2019-01-22
 author = "Luke Frisken"
 slug = "good-ideas"
-image = "{photo}album/photo.jpg"
+banner_image = "/photos/album/photo.jpg"
 draft = true
 +++
 

@@ -3,8 +3,8 @@ title = "Blue Lake Ice Climbing"
 date = 2015-08-01
 author = "Luke Frisken"
 slug = "blue-lake-ice-climbing"
-gallery = "{photo}BlueLake2016"
-image = "{photo}BlueLake2016/LukeFrisken_BlueLake_20150723_150028.jpg"
+gallery = "/photos/BlueLake2016"
+banner_image = "/photos/BlueLake2016/LukeFrisken_BlueLake_20150723_150028.jpg"
 +++
 
 TWO DAYS IN A ROW, stuck in the tent while it rains and sleets outside.
@@ -32,7 +32,7 @@ but despite the enthusiasm; inevitable. A sensible decision was made to
 return to the car and fetch snow shoes.
 
 ![Jack negotiating some icy conditions on the traverse around Blue
-Lake](photos/BlueLake2016/LukeFrisken_BlueLake_20150723_103253.jpg)
+Lake](/photos/BlueLake2016/LukeFrisken_BlueLake_20150723_103253.jpg)
 
 The start of the track which climbs up following the Snowy River
 negotiates a number of steepish rolling hills. I distinctly remember

@@ -3,7 +3,7 @@ title = "Empathy and Criticism; Reconciling Risk in Outdoor Sports"
 date = 2018-04-15
 author = "Luke Frisken"
 slug = "empathy-and-criticism"
-image = "{photo}EmpathyAndCriticism/20160223_175302.jpg"
+banner_image = "/photos/EmpathyAndCriticism/20160223_175302.jpg"
 +++
 
 We tell ourselves (and our friends and families) that our adventure sport
@@ -44,7 +44,7 @@ making us appear reckless and dagerous. It might make others question
 our personal suitability for taking on leadership responsibilities?
 
 ![An open discussion on safety after someone admits something they don't
-know](photos/EmpathyAndCriticism/20170414_152730.jpg)
+know](/photos/EmpathyAndCriticism/20170414_152730.jpg)
 
 Of course, unfortunately, considerations for admission of guilt and
 culpability in the context of litigation increasingly plays a part in a
@@ -91,7 +91,7 @@ also the last person in the group and there was a friend watching out
 for me while the others walked on ahead.*
 
 ![A hand-over-hand in a
-canyon.](photos/EmpathyAndCriticism/20180331_115955.jpg)
+canyon.](/photos/EmpathyAndCriticism/20180331_115955.jpg)
 
 *As I neared the top of the drop, I jumped up onto the edge and slipped
 onto my bum. It was a 50/50 chance whether I would fall down, but

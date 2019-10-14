@@ -3,8 +3,8 @@ title = "Mountaineering Course"
 date = 2016-12-08
 author = "Luke Frisken"
 slug = "mountaineering-course"
-gallery = "{photo}MountaineeringCourse"
-image = "{photo}MountaineeringCourse/20141222_062454.jpg"
+gallery = "/photos/MountaineeringCourse"
+banner_image = "/photos/MountaineeringCourse/20141222_062454.jpg"
 +++
 
 Absolutely no regrets choosing to do a mountaineering course before
@@ -34,11 +34,7 @@ invovled, and to practice some roping up technique.
 
 I made a short film about the trip which is up on vimeo.
 
-<div class="vimeo">
-
-144838304
-
-</div>
+{{ vimeo(id="144838304") }}
 
 ## Pre-Alpine Weekend
 
@@ -115,7 +111,7 @@ Connected to harness for taking crevasse fall. TODO
 ### Gear Placement
 
 ![Gear placement with few nuts may require
-creativity](photos/MountaineeringCourse/20141218_142803.jpg)
+creativity](/photos/MountaineeringCourse/20141218_142803.jpg)
 
   - While climbing easy routes, the best option is just not to fall.
     Place the minimum gear required to prevent death, and allow you to
@@ -166,7 +162,7 @@ side, the other person jumps over the other, and the rope catches them
 in the middle.
 
 ![Stu short-roping with James and Anja on the
-Minarets](photos/MountaineeringCourse/20141222_032206.jpg)
+Minarets](/photos/MountaineeringCourse/20141222_032206.jpg)
 
 ### Anchors
 
@@ -218,7 +214,7 @@ hold a person's fall on easy ground.
 ### Abseiling
 
 ![Abseiling with a fireman's belay onto the Fox
-Glacier](photos/MountaineeringCourse/20141223_061406.jpg)
+Glacier](/photos/MountaineeringCourse/20141223_061406.jpg)
 
 In the mountains it is common to find long descents with many abseils.
 Getting more efficient at abseiling can greatly reduce the time it takes
@@ -351,7 +347,7 @@ hill.
 ### Walking in Crampons
 
 ![Practicing in crampons on the first
-day](photos/MountaineeringCourse/20141215_111508.jpg)
+day](/photos/MountaineeringCourse/20141215_111508.jpg)
 
 Once we had our stuff stashed away in the hut we headed down onto the
 glacier to a shaded section where the snow was still firm, for some
@@ -374,11 +370,8 @@ to the slope, is an important decision.
 Stu made a video about this topic: [Should we face in on this
 slope?](https://vimeo.com/147008364) .
 
-<div class="vimeo">
+{{ vimeo(id="147008364") }}
 
-147008364
-
-</div>
 
 ### Travelling with an Ice Axe
 
@@ -470,11 +463,7 @@ to fulfil this goal of getting back to the hut by midday. He made a
 video about it: [Can we be finished by
 Midday?](https://vimeo.com/146237724)
 
-<div class="vimeo">
-
-146237724
-
-</div>
+{{ vimeo(id="146237724") }}
 
 ### Weather Patterns/Forecasts
 
@@ -483,11 +472,7 @@ Midday?](https://vimeo.com/146237724)
 Stu's video: [Will the weather and snow stability really
 hold?](https://vimeo.com/146642144)
 
-<div class="vimeo">
-
-146642144
-
-</div>
+{{ vimeo(id="146642144") }}
 
 ### Avalanches
 
@@ -504,7 +489,7 @@ bake in the sun and bond again.
 
 ![Stu walking back after checking out the major rockfall in the pass
 (out of frame to the
-left)](photos/MountaineeringCourse/20141223_043351.jpg)
+left)](/photos/MountaineeringCourse/20141223_043351.jpg)
 
 ### Freezing Level
 
@@ -527,7 +512,7 @@ lot more fun.
 ### Rock Climbing in Crampons
 
 ![They make horrible
-noises](photos/MountaineeringCourse/20141218_131758.jpg)
+noises](/photos/MountaineeringCourse/20141218_131758.jpg)
 
 ### Rock Climbing in Mountain Boots
 
@@ -541,7 +526,7 @@ when you need to change shoes.
 ### Placing Snow Stakes
 
 ![Stu showing us how to place snow stakes
-correctly](photos/MountaineeringCourse/20141215_124013.jpg)
+correctly](/photos/MountaineeringCourse/20141215_124013.jpg)
 
 ### Ice Screws
 
@@ -553,4 +538,4 @@ correctly](photos/MountaineeringCourse/20141215_124013.jpg)
 
 ![Jules practicing building an anchor after holding a fall (I ran down
 the hill at full
-pelt)](photos/MountaineeringCourse/20141218_074237.jpg)
+pelt)](/photos/MountaineeringCourse/20141218_074237.jpg)

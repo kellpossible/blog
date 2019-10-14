@@ -3,8 +3,8 @@ title = "Skiing in Japan"
 date = 2018-01-09
 author = "Luke Frisken"
 slug = "skiing-in-japan"
-gallery = "{photo}SkiingInJapan"
-image = "{photo}SkiingInJapan/20171226_155250.jpg"
+gallery = "/photos/SkiingInJapan"
+banner_image = "/photos/SkiingInJapan/20171226_155250.jpg"
 +++
 
 Slipping slippy\!\! I look up from my phone to see we are facing
@@ -21,7 +21,7 @@ thermos in the Seicomart carpark to calm the nerves, and we're off
 again.
 
 ![Nii-san telemarking in the Niseko
-backcountry](photos/SkiingInJapan/20180102_142703.jpg)
+backcountry](/photos/SkiingInJapan/20180102_142703.jpg)
 
 Nii-san, a Japanese man with long hair, glasses, and a big smile, is
 older than he seems when you consider his activity. He is still
@@ -35,7 +35,7 @@ opportunity to spend 2 days skiing with him, he is one of the
 friendliest, funniest and most generous people I have met.
 
 ![Christmas cake in Setsu Getsu
-Karou](photos/SkiingInJapan/20171224_190537.jpg)
+Karou](/photos/SkiingInJapan/20171224_190537.jpg)
 
 Setsu Getsu Karou is owned by Maiko ([Airbnb
 Account](https://www.airbnb.com.au/users/show/54008226)), she and her
@@ -64,7 +64,7 @@ skiing listed as an interest. I messaged all of them, asking not so much
 whether I could stay at their home (for accomodation was not the primary
 concern), but rather whether I could go out skiing with them.
 
-![Yuki skiing at Rusutsu](photos/SkiingInJapan/20171228_110428.jpg)
+![Yuki skiing at Rusutsu](/photos/SkiingInJapan/20171228_110428.jpg)
 
 One of the people who replied was Yuki. She had the following statement
 on her profile "You need your fat ski, a beacon, a probe, a shovel and
@@ -99,7 +99,7 @@ on and dropped over the edge. I quickly scrambled after her, clunky with
 my rental skis.
 
 ![Panoramic views of Sapporo from
-Teine](photos/SkiingInJapan/20171229_102638.jpg)
+Teine](/photos/SkiingInJapan/20171229_102638.jpg)
 
 While not steep by world standards, Teine and its sidecountry area is
 one of the steepest resorts in Hokkaido. And so it was, my first time on
@@ -125,7 +125,7 @@ for their friendly company and their impressive hospitality. A couple of
 days later, they left for Niseko, and I went to collect a hire car again
 for the next stage of the journey.
 
-![Masahiro at Rusustsu](photos/SkiingInJapan/20171228_142816.jpg)
+![Masahiro at Rusustsu](/photos/SkiingInJapan/20171228_142816.jpg)
 
 While collecting the car, I got a message from Sam. Sam and I had met
 through a mutual online acquaintence. He was living in Niseko for the
@@ -148,7 +148,7 @@ New Year's Eve; today's adventure is a fitting celebration and
 satisfying way to end 2017.
 
 ![Starting up Yotei (Photo by
-Sam)](photos/SkiingInJapan/20171231_080306.jpg)
+Sam)](/photos/SkiingInJapan/20171231_080306.jpg)
 
 Following a group of Norwegians who had left before us, I was thankful
 for their tracks, but at the same time cursing how steep they were
@@ -164,7 +164,7 @@ would stop to take a brief rest and admire the surroundings, which were
 truely breathtaking\!
 
 ![Verging on crampon
-teritory](photos/SkiingInJapan/20171231_122028.jpg)
+teritory](/photos/SkiingInJapan/20171231_122028.jpg)
 
 Before reaching the top it was necessary to remove skis and bootpack the
 last couple of hundred vertical meters. The firm snow was verging on
@@ -184,7 +184,7 @@ did a write-up on his blog about it, you can find here:
 <http://www.forloveofthemountains.com/2018/01/01/mt-yotei-finishing-2017-well/>
 
 ![On the edge of the crater on top of Yotei with
-Sam](photos/SkiingInJapan/20171231_130105.jpg)
+Sam](/photos/SkiingInJapan/20171231_130105.jpg)
 
 But that wasn't the end. Back in Niseko, I met up with Yuki and Masahiro
 for the annual flaming torchlight skiing for the countdown to midnight.
@@ -201,7 +201,7 @@ night talking, drinking and listening to jazz on the record player.
 
 ![A brief stop at the Tomakomai City Science Center to check out the
 backup copy of the Russian Mir space
-station.](photos/SkiingInJapan/20180104_125258.jpg)
+station.](/photos/SkiingInJapan/20180104_125258.jpg)
 
 The final destination on my list was to check out the Tokachidake area.
 Under the recommendation of Nii-san, I booked a couple of nights at the
@@ -214,7 +214,7 @@ about ski partners, and very kindly offered to let me join them on the
 next morning's adventure to Furanodake.
 
 ![Beautiful forest on
-Furanodake](photos/SkiingInJapan/20180106_134611.jpg)
+Furanodake](/photos/SkiingInJapan/20180106_134611.jpg)
 
 The next morning the father was feeling sick, so they sent their 18 year
 old son out with me (a total stranger more or less\!) for a backcountry
@@ -235,7 +235,7 @@ would take us to where we wanted to go. After a while, we found some
 tracks and realised we had completed a circle\!
 
 ![Throw your skis over before crossing the
-creek](photos/SkiingInJapan/20180106_145010.jpg)
+creek](/photos/SkiingInJapan/20180106_145010.jpg)
 
 That afternoon we joined the rest of the family at the carpark. I went
 skiing with their father (who was feeling better) in the trees above the

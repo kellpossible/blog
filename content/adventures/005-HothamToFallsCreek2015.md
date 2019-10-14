@@ -3,8 +3,8 @@ title = "Hotham to Fall's Creek"
 date = 2015-08-02
 author = "Luke Frisken"
 slug = "hotham-to-falls-creek"
-gallery = "{photo}HothamFallsCreek2015"
-image = "{photo}HothamFallsCreek2015/20150829_152719.jpg"
+gallery = "/photos/HothamFallsCreek2015"
+banner_image = "/photos/HothamFallsCreek2015/20150829_152719.jpg"
 +++
 
 We predicted much suffering and grim struggle for survival while on the 2

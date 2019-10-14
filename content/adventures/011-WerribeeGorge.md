@@ -3,8 +3,8 @@ title = "Werribee Gorge"
 date = 2016-11-18
 author = "Luke Frisken"
 slug = "werribee-gorge"
-gallery = "{photo}WerribeeGorge"
-image = "{photo}WerribeeGorge/20161115_150701.jpg"
+gallery = "/photos/WerribeeGorge"
+banner_image = "/photos/WerribeeGorge/20161115_150701.jpg"
 +++
 
 Werribee Gorge, and specifically Falcon's Lookout is a popular walking

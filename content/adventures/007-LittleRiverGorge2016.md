@@ -3,8 +3,8 @@ title = "Little River Gorge"
 date = 2016-12-22
 author = "Luke Frisken"
 slug = "little-river-gorge"
-gallery = "{photo}LittleRiverGorge2016"
-image = "{photo}LittleRiverGorge2016/20161119_163148.jpg"
+gallery = "/photos/LittleRiverGorge2016"
+banner_image = "/photos/LittleRiverGorge2016/20161119_163148.jpg"
 +++
 
 Returning to Little River Gorge was an exciting prospect. Aparently

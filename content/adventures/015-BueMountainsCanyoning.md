@@ -3,8 +3,8 @@ title = "Blue Mountains Canyoning"
 date = 2017-05-04
 author = "Luke Frisken"
 slug = "blue-mountains-canyoning"
-gallery = "{photo}BlueMountainsCanyoning"
-image = "{photo}BlueMountainsCanyoning/20170416_172609_1.jpg"
+gallery = "/photos/BlueMountainsCanyoning"
+banner_image = "/photos/BlueMountainsCanyoning/20170416_172609_1.jpg"
 +++
 
 This Easter, I made the long car drive journey up to New South Whales to
