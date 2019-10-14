@@ -1,9 +1,12 @@
 +++
 title = "Sphinx For Documenting Java Projects"
 date = 2017-01-28
-author = "Luke Frisken"
 slug = "sphinx-for-documenting-java-projects"
 banner_image = "/photos/Sphinx/FinalYearProject1.jpg"
+[taxonomies]
+categories = ["Code"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Last year I had the pleasure of using Sphinx for documenting my [final

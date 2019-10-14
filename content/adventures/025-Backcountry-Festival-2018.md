@@ -1,10 +1,13 @@
 +++
 title = "Victorian Backcountry Festival 2018"
 date = 2018-09-30
-author = "Luke Frisken"
 slug = "backcountry-festival-2018"
 gallery = "/photos/BackcountryFestival2018"
 banner_image = "/photos/BackcountryFestival2018/20180901_124656.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 On September this year the inaugural Victorian Backcountry Festival was

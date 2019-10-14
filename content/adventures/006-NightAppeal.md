@@ -1,10 +1,13 @@
 +++
 title = "Night Appeal"
 date = 2016-11-02
-author = "Luke Frisken"
 slug = "night-appeal"
 gallery = "/photos/NightAppeal"
 banner_image = "/photos/NightAppeal/20160708_195321_2.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 My torch flickers, and then goes out. Halfway through the second pitch,

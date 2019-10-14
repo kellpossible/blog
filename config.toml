@@ -17,5 +17,11 @@ theme = "zulma"
 # Whether to generate a RSS feed automatically
 generate_rss = true
 
+taxonomies = [
+    {name = "categories", rss = true},
+    {name = "tags", rss = false},
+    {name = "authors", rss = false},
+]
+
 [extra]
 # Put all your custom variables here

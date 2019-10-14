@@ -1,10 +1,13 @@
 +++
 title = "Backcountry Skiing in New Zealand"
 date = 2017-08-03
-author = "Luke Frisken"
 slug = "skiing-in-new-zealand"
 gallery = "/photos/SkiingInNewZealand"
 banner_image = "/photos/SkiingInNewZealand/20170724_130842.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 The aim was simple: do an avalanche course, and practice what we learned.

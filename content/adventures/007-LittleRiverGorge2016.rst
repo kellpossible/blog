@@ -27,8 +27,8 @@ I'll keep the description light because I really valued not knowing much before 
 
 An attempt was made to reach Wulgulmerang Falls, but we neglected to bring our rope on that side trip. It's a bit sketchy up there.
 
-.. figure:: /files/maps/LittleRiverGorgeMapA3.jpg
-	:target: /files/maps/LittleRiverGorgeMapA3.pdf
+.. figure:: /files/files/maps/LittleRiverGorgeMapA3.jpg
+	:target: /files/files/maps/LittleRiverGorgeMapA3.pdf
 	:align: right
 	:figwidth: 50%
 	:alt: A3 Map
@@ -36,8 +36,8 @@ An attempt was made to reach Wulgulmerang Falls, but we neglected to bring our r
 	A3 Map PDF **(click image to open pdf)**
 
 
-.. figure:: /files/maps/LittleRiverGorgeMapA4.jpg
-	:target: /files/maps/LittleRiverGorgeMapA4.pdf
+.. figure:: /files/files/maps/LittleRiverGorgeMapA4.jpg
+	:target: /files/files/maps/LittleRiverGorgeMapA4.pdf
 	:align: right
 	:figwidth: 50%
 	:alt: A4 Map

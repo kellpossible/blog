@@ -1,10 +1,13 @@
 +++
 title = "Mountaineering Course"
 date = 2016-12-08
-author = "Luke Frisken"
 slug = "mountaineering-course"
 gallery = "/photos/MountaineeringCourse"
 banner_image = "/photos/MountaineeringCourse/20141222_062454.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Absolutely no regrets choosing to do a mountaineering course before

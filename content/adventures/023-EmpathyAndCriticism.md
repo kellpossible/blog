@@ -1,9 +1,12 @@
 +++
 title = "Empathy and Criticism; Reconciling Risk in Outdoor Sports"
 date = 2018-04-15
-author = "Luke Frisken"
 slug = "empathy-and-criticism"
 banner_image = "/photos/EmpathyAndCriticism/20160223_175302.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 We tell ourselves (and our friends and families) that our adventure sport

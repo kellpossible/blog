@@ -1,7 +1,6 @@
 +++
 title = "Ski Touring and Hiking with Locus Map"
 date = 2017-11-13
-author = "Luke Frisken"
 slug = "ski-touring-with-locus-map"
 gallery = ""
 image = ""

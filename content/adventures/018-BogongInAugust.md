@@ -1,10 +1,13 @@
 +++
 title = "Bogong in August"
 date = 2017-08-28
-author = "Luke Frisken"
 slug = "bogong-in-august"
 gallery = "/photos/BogongInAugust2017"
 banner_image = "/photos/BogongInAugust2017/20170827_154008.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Mitch and I decided to head up to Bogong for the weekend

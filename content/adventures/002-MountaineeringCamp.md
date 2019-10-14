@@ -1,11 +1,13 @@
 +++
 title = "MUMC and Mountaineering"
 date = 2016-12-05
-author = "Luke Frisken"
 slug = "mumc-mountaineering"
 gallery = "/photos/MUMCMountaineering"
 banner_image = "/photos/MUMCMountaineering/20150101_051457.jpg"
-
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 A bored engineering student watching videos on his computer during summer
@@ -504,8 +506,6 @@ crevasse. This is coming from someone who forgets things all the time\!
 ![Drinks back at the
 Hermitage](/photos/MUMCMountaineering/20150108_161447.jpg)
 
-<div class="vimeo">
+This is a short film I made from footage taken on the trip: [https://vimeo.com/144355586](https://vimeo.com/144355586)
 
-144355586
-
-</div>
+{{ vimeo(id="144355586") }}

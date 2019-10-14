@@ -1,10 +1,13 @@
 +++
 title = "Blue Mountains Canyoning"
 date = 2017-05-04
-author = "Luke Frisken"
 slug = "blue-mountains-canyoning"
 gallery = "/photos/BlueMountainsCanyoning"
 banner_image = "/photos/BlueMountainsCanyoning/20170416_172609_1.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 This Easter, I made the long car drive journey up to New South Whales to

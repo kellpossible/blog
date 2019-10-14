@@ -1,10 +1,13 @@
 +++
 title = "Olinda Falls"
 date = 2016-09-03
-author = "Luke Frisken"
 slug = "olinda-falls"
 gallery = "/photos/OlindaFalls2016"
 banner_image = "/photos/OlindaFalls2016/20160903_120249.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Olinda Falls is a fantastic spot for an escape from Melbourne via public

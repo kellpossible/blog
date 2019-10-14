@@ -1,11 +1,13 @@
 +++
 title = "West Ridge of Mt Buller"
 date = 2016-08-07
-author = "Luke Frisken"
 slug = "buller-west-ridge"
 gallery = "/photos/BullerWestRidge2016"
 banner_image = "/photos/BullerWestRidge2016/20160807_114502.jpg"
-
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Why do the best adventures always seem to happen when I break my phone? I

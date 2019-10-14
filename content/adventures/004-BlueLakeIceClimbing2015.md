@@ -1,10 +1,13 @@
 +++
 title = "Blue Lake Ice Climbing"
 date = 2015-08-01
-author = "Luke Frisken"
 slug = "blue-lake-ice-climbing"
 gallery = "/photos/BlueLake2016"
 banner_image = "/photos/BlueLake2016/LukeFrisken_BlueLake_20150723_150028.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 TWO DAYS IN A ROW, stuck in the tent while it rains and sleets outside.

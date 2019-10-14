@@ -1,10 +1,13 @@
 +++
 title = "Skiing in Japan"
 date = 2018-01-09
-author = "Luke Frisken"
 slug = "skiing-in-japan"
 gallery = "/photos/SkiingInJapan"
 banner_image = "/photos/SkiingInJapan/20171226_155250.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Slipping slippy\!\! I look up from my phone to see we are facing

@@ -22,7 +22,7 @@ template = "section.html"
 
 # How many pages to be displayed per paginated page.
 # No pagination will happen if this isn't set or if the value is 0
-paginate_by = 0
+paginate_by = 10
 
 # If set, will be the path used by paginated page and the page number will be appended after it.
 # For example the default would be page/1

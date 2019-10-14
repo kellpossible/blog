@@ -1,10 +1,13 @@
 +++
 title = "Good Idea?"
 date = 2019-01-22
-author = "Luke Frisken"
 slug = "good-ideas"
 banner_image = "/photos/album/photo.jpg"
 draft = true
+[taxonomies]
+categories = ["Code"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 How should you decide whether an idea is a "good idea"?

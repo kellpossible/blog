@@ -1,10 +1,13 @@
 +++
 title = "Kamchatka in the Summer"
 date = 2019-07-27
-author = "Luke Frisken"
 slug = "kamchatka-summer-2018"
 gallery = "/photos/Kamchatka2018"
 banner_image = "/photos/Kamchatka2018/20180715_134839.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 The Kamchatka Peninsula is a little known region of the world. When I was

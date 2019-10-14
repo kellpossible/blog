@@ -50,8 +50,8 @@ crew to do the exposed/scrambly/bush-bashy side trips and complete the loop.
 Also made another map for this trip using data from the Tasmanian Government,
 and OpenStreetMap:
 
-.. figure:: /files/maps/FrenchmansCapA3.jpg
-	:target: /files/maps/FrenchmansCapA3.pdf
+.. figure:: /files/files/maps/FrenchmansCapA3.jpg
+	:target: /files/files/maps/FrenchmansCapA3.pdf
 	:alt: A3 Map
 
 	Two Page A3 Map PDF **(click image to open pdf)**

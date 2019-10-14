@@ -1,11 +1,13 @@
 +++
 title = "Carabiner Damage to Rope"
 date = 2014-07-31
-author = "Luke Frisken"
 slug = "carabiner-rope-damage"
 gallery = "/photos/CarabinerRope2014"
 banner_image = "/photos/CarabinerRope2014/carabiner_sharp_edge.jpg"
-
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 I recently had the misfortune of cutting the sheath midway along a brand

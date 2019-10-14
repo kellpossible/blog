@@ -1,10 +1,13 @@
 +++
 title = "Skiing the Razorback"
 date = 2016-08-13
-author = "Luke Frisken"
 slug = "skiing-razorback"
 gallery = "/photos/SkiingRazorback"
 banner_image = "/photos/SkiingRazorback/20160814_170813.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 This was my first trip skiing along the Razorback to Mt Feathertop,

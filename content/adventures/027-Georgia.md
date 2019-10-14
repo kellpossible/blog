@@ -1,7 +1,6 @@
 +++
 title = "Skiing in Georgia"
 date = 2019-01-18
-author = "Luke Frisken"
 slug = "skiing-in-georgia"
 gallery = "/photos/Georgia2018"
 banner_image = "/photos/Georgia2018/.jpg"

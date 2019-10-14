@@ -1,7 +1,6 @@
 +++
 title = "Athurs Ranges Traverse"
 date = 2017-12-17
-author = "Luke Frisken"
 slug = "athurs-ranges-traverse"
 gallery = "/photos/AthursRangesTraverse"
 banner_image = "/photos/AthursRangesTraverse/.jpg"

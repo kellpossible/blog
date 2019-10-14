@@ -1,10 +1,13 @@
 +++
 title = "When Climbers Go Sailing"
 date = 2015-09-21
-author = "Luke Frisken"
 slug = "when-climbers-go-sailing"
 gallery = "/photos/WhenClimbersGoSailing"
 banner_image = "/photos/WhenClimbersGoSailing/20150201_175536.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Fair-weather sailing is underrated. As we nosed our way into the Bass
@@ -258,10 +261,6 @@ memories of a most unexpected and fortunate adventure.
 ## Short Film
 
 This is a short film I made from footage taken on the trip:
-[https://vimeo.com/144355555]()
+[https://vimeo.com/144355555](https://vimeo.com/144355555)
 
-<div class="vimeo">
-
-144355555
-
-</div>
+{{ vimeo(id="144355555") }}

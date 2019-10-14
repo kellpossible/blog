@@ -1,10 +1,13 @@
 +++
 title = "Blue Mountains Canyoning 2018"
 date = 2018-04-12
-author = "Luke Frisken"
 slug = "blue-mountains-canyoning-2018"
 gallery = "/photos/BlueMountainsCanyoning2018"
 banner_image = "/photos/BlueMountainsCanyoning2018/20180331_142255.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Once again I found myself struggling on the 10 hour drive from Melbourne

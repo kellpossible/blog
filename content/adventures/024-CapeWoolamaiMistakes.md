@@ -1,10 +1,13 @@
 +++
 title = "Cape Woolamai Mistakes"
 date = 2018-08-08
-author = "Luke Frisken"
 slug = "cape-woolamai-mistakes"
 gallery = "/photos/CapeWoolamaiMistakes"
 banner_image = "/photos/CapeWoolamaiMistakes/14859586_10154034654863034_466160819_o.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 Following on from my previous article about mistakes, I feel like it's
