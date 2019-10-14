@@ -4,7 +4,10 @@ date = 2019-01-18
 slug = "skiing-in-georgia"
 gallery = "/photos/Georgia2018"
 banner_image = "/photos/Georgia2018/.jpg"
-draft = true
+[taxonomies]
+categories = ["Adventures"]
+tags = []
+authors = ["Luke Frisken"]
 +++
 
 We flew into Tbilisi, and and were collected by a man who guided a
