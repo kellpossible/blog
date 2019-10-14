@@ -371,10 +371,9 @@ his spare fuel from their trip.
 Conclusion
 ----------
 
-So, I don't know when I will next be back in New Zealand, perhaps it
-will be for the guides course entrance test in a few years! I love
-this place, and the mountains are incredible, the people are friendly
-and adventurous. The hiking through the trees and rivers up to the
+So, I don't know when I will next be back in New Zealand. I love this
+place, and the mountains are incredible, the people are friendly and
+adventurous. The hiking through the trees and rivers up to the
 snowline on some trips just adds to the overall feeling of wild,
 challenging adventure. There are still many ski objectives I'd like to
 try there, especially Mt Aspiring and Elie De Beaumont, maybe next
