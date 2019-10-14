@@ -1,4 +1,7 @@
-# Scenery Creation Notes
++++
+title = "Scenery Creation Notes"
+date = 2018-01-01
++++
 
 ## 1. Obtain DEM Data
 Get DEM data from https://koordinates.com/publisher/university-of-otago-national-school-of-surveying/data/ 

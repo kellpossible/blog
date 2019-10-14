@@ -6,3 +6,4 @@ content/photos
 *.pid
 log.txt
 .vscode/
+public/
