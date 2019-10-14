@@ -1,4 +1,0 @@
-piexif
-Pillow
-pelican
-pelican-youtube
