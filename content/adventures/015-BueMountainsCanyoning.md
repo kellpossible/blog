@@ -130,8 +130,4 @@ canyoning trip in the Blue Mountains\!
 I made a short film about the trip which can be found on youtube here:
 [Blue Mountains Canyoning Easter 2017](https://youtu.be/r3WmqtEVpt0)
 
-<div class="youtube">
-
-r3WmqtEVpt0
-
-</div>
+{{ youtube(id="r3WmqtEVpt0",class="youtube") }}
