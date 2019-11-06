@@ -2,8 +2,8 @@
 title = "Werribee Gorge"
 date = 2016-11-18
 slug = "werribee-gorge"
-gallery = "/photos/WerribeeGorge"
-banner_image = "/photos/WerribeeGorge/20161115_150701.jpg"
+gallery = "/photos/werribee-gorge"
+banner_image = "/photos/werribee-gorge/20161115_150701.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -24,5 +24,5 @@ quite a bit of small loose rock that is easy to knock down onto climbers
 standing below.
 
 You can find heaps of great info and topos on
-[Chockstone](http://www.chockstone.org/werribeegorge/werribee.htm) and
+[Chockstone](http://www.chockstone.org/werribee-gorge/werribee.htm) and
 [TheCrag](https://www.thecrag.com/climbing/australia/werribee-gorge) .

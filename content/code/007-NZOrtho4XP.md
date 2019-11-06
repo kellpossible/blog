@@ -1,6 +1,12 @@
 +++
-title = "Scenery Creation Notes"
+title = "NZ Ortho4XP Scenery Creation"
 date = 2018-01-01
+gallery = "/photos/nzortho4xp"
+banner_image = "/photos/nzortho4xp/AS350B3_8.jpg"
+[taxonomies]
+categories = ["Code"]
+tags = ["flight-sim"]
+authors = ["Luke Frisken"]
 +++
 
 ## 1. Obtain DEM Data
@@ -43,7 +49,7 @@ which meant that the fillnodata script was only operating on the original
 I edited the vrt file to change what the `NoDataValue` is from `-inf` to
 `-nan`:
 
-```
+```xml
   <GeoTransform>  1.6861088038099999e+02,  1.5699496274303981e-04,  0.0000000000000000e+00, -4.1465068702600000e+01,  0.0000000000000000e+00, -1.5699496271755233e-04</GeoTransform>
   <VRTRasterBand dataType="Float32" band="1">
     <NoDataValue>-inf</NoDataValue>
@@ -54,7 +60,7 @@ I edited the vrt file to change what the `NoDataValue` is from `-inf` to
 
 Got changed to:
 
-```
+```xml
   <GeoTransform>  1.6861088038099999e+02,  1.5699496274303981e-04,  0.0000000000000000e+00, -4.1465068702600000e+01,  0.0000000000000000e+00, -1.5699496271755233e-04</GeoTransform>
   <VRTRasterBand dataType="Float32" band="1">
     <NoDataValue>-nan</NoDataValue>
@@ -65,7 +71,7 @@ Got changed to:
 
 Now I can render out as a tif to use in the fillnodata:
 
-```
+```sh
 gdal_translate tile.tif.vrt tile.tif
 gdal_fillnodata.py -md 10 tile.tif tile_filled.tif
 
@@ -74,7 +80,7 @@ gdal_fillnodata.py -md 10 tile.tif tile_filled.tif
 And then convert the `-nan` value to `0.0` so that Ortho4XP can deal with the
 file (it complains about NaNs):
 
-```
+```sh
 gdal_calc.py -A tile_filled.tif --outfile=tile_filled_zeroed.tif --calc="nan_to_num(A)"
 ```
 

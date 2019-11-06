@@ -2,8 +2,8 @@
 title = "Backcountry Skiing in New Zealand"
 date = 2017-08-03
 slug = "skiing-in-new-zealand"
-gallery = "/photos/SkiingInNewZealand"
-banner_image = "/photos/SkiingInNewZealand/20170724_130842.jpg"
+gallery = "/photos/skiing-in-new-zealand"
+banner_image = "/photos/skiing-in-new-zealand/20170724_130842.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -50,7 +50,7 @@ On Friday we all departed from Melbourne on a red-eye flight to arrive
 out at Christchurch international about 5am the next morning.
 
 ![Waiting for our flight in Melbourne
-Airport](/photos/SkiingInNewZealand/20170708_004207.jpg)
+Airport](/photos/skiing-in-new-zealand/20170708_004207.jpg)
 
 Sam, Julian and myself were to be borrowing a friend's car which he
 keeps on another friend's parent's property in Christchurch. The Dad,
@@ -95,7 +95,7 @@ through. It' s a very pretty part of New Zealand. Clearing the tree
 line, there was one very steep section where we had to get out and push.
 
 ![Skinning up at
-Cheeseman](/photos/SkiingInNewZealand/20170710_122752.jpg)
+Cheeseman](/photos/skiing-in-new-zealand/20170710_122752.jpg)
 
 Luckily, we didn't have to walk far to get to the snow, the cat track
 had snow all the way to the carpark, despite the surrounding slopes
@@ -127,7 +127,7 @@ snow. Layers of facets on the surface and near the ground were obvious.
 Not enough snow to be too worried now, but enough to be concerned for
 the next snowfall which would introduce a large load on top.
 
-![Below Mt Cockayne](/photos/SkiingInNewZealand/20170710_121515.jpg)
+![Below Mt Cockayne](/photos/skiing-in-new-zealand/20170710_121515.jpg)
 
 Following the snow pit shenanigans, we traversed the remainder of the
 the slope to a section where we could boot pack back up and enter the
@@ -166,7 +166,7 @@ were on a schedule to get back to Christchurch for their flight, and
 were very frustrated.
 
 ![Snow in the yard at Flock
-Hill](/photos/SkiingInNewZealand/20170712_070537.jpg)
+Hill](/photos/skiing-in-new-zealand/20170712_070537.jpg)
 
 That morning Tim the manager paid us a visit to check how we were doing.
 We were out on skis exploring the yard. He explained that all the other
@@ -187,7 +187,7 @@ reason being that it is too early in the season, and not enough snow to
 make strong snow bridges over the crevasses.
 
 ![Skiing on the Flock Hill
-property](/photos/SkiingInNewZealand/20170712_165341.jpg)
+property](/photos/skiing-in-new-zealand/20170712_165341.jpg)
 
 We spent that Wednesday evening, and the following day skiing up around
 the hill out the back of Flock Hill while we waited for the road to be
@@ -265,7 +265,7 @@ believe how silly we were. We all agreed I think and he sent us on our
 way.
 
 ![Super bummed about the battery
-situation\!](/photos/SkiingInNewZealand/20170715_100835.jpg)
+situation\!](/photos/skiing-in-new-zealand/20170715_100835.jpg)
 
 In Tekapo we quickly found an auto repair shop to deal us a new battery
 and some snow chains. It was getting close to mid-day and we didn't feel
@@ -318,7 +318,7 @@ with his skis on the way down, but apart from that, it was an exciting
 and fun descent.
 
 ![Skiing at Mt
-Dobson](/photos/SkiingInNewZealand/20170715_151137.jpg)
+Dobson](/photos/skiing-in-new-zealand/20170715_151137.jpg)
 
 Back at the car, I knew something was up when the central locking didn't
 work. "That's strange\!?". I turned the key in the ignition, no
@@ -414,7 +414,7 @@ There was snow all the way down to the village, and we were able to step
 into our skis right away\!
 
 ![Skinning along the valley floor from Mt Cook
-Village](/photos/SkiingInNewZealand/20170717_115745.jpg)
+Village](/photos/skiing-in-new-zealand/20170717_115745.jpg)
 
 The stairs on the track up to Muller Hut, as we had been warned by DOC
 were filled in with snow and ice, making climbing them a challenge.
@@ -431,7 +431,7 @@ both right\! I dug a pit and got some encouraging results, so we
 continued on our way.
 
 ![Finding our way up from Sealy
-Tarns](/photos/SkiingInNewZealand/20170717_151114.jpg)
+Tarns](/photos/skiing-in-new-zealand/20170717_151114.jpg)
 
 The advice from DOC was that we should be able to find a route on
 climbers right which avoids most of the avalanche terrain. We attempted
@@ -457,7 +457,7 @@ was getting dark, all the signs saying we needed to take things
 conservatively.
 
 ![Between the clouds, Sebastopol
-peak.](/photos/SkiingInNewZealand/20170717_160802.jpg)
+peak.](/photos/skiing-in-new-zealand/20170717_160802.jpg)
 
 Sam and Jules sped down the mellow terrain immediately below us scoping
 out rocks and wind drifts for shelter opportunities while I fumbled
@@ -475,7 +475,7 @@ it comfortable. An interesting dichotomy, as the extra gear probably
 slowed us down, partly contributing to our trouble.
 
 ![Getting comfy in the
-cave](/photos/SkiingInNewZealand/20170717_190314.jpg)
+cave](/photos/skiing-in-new-zealand/20170717_190314.jpg)
 
 In the morning we dug a couple of snow pits outside our shelter to
 discover that we had good reason to be concerned, the mixed results of
@@ -497,7 +497,7 @@ wardens, made some friendly suggestions about where we could head to
 next. Ohau and the Remarkables were on the agenda\!
 
 ![Skiing down in the
-morning](/photos/SkiingInNewZealand/20170718_101449.jpg)
+morning](/photos/skiing-in-new-zealand/20170718_101449.jpg)
 
 ## Wanaka
 
@@ -518,7 +518,7 @@ stress about our car, and a difference in expectations and preference
 for activities during the trip.
 
 ![Relaxing climbing in
-Wanaka](/photos/SkiingInNewZealand/20170720_121754.jpg)
+Wanaka](/photos/skiing-in-new-zealand/20170720_121754.jpg)
 
 After a couple of days spent rock climbing together and hanging out in
 Wanaka, our Melbourne friends in the other car caught up with us after
@@ -544,7 +544,7 @@ for the purpose of having somewhere to go when the avalanche risk was
 high, as most of the terrain in the area is not steep enough to slide.
 
 ![Avalanche forecast for 22nd of
-July](/photos/SkiingInNewZealand/20170722_100000.jpg)
+July](/photos/skiing-in-new-zealand/20170722_100000.jpg)
 
 We transferred our excess baggage into one car so we could all fit into
 the other, and drove up to the Snow Farm. This cross-country ski field
@@ -562,7 +562,7 @@ off to go kite skiing. He pointed out the other wings already on the
 horizon, it looked to be a good day for the sport.
 
 ![Skinning up in the Pisa Range. Snow Farm behind
-us.](/photos/SkiingInNewZealand/20170723_133704.jpg)
+us.](/photos/skiing-in-new-zealand/20170723_133704.jpg)
 
 It turned out the reason for our slow progress over very easy terrain
 was that one of our group who had hurt their knee earlier, was finding
@@ -583,7 +583,7 @@ avalanche advisory, I was glad we had picked the Pisa range. On the
 ascent we were careful to stick to the ridge, and the lower agled
 slopes.
 
-![Kirtle Burn Hut](/photos/SkiingInNewZealand/20170724_130842.jpg)
+![Kirtle Burn Hut](/photos/skiing-in-new-zealand/20170724_130842.jpg)
 
 On the way up, I noted a consistent rain crust, lightly covered by a
 dusting of snow. I was hoping that higher up this rain from the previous
@@ -595,7 +595,7 @@ crust, the others struggled a lot getting down not having had much
 practice on that type of snow.
 
 ![Near the summit of Mt
-Pisa](/photos/SkiingInNewZealand/20170723_163700.jpg)
+Pisa](/photos/skiing-in-new-zealand/20170723_163700.jpg)
 
 The next day the visibility was terrible. I convinced Tom and Jim to
 join me on some jaunts on the surrounding hills.
@@ -623,7 +623,7 @@ and the final run back to Snow Farm capped off a great little trip in
 the Pisa Range.
 
 ![The ski out of the Pisa
-Range](/photos/SkiingInNewZealand/20170725_121619.jpg)
+Range](/photos/skiing-in-new-zealand/20170725_121619.jpg)
 
 ## Remarkables
 
@@ -633,7 +633,7 @@ on the menu was some day touring around the Remarkables ski field,
 especially the ridge heading North, which Pip from Unwin Lodge had
 pointed out to me on the map.
 
-![Dodging tussocks](/photos/SkiingInNewZealand/20170726_112748.jpg)
+![Dodging tussocks](/photos/skiing-in-new-zealand/20170726_112748.jpg)
 
 After climbing the cat track under the lift on the Western edge of the
 field, we skipped North until a small saddle where Jules and I continued
@@ -657,7 +657,7 @@ Definetely keen to check out some of the runs further North on that
 route\!
 
 ![Skis on in the Remarkables. Queenstown behind
-us.](/photos/SkiingInNewZealand/20170726_111241.jpg)
+us.](/photos/skiing-in-new-zealand/20170726_111241.jpg)
 
 ## Temple Basin
 
@@ -682,7 +682,7 @@ between the lower and upper tows requires you to talk around on a
 platform chopped out of the snow.
 
 ![Walking between the rope tows at Temple
-Basin](/photos/SkiingInNewZealand/20170728_163040.jpg)
+Basin](/photos/skiing-in-new-zealand/20170728_163040.jpg)
 
 Temple had the goods, starting off on the lower tow, we were among the
 first tracks for the day. Very amusing trying to figure out how to
@@ -724,7 +724,7 @@ people to climb out from the basin we were about to ski. Because there
 were six of us we decided to split into two groups.
 
 ![Transition in the col before dropping into the Mingha
-Basin](/photos/SkiingInNewZealand/20170729_134651.jpg)
+Basin](/photos/skiing-in-new-zealand/20170729_134651.jpg)
 
 While we were waiting I decided to dig a pit and investigate. The
 results weren't super encouraging, a layer about 50cm down seemed

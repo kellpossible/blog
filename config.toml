@@ -24,4 +24,12 @@ taxonomies = [
 ]
 
 [extra]
-# Put all your custom variables here
+zulma_menu = [
+    {url = "$BASE_URL/adventures", name = "Adventures"},
+    {url = "$BASE_URL/code", name = "Code"},
+    {url = "$BASE_URL/tags/maps", name = "Maps"},
+    {url = "$BASE_URL/contact", name = "Contact"},
+]
+
+zulma_brand = {text = "Home"}
+zulma_title = "Luke Frisken"

@@ -2,8 +2,8 @@
 title = "Olinda Falls"
 date = 2016-09-03
 slug = "olinda-falls"
-gallery = "/photos/OlindaFalls2016"
-banner_image = "/photos/OlindaFalls2016/20160903_120249.jpg"
+gallery = "/photos/olinda-falls-2016"
+banner_image = "/photos/olinda-falls-2016/20160903_120249.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

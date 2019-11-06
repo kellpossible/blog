@@ -2,8 +2,8 @@
 title = "Athurs Ranges Traverse"
 date = 2017-12-17
 slug = "athurs-ranges-traverse"
-gallery = "/photos/AthursRangesTraverse"
-banner_image = "/photos/AthursRangesTraverse/.jpg"
+gallery = "/photos/athurs-ranges-2016"
+banner_image = "/photos/athurs-ranges-2016/.jpg"
 draft = true
 +++
 
@@ -51,9 +51,8 @@ Taking mum up well's cave route scrambling in the rain
 ## The Approach
 
 Evie's parents live near Hobart, and they offered to host us upon
-arriving there by plane on \<insert day of week\>. Evie's mum was very
-kind to offer to drive us to the beginning of the hike the following
-morning.
+arriving there by plane on Friday. Evie's mum was very kind to offer
+to drive us to the beginning of the hike the following morning.
 
 The first day was hard going with very heavy packs. Crawling under,
 around or over the many fallen trees required patience and

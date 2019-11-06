@@ -2,8 +2,6 @@
 title = "Ski Gear Review"
 date = 2017-10-10
 slug = "ski-gear-review"
-gallery = "/photos/SkiingInNewZealand"
-banner_image = "/photos/SkiingInNewZealand/20170724_130842.jpg"
 draft = true
 +++
 

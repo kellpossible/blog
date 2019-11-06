@@ -2,7 +2,7 @@
 title = "Empathy and Criticism; Reconciling Risk in Outdoor Sports"
 date = 2018-04-15
 slug = "empathy-and-criticism"
-banner_image = "/photos/EmpathyAndCriticism/20160223_175302.jpg"
+banner_image = "/photos/empathy-and-criticism/20160223_175302.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -47,7 +47,7 @@ making us appear reckless and dagerous. It might make others question
 our personal suitability for taking on leadership responsibilities?
 
 ![An open discussion on safety after someone admits something they don't
-know](/photos/EmpathyAndCriticism/20170414_152730.jpg)
+know](/photos/empathy-and-criticism/20170414_152730.jpg)
 
 Of course, unfortunately, considerations for admission of guilt and
 culpability in the context of litigation increasingly plays a part in a
@@ -85,31 +85,31 @@ talking to another friend, so delegate this responsibility\!
 To open the proceedings, a story about one of my own near misses, a
 couple of weekends ago I was in a canyon with some friends:
 
-*We were approaching the end of the difficult sections and nearing the
-end of the canyon, everyone was euphoric with the beauty of the
-surroundings. The final obstacle to negotiate was a hand-over-hand fixed
-line down into a pool of water. perhaps 5m below. I was feeling cocky,
-confident and happy, I knew that this was going to be easy for me. I was
-also the last person in the group and there was a friend watching out
-for me while the others walked on ahead.*
+> *We were approaching the end of the difficult sections and nearing the
+> end of the canyon, everyone was euphoric with the beauty of the
+> surroundings. The final obstacle to negotiate was a hand-over-hand fixed
+> line down into a pool of water. perhaps 5m below. I was feeling cocky,
+> confident and happy, I knew that this was going to be easy for me. I was
+> also the last person in the group and there was a friend watching out
+> for me while the others walked on ahead.*
 
 ![A hand-over-hand in a
-canyon.](/photos/EmpathyAndCriticism/20180331_115955.jpg)
+canyon.](/photos/empathy-and-criticism/20180331_115955.jpg)
 
-*As I neared the top of the drop, I jumped up onto the edge and slipped
-onto my bum. It was a 50/50 chance whether I would fall down, but
-thankfully I did not. While the direct consequences of failure were not
-dire (the pool was fairly deep), it still would have been very possible
-for me to injure myself had I fallen, and extracting an injured person
-from a canyon is sure to be a nightmare.*
-
-*I should not have let my guard down, the trip is not over until you're
-back sitting at home. I'm very thankful that my friend was watching out
-for me should I have fallen and incapacitated myself in the deep water
-and began to drown. This is the often unspoken and seemingly obvious
-policy while on outdoor trips with friends, watching out for each other,
-up to the very last person, at each obstacle. Never more clearly did the
-value of this policy make itself known to me.*
+> *As I neared the top of the drop, I jumped up onto the edge and slipped
+> onto my bum. It was a 50/50 chance whether I would fall down, but
+> thankfully I did not. While the direct consequences of failure were not
+> dire (the pool was fairly deep), it still would have been very possible
+> for me to injure myself had I fallen, and extracting an injured person
+> from a canyon is sure to be a nightmare.*
+> 
+> *I should not have let my guard down, the trip is not over until you're
+> back sitting at home. I'm very thankful that my friend was watching out
+> for me should I have fallen and incapacitated myself in the deep water
+> and began to drown. This is the often unspoken and seemingly obvious
+> policy while on outdoor trips with friends, watching out for each other,
+> up to the very last person, at each obstacle. Never more clearly did the
+> value of this policy make itself known to me.*
 
 If you've had a personal accident or a near miss you'd like to share,
 consider writing about it, and sharing it with your friends, and perhaps

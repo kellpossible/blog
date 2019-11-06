@@ -2,8 +2,8 @@
 title = "MUMC and Mountaineering"
 date = 2016-12-05
 slug = "mumc-mountaineering"
-gallery = "/photos/MUMCMountaineering"
-banner_image = "/photos/MUMCMountaineering/20150101_051457.jpg"
+gallery = "/photos/mumc-mountaineering"
+banner_image = "/photos/mumc-mountaineering/20150101_051457.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -19,7 +19,7 @@ excursions, including climbing up into hostile New Zealand alpine
 terrain and launching from its peaks.
 
 ![New Zealand mountains on a family
-holiday](/photos/MUMCMountaineering/20111207_110852.jpg)
+holiday](/photos/mumc-mountaineering/20111207_110852.jpg)
 
 During a previous visit to that country with family, these distant snow
 covered tops were constantly drawing my attention. While hiking up the
@@ -94,7 +94,7 @@ After dinner conversations with my father about being sensible, and risk
 management helped me keep my head.
 
 ![Richard belaying with style at Werribie
-Gorge](/photos/MUMCMountaineering/20140412_111836.jpg)
+Gorge](/photos/mumc-mountaineering/20140412_111836.jpg)
 
 I will never forget the first lesson of lead belaying out at Werribie
 Gorge, catching a fall which I knew was eventually coming, but did not
@@ -131,7 +131,7 @@ understand precisely what this means. I thought I understood it, but I
 since realise that I didn't.
 
 ![The "Onsight or Flight" weekend at Mt
-Arapiles](/photos/MUMCMountaineering/20140531_130722.jpg)
+Arapiles](/photos/mumc-mountaineering/20140531_130722.jpg)
 
 My first lead climb and my first lead fall occured on Stu's annual
 *"Onsight or Flight"* trip out at Mt Arapiles. Normally reserved for
@@ -144,7 +144,7 @@ up on vimeo at [Onsight or Flight 2014](https://vimeo.com/144355917) and
 [Onsight or Flight 2015](https://vimeo.com/144355766).
 
 ![My first multipitch
-lead](/photos/MUMCMountaineering/20140622_150818.jpg)
+lead](/photos/mumc-mountaineering/20140622_150818.jpg)
 
 The first multipitch climb that I lead was out at the Cathedral Ranges.
 I went with a friend who had never climbed before. In retrospect, this
@@ -154,12 +154,12 @@ would not have had the skills to deal with a scenario should I fall and
 be injured. We had a great time, but lesson learned.
 
 ![Egil on his first multipitch lead at the Cathedral
-Ranges](/photos/MUMCMountaineering/20140906_134659.jpg)
+Ranges](/photos/mumc-mountaineering/20140906_134659.jpg)
 
 ## Mountaineering Course
 
 ![Nice morning for a
-walk](/photos/MUMCMountaineering/20141213_094334.jpg)
+walk](/photos/mumc-mountaineering/20141213_094334.jpg)
 
 The morning I arrived in New Zealand, I took a connecting flight out to
 Queenstown. I had planned to do a single day of a paragliding course,
@@ -175,7 +175,7 @@ field. It was a brilliant day, the sun was shining and there was a
 little bit of wind.
 
 ![Paragliding
-lessons](/photos/MUMCMountaineering/20141213_140945.jpg)
+lessons](/photos/mumc-mountaineering/20141213_140945.jpg)
 
 The paragliding course with Lisa from [extreme
 air](http://extremeair.co.nz/) was fantastic. She was surprised that I
@@ -199,7 +199,7 @@ into the mountains.
 
 ![the mountaineering course participants on top of the Minarets. Photo
 credit -
-Stu](/photos/MUMCMountaineering/10952542_885597678129116_2350276163205895008.jpg)
+Stu](/photos/mumc-mountaineering/10952542_885597678129116_2350276163205895008.jpg)
 
 ## Christmas Adventure
 
@@ -217,7 +217,7 @@ vicinity on google maps, and headed out on our silly rental bikes for an
 interesting day.
 
 ![Walking up into the
-clouds](/photos/MUMCMountaineering/20141225_114908.jpg)
+clouds](/photos/mumc-mountaineering/20141225_114908.jpg)
 
 Arriving at the start of the walking track, all the hills above us were
 covered in cloud, so we could not see what we were aiming for. We made
@@ -230,7 +230,7 @@ Christchurch had probably affected the area, but this did not seem such
 a large risk in comparison to witnessing tons of rock falling nearby us
 in the mountains.
 
-![Abseiling](/photos/MUMCMountaineering/20141225_122258.jpg)
+![Abseiling](/photos/mumc-mountaineering/20141225_122258.jpg)
 
 After the abseil while retrieving the ropes, I managed to get the rope
 caught on a ledge. A sharp pull brought the rope down, but a decent
@@ -248,14 +248,14 @@ face had managed to roll down the hill, taking with it many climbs,
 presumably as a result of the earthquake.
 
 ![Climbing above
-Christchurch](/photos/MUMCMountaineering/20141225_144139.jpg)
+Christchurch](/photos/mumc-mountaineering/20141225_144139.jpg)
 
 ## Mountaineering Camp
 
 ### Arrival
 
 ![The model of the park in the
-museum](/photos/MUMCMountaineering/20141227_130044.jpg)
+museum](/photos/mumc-mountaineering/20141227_130044.jpg)
 
 I met with a car load freshly arrived from Melbourne overnight in
 Christchurch, who picked me up from the Jailhouse Hostel. We bought an
@@ -267,7 +267,7 @@ In Cook Village we took the liberty to check out the climbing museum,
 highly recommended. The table model of the area was fantastic for
 discussing the climbs that we might attempt on our trip.
 
-![Rogue potatoes](/photos/MUMCMountaineering/20141228_121730.jpg)
+![Rogue potatoes](/photos/mumc-mountaineering/20141228_121730.jpg)
 
 With food boxes re-packed, two helicopter flights up to Tasman saddle
 hut ensued the next good weather morning. I was on the second flight in.
@@ -280,9 +280,9 @@ were the sole occupants of Tasman Saddle Hut, a very lucky and happy
 turn of events.
 
 ![Summit of Mt
-Aylmer](/photos/MUMCMountaineering/20141229_054606.jpg)
+Aylmer](/photos/mumc-mountaineering/20141229_054606.jpg)
 
-![Hochstetter Dome](/photos/MUMCMountaineering/20141229_085540.jpg)
+![Hochstetter Dome](/photos/mumc-mountaineering/20141229_085540.jpg)
 
 The first outing for the trip was a traverse of Mt Aylmer and
 Hochstetter Dome, an absolute classic. In my head as we climbed was the
@@ -317,7 +317,7 @@ we noticed our friends about to arrive in the saddle below us, so,
 assured they were in good humour and safe, we snuck up and threw
 snowballs at them.
 
-![On the traverse](/photos/MUMCMountaineering/20150101_063606.jpg)
+![On the traverse](/photos/mumc-mountaineering/20150101_063606.jpg)
 
 ### Ice Climb on Elie
 
@@ -329,7 +329,7 @@ Lendenfeld Saddle, and suggested to Richard and I that we could try to
 climb one of them the next morning. An open snow slope to the west would
 provide an easy means of descent.
 
-![The first pitch](/photos/MUMCMountaineering/20150102_052744.jpg)
+![The first pitch](/photos/mumc-mountaineering/20150102_052744.jpg)
 
 Upon reaching the base of the gulley in the half light of dawn, the crux
 of the climb was obvious; an overhanging wall of ice/glacier just above
@@ -377,12 +377,12 @@ look down, and it was Richard, casually walking down, sounding
 unconcerned. I think we both had a laugh\! (or at least I do feel like
 laughing about it now\!)
 
-![The rockfall](/photos/MUMCMountaineering/20150102_114541.jpg)
+![The rockfall](/photos/mumc-mountaineering/20150102_114541.jpg)
 
 ### Nutella Wars
 
 ![Keen for Nutella in the
-mountains](/photos/MUMCMountaineering/20141218_104901.jpg)
+mountains](/photos/mumc-mountaineering/20141218_104901.jpg)
 
 Everyone knew how much Liv and Dani liked their Nutella, so I bravely
 elected to steal a quantity in order to provoke some sort of dispute
@@ -398,7 +398,7 @@ devastating blow.
 ### Storm Days
 
 ![Storm day
-entertainment](/photos/MUMCMountaineering/20141230_130154.jpg)
+entertainment](/photos/mumc-mountaineering/20141230_130154.jpg)
 
 The hog's backs over Mt Cook marked the onset of the next cold front,
 and the poor weather. New Year's Eve was celebrated in good spirits with
@@ -440,7 +440,7 @@ soon overtook just before reaching Stu and Dale's little yellow tent
 which was perched in the saddle below the mass of Malte Brun.
 
 ![Looking up along the West Ridge of Malte Brun. Bonney/Malte col in the
-center.](/photos/MUMCMountaineering/20141216_075047.jpg)
+center.](/photos/mumc-mountaineering/20141216_075047.jpg)
 
 9 of us climbed the West Ridge together, with the team I was in taking
 up the rear. Overall, the rock is good quality when compared to other
@@ -479,7 +479,7 @@ this the actual goal.
 ## Closing Thoughts
 
 ![Walking back down the Darwin
-Glacier](/photos/MUMCMountaineering/20150108_122600.jpg)
+Glacier](/photos/mumc-mountaineering/20150108_122600.jpg)
 
 Joined by Dan and Ryan after their day out on Mt Hamilton, together all
 11 of the MUMC OXOs walked down the Bonney and the Darwin to our
@@ -504,7 +504,7 @@ almost remember every ice screw we placed and every step over a
 crevasse. This is coming from someone who forgets things all the time\!
 
 ![Drinks back at the
-Hermitage](/photos/MUMCMountaineering/20150108_161447.jpg)
+Hermitage](/photos/mumc-mountaineering/20150108_161447.jpg)
 
 This is a short film I made from footage taken on the trip: [https://vimeo.com/144355586](https://vimeo.com/144355586)
 

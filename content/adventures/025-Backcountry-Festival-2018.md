@@ -2,8 +2,8 @@
 title = "Victorian Backcountry Festival 2018"
 date = 2018-09-30
 slug = "backcountry-festival-2018"
-gallery = "/photos/BackcountryFestival2018"
-banner_image = "/photos/BackcountryFestival2018/20180901_124656.jpg"
+gallery = "/photos/backcountry-festival-2018"
+banner_image = "/photos/backcountry-festival-2018/20180901_124656.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -24,7 +24,7 @@ total, all very keen to learn essential skills for effective navigation
 in off-track snow/white-out conditions.
 
 ![Running the Navigation Clinic (Photo: Guillaume
-Stanguennec)](/photos/BackcountryFestival2018/20180901_124656.jpg)
+Stanguennec)](/photos/backcountry-festival-2018/20180901_124656.jpg)
 
 Some of the topics we covered in the 2 hours of theory and 1.5 hours of
 practical outside:
@@ -56,7 +56,7 @@ and bearings would also be a valuable option for a future clinic. Maybe
 next year...
 
 ![Skiing on Saturday afternoon (Photo: Guillaume
-Stanguennec)](/photos/BackcountryFestival2018/20180901_153758.jpg)
+Stanguennec)](/photos/backcountry-festival-2018/20180901_153758.jpg)
 
 On Saturday afternoon after the clinic, I went out for a tour with Peter
 (from BSAR) and Guillaume. The snow was shockingly similar to sloppy wet
@@ -73,7 +73,7 @@ time since I skied with just the starlight, it is truely a wonderful
 experience.
 
 ![Views out towards Spion Kopje (Photo: Guillaume
-Stanguennec)](/photos/BackcountryFestival2018/20180902_132907.jpg)
+Stanguennec)](/photos/backcountry-festival-2018/20180902_132907.jpg)
 
 In the morning, we packed up the tent just in time to meet Peter again
 for a day of touring with perfect weather, and a snow pack that had
@@ -88,7 +88,7 @@ were stopped by a ditch and didn't hit anybody or disappear into the
 valley.
 
 ![Practicing some jump turns (Photo: Guillaume
-Stanguennec)](/photos/BackcountryFestival2018/20180902_141050.jpg)
+Stanguennec)](/photos/backcountry-festival-2018/20180902_141050.jpg)
 
 The final run down the creek can only be described as exceedingly
 enjoyable. The gaps between the snowgums were wide enough to really

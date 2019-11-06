@@ -2,8 +2,8 @@
 title = "Frenchman's Cap"
 date = 2017-01-17
 slug = "frenchmans-cap"
-gallery = "/photos/FrenchmansCap2016/"
-banner_image = "/photos/FrenchmansCap2016/20170103_144142.jpg"
+gallery = "/photos/frenchmans-cap-2016/"
+banner_image = "/photos/frenchmans-cap-2016/20170103_144142.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = ["maps"]

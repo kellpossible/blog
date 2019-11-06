@@ -2,8 +2,8 @@
 title = "Mountaineering Course"
 date = 2016-12-08
 slug = "mountaineering-course"
-gallery = "/photos/MountaineeringCourse"
-banner_image = "/photos/MountaineeringCourse/20141222_062454.jpg"
+gallery = "/photos/mountaineering-course"
+banner_image = "/photos/mountaineering-course/20141222_062454.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -114,7 +114,7 @@ Connected to harness for taking crevasse fall. TODO
 ### Gear Placement
 
 ![Gear placement with few nuts may require
-creativity](/photos/MountaineeringCourse/20141218_142803.jpg)
+creativity](/photos/mountaineering-course/20141218_142803.jpg)
 
   - While climbing easy routes, the best option is just not to fall.
     Place the minimum gear required to prevent death, and allow you to
@@ -165,7 +165,7 @@ side, the other person jumps over the other, and the rope catches them
 in the middle.
 
 ![Stu short-roping with James and Anja on the
-Minarets](/photos/MountaineeringCourse/20141222_032206.jpg)
+Minarets](/photos/mountaineering-course/20141222_032206.jpg)
 
 ### Anchors
 
@@ -217,7 +217,7 @@ hold a person's fall on easy ground.
 ### Abseiling
 
 ![Abseiling with a fireman's belay onto the Fox
-Glacier](/photos/MountaineeringCourse/20141223_061406.jpg)
+Glacier](/photos/mountaineering-course/20141223_061406.jpg)
 
 In the mountains it is common to find long descents with many abseils.
 Getting more efficient at abseiling can greatly reduce the time it takes
@@ -350,7 +350,7 @@ hill.
 ### Walking in Crampons
 
 ![Practicing in crampons on the first
-day](/photos/MountaineeringCourse/20141215_111508.jpg)
+day](/photos/mountaineering-course/20141215_111508.jpg)
 
 Once we had our stuff stashed away in the hut we headed down onto the
 glacier to a shaded section where the snow was still firm, for some
@@ -492,7 +492,7 @@ bake in the sun and bond again.
 
 ![Stu walking back after checking out the major rockfall in the pass
 (out of frame to the
-left)](/photos/MountaineeringCourse/20141223_043351.jpg)
+left)](/photos/mountaineering-course/20141223_043351.jpg)
 
 ### Freezing Level
 
@@ -515,7 +515,7 @@ lot more fun.
 ### Rock Climbing in Crampons
 
 ![They make horrible
-noises](/photos/MountaineeringCourse/20141218_131758.jpg)
+noises](/photos/mountaineering-course/20141218_131758.jpg)
 
 ### Rock Climbing in Mountain Boots
 
@@ -529,7 +529,7 @@ when you need to change shoes.
 ### Placing Snow Stakes
 
 ![Stu showing us how to place snow stakes
-correctly](/photos/MountaineeringCourse/20141215_124013.jpg)
+correctly](/photos/mountaineering-course/20141215_124013.jpg)
 
 ### Ice Screws
 
@@ -541,4 +541,4 @@ correctly](/photos/MountaineeringCourse/20141215_124013.jpg)
 
 ![Jules practicing building an anchor after holding a fall (I ran down
 the hill at full
-pelt)](/photos/MountaineeringCourse/20141218_074237.jpg)
+pelt)](/photos/mountaineering-course/20141218_074237.jpg)

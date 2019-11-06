@@ -2,8 +2,8 @@
 title = "West Ridge of Mt Buller"
 date = 2016-08-07
 slug = "buller-west-ridge"
-gallery = "/photos/BullerWestRidge2016"
-banner_image = "/photos/BullerWestRidge2016/20160807_114502.jpg"
+gallery = "/photos/buller-west-ridge-2016"
+banner_image = "/photos/buller-west-ridge-2016/20160807_114502.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -14,7 +14,7 @@ Why do the best adventures always seem to happen when I break my phone? I
 was contemplating this while sitting by the round-about in Mansfield
 outside the pub, waiting for my friends to arrive.
 
-![](/photos/BullerWestRidge2016/20160807_120205.jpg)
+![](/photos/buller-west-ridge-2016/20160807_120205.jpg)
 
 I had managed to break my phone that day while on a day trip to Mt
 Stirling with MUMC and MUSKI, and now the prospect of heading to the

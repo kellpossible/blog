@@ -2,8 +2,8 @@
 title = "Blue Mountains Canyoning 2018"
 date = 2018-04-12
 slug = "blue-mountains-canyoning-2018"
-gallery = "/photos/BlueMountainsCanyoning2018"
-banner_image = "/photos/BlueMountainsCanyoning2018/20180331_142255.jpg"
+gallery = "/photos/blue-mountains-canyoning-2018"
+banner_image = "/photos/blue-mountains-canyoning-2018/20180331_142255.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -38,7 +38,7 @@ everyone as contributers was an excellent tool for coordinating
 transport and gear logistics before the trip in a decentralized manner.
 
 ![Our Google
-Spreadsheet](/photos/BlueMountainsCanyoning2018/20180328_000000_CanyoningSpreadsheet.jpg)
+Spreadsheet](/photos/blue-mountains-canyoning-2018/20180328_000000_CanyoningSpreadsheet.jpg)
 
 While we were there, every morning groups would form and write their
 names and canyoning intentions on a list in the middle of our campsite.
@@ -60,7 +60,7 @@ Wollangambe River and ate lunch in the sunshine before jumping into the
 river from the rocks.
 
 ![Holding the rope for the first abseil into Serendipity
-Canyon](/photos/BlueMountainsCanyoning2018/20180330_132041.jpg)
+Canyon](/photos/blue-mountains-canyoning-2018/20180330_132041.jpg)
 
 ## Claustral Canyon
 
@@ -72,7 +72,7 @@ rainforest, sliding into the many pleasures that awaited us in Claustral
 Canyon.
 
 ![The Black Hole of
-Calcutta](/photos/BlueMountainsCanyoning2018/20180331_130918.jpg)
+Calcutta](/photos/blue-mountains-canyoning-2018/20180331_130918.jpg)
 
 The most noteable feature of the canyon is a series of abseils into the
 "Black Hole of Calcutta". I was amazed as we descended, we had our
@@ -99,7 +99,7 @@ a bit of an epic night. Someone's backpack also fell to pieces. We made
 it back to camp by 10pm so perhaps it wasn't so bad\!
 
 ![Entering Thunder
-Canyon](/photos/BlueMountainsCanyoning2018/20180331_142255.jpg)
+Canyon](/photos/blue-mountains-canyoning-2018/20180331_142255.jpg)
 
 ## Yileen Canyon
 

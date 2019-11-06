@@ -2,8 +2,8 @@
 title = "Bogong in August"
 date = 2017-08-28
 slug = "bogong-in-august"
-gallery = "/photos/BogongInAugust2017"
-banner_image = "/photos/BogongInAugust2017/20170827_154008.jpg"
+gallery = "/photos/bogong-in-august-2017"
+banner_image = "/photos/bogong-in-august-2017/20170827_154008.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -22,7 +22,7 @@ dropping in off the East side of Eskdale after had climbed above the
 tree line. It was much fun.
 
 ![At the bottom of our first run off Eskdale
-Spur](/photos/BogongInAugust2017/20170826_132122.jpg)
+Spur](/photos/bogong-in-august-2017/20170826_132122.jpg)
 
 With the snow looking to be stable, we opted to skin up the gully
 towards Hell's Gap (instead of bootpacking back up to the ridge). It's a
@@ -45,7 +45,7 @@ fall, with what appeared to be 10cm by morning. I felt a little sorry
 concept of bivy bags on (and now under) the snow.
 
 ![Our campsite in the
-morning](/photos/BogongInAugust2017/20170827_095426.jpg)
+morning](/photos/bogong-in-august-2017/20170827_095426.jpg)
 
 In the morning I had a discussion with someone else who was at the hut.
 I asked them whether they had ended up skiing the bowl we had been in
@@ -60,7 +60,7 @@ conversation ended there. It was a good conversation to have, as it
 doubled my attention to what was going on with the snow that day.
 
 ![The view from Eskdale Spur in the
-morning](/photos/BogongInAugust2017/20170827_110414.jpg)
+morning](/photos/bogong-in-august-2017/20170827_110414.jpg)
 
 As we skinned up Eskdale spur, I pointed out to Mitch my preference to
 ski the open, face-like, North ridge we could see coming down between
@@ -101,7 +101,7 @@ was good, and it was easy to stick to the small snow drifts and avoid
 the ice.
 
 ![Down the West Face (Photo taken by
-Mitch)](/photos/BogongInAugust2017/20170827_104235.jpg)
+Mitch)](/photos/bogong-in-august-2017/20170827_104235.jpg)
 
 We made it all the way down to between the trees, and had an absolute
 blast. Upon climbing back up it was interesting to notice (and we talked
@@ -141,7 +141,7 @@ snow was on the other side was confirmed by an enthusiastic
 recommendation to follow in their tracks on the East side of the
 Staircase.
 
-![Mitch zooming down](/photos/BogongInAugust2017/20170827_132703.jpg)
+![Mitch zooming down](/photos/bogong-in-august-2017/20170827_132703.jpg)
 
 By this stage, I was content to go with that option and watched Mitch
 drop in over the edge of the small cornice, and followed him down after
@@ -161,7 +161,7 @@ that perhaps the snow was was different enough to warrant stopping to
 check it out further.
 
 ![Me zooming down (Photo taken by
-Mitch)](/photos/BogongInAugust2017/20170827_121436.jpg)
+Mitch)](/photos/bogong-in-august-2017/20170827_121436.jpg)
 
 Anyhow, with the time for thought during the climb up, we aimed instead
 for the shallow entry option further down the ridge, remembering the
@@ -178,7 +178,7 @@ pole line to where the slope was less inclined to begin our traverse
 through the soft stuff.
 
 ![Sandpaper to the
-face\!](/photos/BogongInAugust2017/20170827_144249.jpg)
+face\!](/photos/bogong-in-august-2017/20170827_144249.jpg)
 
 The wind was like sandpaper to face and hard to stand straight, but
 excellent type 1.5 fun, we finally got down to Michell hut, where it was

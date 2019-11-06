@@ -2,7 +2,7 @@
 title = "Sphinx For Documenting Java Projects"
 date = 2017-01-28
 slug = "sphinx-for-documenting-java-projects"
-banner_image = "/photos/Sphinx/FinalYearProject1.jpg"
+banner_image = "/photos/sphinx/FinalYearProject1.jpg"
 [taxonomies]
 categories = ["Code"]
 tags = []
