@@ -2,7 +2,8 @@
 title = "Mountaineering Course"
 date = 2016-12-08
 slug = "mountaineering-course"
-gallery = "/photos/mountaineering-course"
+[extra]
+gallery = "photos/mountaineering-course"
 banner_image = "/photos/mountaineering-course/20141222_062454.jpg"
 [taxonomies]
 categories = ["Adventures"]

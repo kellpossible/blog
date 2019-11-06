@@ -2,7 +2,8 @@
 title = "Little River Gorge"
 date = 2016-12-22
 slug = "little-river-gorge"
-gallery = "/photos/little-river-gorge-2016"
+[extra]
+gallery = "photos/little-river-gorge-2016"
 banner_image = "/photos/little-river-gorge-2016/20161119_163148.jpg"
 [taxonomies]
 categories = ["Adventures"]

@@ -2,6 +2,7 @@
 title = "Ski Touring and Hiking with Locus Map"
 date = 2017-11-13
 slug = "ski-touring-with-locus-map"
+[extra]
 gallery = ""
 image = ""
 draft = true
@@ -40,14 +41,14 @@ required. It also has a web browser interface at
 <http://opentopomap.org> which I often use while planning trips from
 home.
 
-\<insert image of opentopomap in the browser and on the phone\>
+<!-- insert image of opentopomap in the browser and on the phone -->
 
 ### Japan
 
 Japan GSI Maps Standard topographic map, also available from a web user
 interface
 
-\<insert image of Japan GSI map in browser and on phone\>
+<!-- insert image of Japan GSI map in browser and on phone -->
 
 ### Tasmania
 
@@ -55,7 +56,7 @@ My locus map sources
 
 Overlay hillshade howto
 
-\<insert image of LIST in browser, and on phone\>
+<!-- insert image of LIST in browser, and on phone -->
 
 ### New Zealand
 

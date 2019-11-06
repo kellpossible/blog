@@ -2,8 +2,6 @@
 title = "Ski Mountaineering in New Zealand"
 date = 2019-09-19
 slug = "ski-mountaineering-nz"
-gallery = "/photos/ski-mountaineering-new-zealand"
-banner_image = "/photos/ski-mountaineering-new-zealand/.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

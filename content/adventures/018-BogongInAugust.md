@@ -2,7 +2,8 @@
 title = "Bogong in August"
 date = 2017-08-28
 slug = "bogong-in-august"
-gallery = "/photos/bogong-in-august-2017"
+[extra]
+gallery = "photos/bogong-in-august-2017"
 banner_image = "/photos/bogong-in-august-2017/20170827_154008.jpg"
 [taxonomies]
 categories = ["Adventures"]

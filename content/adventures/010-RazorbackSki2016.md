@@ -2,7 +2,8 @@
 title = "Skiing the Razorback"
 date = 2016-08-13
 slug = "skiing-razorback"
-gallery = "/photos/skiing-razorback"
+[extra]
+gallery = "photos/skiing-razorback"
 banner_image = "/photos/skiing-razorback/20160814_170813.jpg"
 [taxonomies]
 categories = ["Adventures"]

@@ -2,7 +2,8 @@
 title = "When Climbers Go Sailing"
 date = 2015-09-21
 slug = "when-climbers-go-sailing"
-gallery = "/photos/when-climbers-go-sailing"
+[extra]
+gallery = "photos/when-climbers-go-sailing"
 banner_image = "/photos/when-climbers-go-sailing/20150201_175536.jpg"
 [taxonomies]
 categories = ["Adventures"]

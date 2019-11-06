@@ -16,7 +16,7 @@
         </a>
         <div class="tags has-addons level-item">
             <span class="tag is-rounded">{{ page.date | date(format="%F") }}</span>
-            {% if page.taxonomies.authors %}
+            <!-- {% if page.taxonomies.authors %}
             <span class="tag is-rounded is-primary">
                     {% for author in page.taxonomies.authors %}
                     {{ author }}
@@ -31,12 +31,57 @@
                     {% endif %}
                     {% endfor %}
             </span>
-            {% endif %}           
+            {% endif %}            -->
             <span class="tag is-rounded">{{ self::read_time(page=page) }}</span>
         </div>
     </div>
 </header>
 {% endmacro article_header %}
+
+
+{% macro gallery(gallery_page) %}
+{% set page = gallery_page %}
+<div class="gallery">
+    {% for asset in page.assets %}
+    {% if asset is matching("[.](jpg|png)$") %}
+        <a href="{{ get_url(path=asset) }}">
+        <img src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}" />
+        </a>
+        &ensp;
+    {% endif %}
+    {% endfor %}
+</div>
+{% endmacro gallery %}
+
+
+{% macro gallery_header(page) %}
+<header>
+    <div class="has-text-centered">
+        <a href="{{ page.permalink | safe }}">
+            <p class="title article-title">{{ page.title }}
+            </p>
+        </a>
+        <div class="tags has-addons level-item">
+            <span class="tag is-rounded">{{ page.date | date(format="%F") }}</span>        
+        </div>
+    </div>
+</header>
+{% endmacro gallery_header %}
+
+{% macro gallery_in_list(page) %}
+<article itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card article">
+        <div class="card-content">
+            {{ self::gallery_header(page = page) }}
+            <div itemprop="summary" class="content article-body">
+                {% if page.summary %}
+                {{ page.summary | safe }}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</article>
+{% endmacro gallery_in_list %}
 
 {% macro page_in_list(page) %}
 <article itemscope itemtype="http://schema.org/CreativeWork">

@@ -242,7 +242,7 @@ prototyping.
 
 ## Who stands to gain from the failure of this idea?
 
-Yourself of course\! A lot can be learned from failure, however it can
+Yourself of course! A lot can be learned from failure, however it can
 come at a cost. You don't want to learn about avalanche safety by being
 buried in an avalanche, your odds are not good once you're in there. Try
 to catch and identify failures early, and don't let them stack up.
@@ -257,7 +257,7 @@ to catch and identify failures early, and don't let them stack up.
 
 ## How risky is this idea?
 
-Risk = probability of failure \* consequences
+Risk = probability of failure x consequences
 
 Does this risk level align with the company's risk appetite?
 

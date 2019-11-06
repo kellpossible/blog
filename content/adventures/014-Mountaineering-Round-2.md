@@ -2,7 +2,8 @@
 title = "Mountaineering Round 2"
 date = 2017-02-27
 slug = "mountaineering-round-2"
-gallery = "/photos/mountaineering-round-2"
+[extra]
+gallery = "photos/mountaineering-round-2"
 banner_image = "/photos/mountaineering-round-2/20160120_102022.jpg"
 [taxonomies]
 categories = ["Adventures"]

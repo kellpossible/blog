@@ -2,7 +2,8 @@
 title = "Blue Lake Ice Climbing"
 date = 2015-08-01
 slug = "blue-lake-ice-climbing"
-gallery = "/photos/blue-lake-2015"
+[extra]
+gallery = "photos/blue-lake-2015"
 banner_image = "/photos/blue-lake-2015/LukeFrisken_BlueLake_20150723_150028.jpg"
 [taxonomies]
 categories = ["Adventures"]

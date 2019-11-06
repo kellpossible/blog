@@ -2,7 +2,8 @@
 title = "Backcountry Skiing in New Zealand"
 date = 2017-08-03
 slug = "skiing-in-new-zealand"
-gallery = "/photos/skiing-in-new-zealand"
+[extra]
+gallery = "photos/skiing-in-new-zealand"
 banner_image = "/photos/skiing-in-new-zealand/20170724_130842.jpg"
 [taxonomies]
 categories = ["Adventures"]

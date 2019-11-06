@@ -2,7 +2,8 @@
 title = "Kamchatka in the Summer"
 date = 2019-07-27
 slug = "kamchatka-summer-2018"
-gallery = "/photos/kamchatka-2018"
+[extra]
+gallery = "photos/kamchatka-2018"
 banner_image = "/photos/kamchatka-2018/20180715_134839.jpg"
 [taxonomies]
 categories = ["Adventures"]

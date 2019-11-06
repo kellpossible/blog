@@ -14,15 +14,11 @@
                 <article itemscope itemtype="http://schema.org/BlogPosting">
                     <div class="card article">
                         <div class="card-content">
-                            {{ post_macros::article_header(page = page) }}
+                            {{ post_macros::gallery_header(page = page) }}
                             <div itemprop="articleBody" class="content article-body">
                                 {{ page.content | safe }}
                             </div>
-                            {% if page.extra.gallery %}
-                                {% set gallery_md_path = page.extra.gallery ~ "/index.md" %}
-                                {% set gallery_page = get_page(path=gallery_md_path) %}
-                                {{ post_macros::gallery(gallery_page = gallery_page) }}
-                            {% endif %}
+                            {{ post_macros::gallery(gallery_page = page) }}
                         </div>
                         {% block page_footer %}
                         {{ post_macros::post_footer(page=page) }}

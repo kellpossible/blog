@@ -2,7 +2,8 @@
 title = "West Ridge of Mt Buller"
 date = 2016-08-07
 slug = "buller-west-ridge"
-gallery = "/photos/buller-west-ridge-2016"
+[extra]
+gallery = "photos/buller-west-ridge-2016"
 banner_image = "/photos/buller-west-ridge-2016/20160807_114502.jpg"
 [taxonomies]
 categories = ["Adventures"]

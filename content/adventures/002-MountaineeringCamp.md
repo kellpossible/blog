@@ -2,7 +2,8 @@
 title = "MUMC and Mountaineering"
 date = 2016-12-05
 slug = "mumc-mountaineering"
-gallery = "/photos/mumc-mountaineering"
+[extra]
+gallery = "photos/mumc-mountaineering"
 banner_image = "/photos/mumc-mountaineering/20150101_051457.jpg"
 [taxonomies]
 categories = ["Adventures"]

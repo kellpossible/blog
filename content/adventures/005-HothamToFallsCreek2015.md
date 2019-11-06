@@ -2,7 +2,8 @@
 title = "Hotham to Fall's Creek"
 date = 2015-08-02
 slug = "hotham-to-falls-creek"
-gallery = "/photos/hotham-falls-creek-2015"
+[extra]
+gallery = "photos/hotham-falls-creek-2015"
 banner_image = "/photos/hotham-falls-creek-2015/20150829_152719.jpg"
 [taxonomies]
 categories = ["Adventures"]

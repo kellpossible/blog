@@ -2,7 +2,8 @@
 title = "Cape Woolamai Mistakes"
 date = 2018-08-08
 slug = "cape-woolamai-mistakes"
-gallery = "/photos/cape-woolamai-mistakes"
+[extra]
+gallery = "photos/cape-woolamai-mistakes"
 banner_image = "/photos/cape-woolamai-mistakes/14859586_10154034654863034_466160819_o.jpg"
 [taxonomies]
 categories = ["Adventures"]

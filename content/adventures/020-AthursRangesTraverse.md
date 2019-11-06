@@ -2,7 +2,8 @@
 title = "Athurs Ranges Traverse"
 date = 2017-12-17
 slug = "athurs-ranges-traverse"
-gallery = "/photos/athurs-ranges-2016"
+[extra]
+gallery = "photos/athurs-ranges-2016"
 banner_image = "/photos/athurs-ranges-2016/.jpg"
 draft = true
 +++

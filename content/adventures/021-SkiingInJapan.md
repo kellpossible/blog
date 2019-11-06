@@ -2,7 +2,8 @@
 title = "Skiing in Japan"
 date = 2018-01-09
 slug = "skiing-in-japan"
-gallery = "/photos/skiing-in-japan"
+[extra]
+gallery = "photos/skiing-in-japan"
 banner_image = "/photos/skiing-in-japan/20171226_155250.jpg"
 [taxonomies]
 categories = ["Adventures"]

@@ -2,7 +2,6 @@
 title = "Making Maps"
 date = 2019-11-01
 slug = "making-maps"
-draft = true
 [taxonomies]
 categories = ["Code"]
 tags = ["maps"]
@@ -252,8 +251,6 @@ container/format for raster data which packages the data along with the
 map callibration data.
 
 ### Vector Data
-
-Vector data
 
 ## Worldwide
 

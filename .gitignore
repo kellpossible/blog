@@ -1,10 +1,11 @@
 __pycache__
 output
 content/photos
-static/photos/
+content/photos/
 *.sublime-workspace
 *.sublime-project
 *.pid
 log.txt
 .vscode/
 public/
+static/processed_images/

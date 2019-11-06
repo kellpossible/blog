@@ -1,7 +1,8 @@
 +++
 title = "NZ Ortho4XP Scenery Creation"
 date = 2018-01-01
-gallery = "/photos/nzortho4xp"
+[extra]
+gallery = "photos/nzortho4xp"
 banner_image = "/photos/nzortho4xp/AS350B3_8.jpg"
 [taxonomies]
 categories = ["Code"]

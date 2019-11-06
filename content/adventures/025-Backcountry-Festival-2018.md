@@ -2,7 +2,8 @@
 title = "Victorian Backcountry Festival 2018"
 date = 2018-09-30
 slug = "backcountry-festival-2018"
-gallery = "/photos/backcountry-festival-2018"
+[extra]
+gallery = "photos/backcountry-festival-2018"
 banner_image = "/photos/backcountry-festival-2018/20180901_124656.jpg"
 [taxonomies]
 categories = ["Adventures"]

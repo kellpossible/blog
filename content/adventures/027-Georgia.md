@@ -2,7 +2,8 @@
 title = "Skiing in Georgia"
 date = 2019-01-18
 slug = "skiing-in-georgia"
-gallery = "/photos/georgia-2018"
+[extra]
+gallery = "photos/georgia-2018"
 banner_image = "/photos/georgia-2018/.jpg"
 [taxonomies]
 categories = ["Adventures"]

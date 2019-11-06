@@ -2,7 +2,8 @@
 title = "Night Appeal"
 date = 2016-11-02
 slug = "night-appeal"
-gallery = "/photos/night-appeal"
+[extra]
+gallery = "photos/night-appeal"
 banner_image = "/photos/night-appeal/20160708_195321_2.jpg"
 [taxonomies]
 categories = ["Adventures"]

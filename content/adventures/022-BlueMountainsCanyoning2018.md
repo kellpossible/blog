@@ -2,7 +2,8 @@
 title = "Blue Mountains Canyoning 2018"
 date = 2018-04-12
 slug = "blue-mountains-canyoning-2018"
-gallery = "/photos/blue-mountains-canyoning-2018"
+[extra]
+gallery = "photos/blue-mountains-canyoning-2018"
 banner_image = "/photos/blue-mountains-canyoning-2018/20180331_142255.jpg"
 [taxonomies]
 categories = ["Adventures"]
