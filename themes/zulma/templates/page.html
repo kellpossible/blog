@@ -5,6 +5,9 @@
 <!-- START NAV -->
 {% block header %}
 {{ super() }}
+{% if page.extra.gallery %}
+<link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
+{% endif %}
 {% endblock header %}
 <!-- END NAV -->
 <main>
@@ -33,4 +36,33 @@
         </div>
     </section>
 </main>
+{% if page.extra.gallery %}
+<script src="{{ get_url(path="js/lightgallery.min.js") }}"></script> 
+
+<!-- lightgallery plugins -->
+<script src="{{ get_url(path="js/lg-thumbnail.min.js") }}"></script>
+<script src="{{ get_url(path="js/lg-fullscreen.min.js") }}"></script>
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        mode: 'lg-fade',
+        cssEasing : 'cubic-bezier(0.25, 0, 0.25, 1)',
+    });
+</script>
+<script type="text/javascript">
+    let images = document.querySelector(".content.article-body").querySelectorAll("img");
+    images.forEach(function(image){
+        let caption = image.getAttribute("alt");
+        if (caption)
+        {
+            let figure = document.createElement("figure");
+            image.replaceWith(figure);
+            figure.appendChild(image);
+            let figcaption = document.createElement("figcaption");
+            figcaption.innerHTML = caption;
+            figure.appendChild(figcaption);
+        }
+        
+    });
+</script>
+{% endif %}
 {% endblock content %}
