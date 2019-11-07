@@ -1,0 +1,24 @@
+{% if not width %}
+{% set width=1000 %}
+{% endif %}
+{% if not height %}
+{% set height=1000 %}
+{% endif %}
+{% if not op %}
+{% set op="fit" %}
+{% endif %}
+
+{% if caption %}
+<figure>
+{% endif %}
+{% if anchor_url %}
+<a href="{{anchor_url}}">
+{% endif %}
+    <img {% if extra.images_enabled %}src="{{ resize_image(path=path, width=width, height=height, op=op) }}"{% endif %} {% if caption %}alt="{{ caption }}"{% endif %}>
+{% if anchor_url %}
+</a>
+{% endif %}
+{% if caption %}
+    <figcaption>{{ caption }}</figcaption>
+</figure>
+{% endif %}

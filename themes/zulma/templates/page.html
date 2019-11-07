@@ -21,7 +21,7 @@
                             <div itemprop="articleBody" class="content article-body">
                                 {{ page.content | safe }}
                             </div>
-                            {% if page.extra.gallery %}
+                            {% if page.extra.gallery and extra.images_enabled %}
                                 {% set gallery_md_path = page.extra.gallery ~ "/index.md" %}
                                 {% set gallery_page = get_page(path=gallery_md_path) %}
                                 {{ post_macros::gallery(gallery_page = gallery_page) }}
@@ -46,22 +46,6 @@
     lightGallery(document.getElementById('lightgallery'), {
         mode: 'lg-fade',
         cssEasing : 'cubic-bezier(0.25, 0, 0.25, 1)',
-    });
-</script>
-<script type="text/javascript">
-    let images = document.querySelector(".content.article-body").querySelectorAll("img");
-    images.forEach(function(image){
-        let caption = image.getAttribute("alt");
-        if (caption)
-        {
-            let figure = document.createElement("figure");
-            image.replaceWith(figure);
-            figure.appendChild(image);
-            let figcaption = document.createElement("figcaption");
-            figcaption.innerHTML = caption;
-            figure.appendChild(figcaption);
-        }
-        
     });
 </script>
 {% endif %}

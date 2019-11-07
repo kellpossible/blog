@@ -18,8 +18,8 @@ discovered, leaves plenty of time for reflection between brief moments
 excitement. As we journey under the darkening sky, out into the
 willowing sea I begin to wonder what sailing in bad weather is like…
 
-![First lunch on
-board](/photos/when-climbers-go-sailing/20150127_170731.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150127_170731.jpg", caption="First lunch on
+board")}}
 
 After a mysterious email, an exciting phone call, and a short flight to
 Hobart I was on board a boat with a “desperate a bunch of daring
@@ -52,7 +52,7 @@ come were the hundreds of kilometers of virtually untouched wilderness
 coastline in South West Tasmania, which I think we were all very excited
 to see first hand.
 
-![Near Kettering](/photos/when-climbers-go-sailing/20150127_202632.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150127_202632.jpg", caption="Near Kettering")}}
 
 On this particular night, Dick had figured the Kaileia was parked in the
 same cove as his friend Jim Duff. There was an invitation to join him
@@ -94,8 +94,8 @@ glittered in the afternoon light. At the far end of Port Davey, an
 opening like a river, once followed, leads to the improbable expanse of
 Bathurst Harbour.
 
-![Outside Port
-Davey](/photos/when-climbers-go-sailing/20150129_173719.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150129_173719.jpg", caption="Outside Port
+Davey")}}
 
 While the others set off to explore the tiny settlement of Melaleuca, I
 stayed behind to help watch the boat and read books about sailing.
@@ -110,8 +110,8 @@ witnessed many battles waged in the small confines of the toilet, the
 helpless victim desperately mashing the button and urging the macerator
 to overcome the traffic jams without manual intervention\!
 
-![Climbing Mt
-Stokes](/photos/when-climbers-go-sailing/20150131_141012.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150131_141012.jpg", caption="Climbing Mt
+Stokes")}}
 
 We spent several days in the vicinity of Port Davey, and on the final
 day we found ourselves, as climbers, irresistibly drawn to the granite
@@ -133,8 +133,8 @@ tilts wildly. The crew is working together to pull down and reef a sail.
 Wind and spray are in their faces and they are trying not to topple
 overboard. Sailing can certainly be a visceral experience.
 
-![Close eye on the depth
-meter](/photos/when-climbers-go-sailing/20150201_183146.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150201_183146.jpg", caption="Close eye on the depth
+meter")}}
 
 Sailing north on an early alpine start, and we passed the lights of
 fishermen braving the waves, almost too close to rocks for my comfort.
@@ -152,7 +152,7 @@ being the worst in Australia. Prisoners attempted murder, to be tried
 and hung in order to avoid a return to this place. The channel is
 narrow, and rocky, so we slowed down to a crawl, and motored through.
 
-![Hell's Gates](/photos/when-climbers-go-sailing/20150201_175536.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150201_175536.jpg", caption="Hell's Gates")}}
 
 Travelling from Strahan to the north coast of Tasmania was to be our
 first overnight leg. As the sun set, and we began our watch, Jack told
@@ -169,8 +169,8 @@ the moonlit scene.
 > the silence of immensity, and under the eye of heaven?" **A. Dumas -
 > The Count of Monte Cristo.**
 
-![Sunset on the run up the west
-coast](/photos/when-climbers-go-sailing/20150202_202847.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150202_202847.jpg", caption="Sunset on the run up the west
+coast")}}
 
 With half the crew leaving us at Beauty Point, the job of getting across
 the Bass Strait and back to Sydney was left to Jack, Dick and myself.
@@ -206,8 +206,8 @@ wheel, frollicking and jumping in the twilight hour. I wonder what makes
 dolphins follow boats, do they know there are people on board? Is this
 show of acrobatic prowess for our entertainment and admiration?
 
-![Scared sailors entering
-Devonport](/photos/when-climbers-go-sailing/20150203_223217.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150203_223217.jpg", caption="Scared sailors entering
+Devonport")}}
 
 The sky was overcast, and as the sun fell below the horizon the world
 around us grew dark. Within an hour it was completely black. The lights
@@ -225,8 +225,8 @@ discovered we had company in the form of another boat. After spending
 almost an hour trying to get the anchor to stick, sleep finally came,
 not having any idea what this place looked like.
 
-![The Kaileia in the Kent
-Group](/photos/when-climbers-go-sailing/20150215_114003.jpg)
+{{ img(path="/photos/when-climbers-go-sailing/20150215_114003.jpg", caption="The Kaileia in the Kent
+Group")}}
 
 In the morning, peering out of the cabin at an unknown landscape, mist
 and drizzle were not enough to overcome our excitement and desire to

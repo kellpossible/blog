@@ -17,8 +17,8 @@ mistakes so far, this happened several years ago. Photos are from
 various trips to Cape Woolamai over the years, no direct relation to the
 people or the events in this article.
 
-![Me climbing at Cape Woolamai (Photo Credit: Sam
-Thompson)](/photos/cape-woolamai-mistakes/14876052_10154034655383034_2107341556_o.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/14876052_10154034655383034_2107341556_o.jpg", caption="Me climbing at Cape Woolamai (Photo Credit: Sam
+Thompson)")}}
 
 I had a friend who was new to climbing, they were very very keen to go
 on their first outdoor climb at the first opportunity. I was heading to
@@ -49,8 +49,8 @@ sometimes but it avoids the erosion present from people climbing down
 from the lookout. I think everyone should be taking this route if they
 wish to go climbing at Woolamai.
 
-![Climbing at Cape
-Woolamai](/photos/cape-woolamai-mistakes/20161224_111142.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/20161224_111142.jpg", caption="Climbing at Cape
+Woolamai")}}
 
 The place where we stopped was near a climb that my other two friends
 wished to try. There were no easy climbs nearby, but I decided for some
@@ -72,8 +72,8 @@ drops me on a fall they will forever feel responsible for what is
 essentially my mistake. I also fail to consider that this probably won't
 be a fun climb for my partner's first outdoor experience.
 
-![Climbing at Cape
-Woolamai](/photos/cape-woolamai-mistakes/20171118_131427_1.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/20171118_131427_1.jpg", caption="Climbing at Cape
+Woolamai")}}
 
 Luckily experienced climbing friend is watching this unfold. As I place
 the first few pieces of gear, and my partner fumbles with the belay, he
@@ -105,8 +105,8 @@ where I could get line of sight. And so the obvious makes itself clear
 to me, when climbing with beginners, it is best to pick climbs where you
 can belay with line of sight.
 
-![Abseiling at Cape Woolamai (Photo Credit: Sam
-Thompson)](/photos/cape-woolamai-mistakes/14859586_10154034654863034_466160819_o.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/14859586_10154034654863034_466160819_o.jpg", caption="Abseiling at Cape Woolamai (Photo Credit: Sam
+Thompson)")}}
 
 When my partner got to the top, we walked over to the abseil. Many
 abseils at Woolamai require exposed walking on loose rock, again not
@@ -141,8 +141,8 @@ helmet because of the loose rock. He proceeded to take his hands off the
 belay rope and put his helmet on, we watched mortified. Soon after a
 bunch of loose bits come down the climb.
 
-![Cape Woolamai
-scenery](/photos/cape-woolamai-mistakes/20171118_171549.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/20171118_171549.jpg", caption="Cape Woolamai
+scenery")}}
 
 The climber reaches the top and takes a long time to build his anchor.
 He has his beginner partners climb on toprope. While he his waiting for
@@ -153,8 +153,8 @@ takes one step forward and a rock the almost the size of his head falls
 and glances lightly off his back. My partner and I stare in disbelief,
 the beginner has no idea how serious that could have been.
 
-![Abseiling at Cape Woolamai (Photo Credit: Sam
-Thompson)](/photos/cape-woolamai-mistakes/14881215_10154034655508034_92862670_o.jpg)
+{{ img(path="/photos/cape-woolamai-mistakes/14881215_10154034655508034_92862670_o.jpg", caption="Abseiling at Cape Woolamai (Photo Credit: Sam
+Thompson)")}}
 
 We do our climb, and at the top we observe the sketchy toprope anchor.
 As we make our way over to the descent, the climber from before climbs

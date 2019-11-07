@@ -15,7 +15,7 @@ Why do the best adventures always seem to happen when I break my phone? I
 was contemplating this while sitting by the round-about in Mansfield
 outside the pub, waiting for my friends to arrive.
 
-![](/photos/buller-west-ridge-2016/20160807_120205.jpg)
+{{ img(path="/photos/buller-west-ridge-2016/20160807_120205.jpg", caption="")}}
 
 I had managed to break my phone that day while on a day trip to Mt
 Stirling with MUMC and MUSKI, and now the prospect of heading to the

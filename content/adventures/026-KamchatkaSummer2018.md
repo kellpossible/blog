@@ -37,7 +37,7 @@ online seeking out someone with knowledge about skiing in Kamchatka who
 could help me with the understanding the logistics, this is how I met
 Anna.
 
-![Petropavalsk Kamchatsky](/photos/kamchatka-2018/20180804_202515.jpg)
+{{ img(path="/photos/kamchatka-2018/20180804_202515.jpg", caption="Petropavalsk Kamchatsky")}}
 
 Summer and Winter in Kamchatka are extremely different, and it is said
 to be very much worth visiting the place during all seasons. To see
@@ -73,7 +73,7 @@ hiking clothes surrounded by Russian business people, and a tired
 looking airline pilot doing his crossword in the seat next to me. It was
 my first time travelling business class\!
 
-![Seafood in the airport](/photos/kamchatka-2018/20180713_060424.jpg)
+{{ img(path="/photos/kamchatka-2018/20180713_060424.jpg", caption="Seafood in the airport")}}
 
 During the meals I forgot that I was sitting in a (comfortable) airline
 seat and moved the seat forward spilling the drink and meal of the
@@ -94,8 +94,8 @@ bus together to Petropavalsk-Kamchatsky.
 
 ## (Горели) Gorely Volcano
 
-![Hiking up Gorely Volcano (Mutnovsky in the
-background)](/photos/kamchatka-2018/20180715_123051.jpg)
+{{ img(path="/photos/kamchatka-2018/20180715_123051.jpg", caption="Hiking up Gorely Volcano (Mutnovsky in the
+background)")}}
 
 The first hike for the trip was a visit to Gorely volcano. From what I
 could understand this trip was to consist mostly of people from
@@ -118,8 +118,8 @@ during the winter months, and it takes a long time to melt out enough to
 allow the easy passage of trucks. Even so, for our trip in July, the
 last few kilometers were punctuated with sections of slow snow driving.
 
-![Afternoon dinner party on
-Gorely](/photos/kamchatka-2018/20180715_180833.jpg)
+{{ img(path="/photos/kamchatka-2018/20180715_180833.jpg", caption="Afternoon dinner party on
+Gorely")}}
 
 Despite the entertainment of a particularly cute little dog, after 4
 hours of bouncing around in the back everyone was relieved to step out
@@ -157,7 +157,7 @@ final. There were three children, a boy and two girls aged between 14
 and 18. Their eldest daughter spoke the best English, and they all sat
 together on the back row of the truck.
 
-![Our ride to Tolbachik](/photos/kamchatka-2018/20180721_100133.jpg)
+{{ img(path="/photos/kamchatka-2018/20180721_100133.jpg", caption="Our ride to Tolbachik")}}
 
 So, we headed north, and made a brief stop in Сокоч (Sokoch), a town
 with many roadside stores for travellers. At lunch we stopped at
@@ -178,7 +178,7 @@ outdoor spa, we waited until after dinner and the grandma's had retired,
 then quickly jumped in before the mosquitoes devoured us. Sveta snuck
 some champaign over to us, and the evening settled.
 
-![Tirimasu](/photos/kamchatka-2018/20180722_072927.jpg)
+{{ img(path="/photos/kamchatka-2018/20180722_072927.jpg", caption="Tirimasu")}}
 
 The next day was the drive up to Tolbachik itself. During the previous
 eruption the old road was apparently destroyed, and a new road,
@@ -204,8 +204,8 @@ cross the labyrinth of black lava. There was a tunnel with hot air still
 blasting out of it, incredible to think that it was still so hot after
 many years.
 
-!["The clouds are like silver serving
-spoons\!"](/photos/kamchatka-2018/20180722_064653.jpg)
+{{ img(path="/photos/kamchatka-2018/20180722_064653.jpg", caption="The clouds are like silver serving
+spoons!")}}
 
 Upon reaching the other side, we crossed some packs of snow, with
 strange shapes covered in volcanic dust. Anna commented, rightly so,
@@ -226,7 +226,7 @@ clouds. I couldn't help but feel like she was, despite all the
 complaining, trying to savour the last moments on her trip of a
 lifetime.
 
-![Tolbachik](/photos/kamchatka-2018/20180721_164806.jpg)
+{{ img(path="/photos/kamchatka-2018/20180721_164806.jpg", caption="Tolbachik")}}
 
 ## (Вачкажец) Vatch Khazhets
 
@@ -250,8 +250,8 @@ As we approached the destination, we passed a couple of armed park
 guards with semiautomatic rifles. Seeing anyone with these kind of
 weapons in Australia is uncommon, so that memory stuck with me.
 
-![Vissarion and Odin crossing the
-river](/photos/kamchatka-2018/20180728_140624.jpg)
+{{ img(path="/photos/kamchatka-2018/20180728_140624.jpg", caption="Vissarion and Odin crossing the
+river")}}
 
 Poor Odin wasn't a big fan of the driving, and spewed on the floor of
 the car. He seemed to be cheering up with the prospects of beginning the
@@ -266,8 +266,8 @@ alas, I reached the lake with no success finding the pot. Upon
 returning, everyone seemed mortified that I had jumped in and gotten my
 boots wet, I will admit that I did find this mildly amusing.
 
-![Hiking at Vatch
-Khazhets](/photos/kamchatka-2018/20180728_174502.jpg)
+{{ img(path="/photos/kamchatka-2018/20180728_174502.jpg", caption="Hiking at Vatch
+Khazhets")}}
 
 With tents and food behind, the climb up the valley continued. We
 crossed a snow bridge to gain the waterfall. Odin chased after Marmots,
@@ -286,7 +286,7 @@ with the stars. This was probably my favorite moment, despite being
 sick, and having many emotions. Sharing this with a group of fun friends
 made it all the better.
 
-![Vatch Khazhets](/photos/kamchatka-2018/20180728_182659.jpg)
+{{ img(path="/photos/kamchatka-2018/20180728_182659.jpg", caption="Vatch Khazhets")}}
 
 ## (Камчатский Камень) Kamchatka Stone
 
@@ -329,8 +329,8 @@ range as Вачкажец. Anna and I caught the bus to Yelisovo and a taxi down
 the short road out to the Gora Moroznaya ski resort to meet the group we
 were hiking with.
 
-![A helping hand to cross the
-creek](/photos/kamchatka-2018/20180802_091026.jpg)
+{{ img(path="/photos/kamchatka-2018/20180802_091026.jpg", caption="A helping hand to cross the
+creek")}}
 
 From the resort the track runs parallel on the north bank of a river.
 The green vegetation is up to our shoulders on either side, and the
@@ -349,7 +349,7 @@ horses sliding by once again.
 We sat for lunch and watched the reflections in calm water. Up on the
 hillside, a brown bear ambled among the bushes.
 
-![Blue Lakes reflections](/photos/kamchatka-2018/20180802_104912.jpg)
+{{ img(path="/photos/kamchatka-2018/20180802_104912.jpg", caption="Blue Lakes reflections")}}
 
 ## Beijing
 

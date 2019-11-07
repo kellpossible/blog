@@ -18,8 +18,8 @@ the campsite. Our friend is making funny noises around the corner on
 Agamemnon. Waiting was worthwhile, the moon shines through and lights
 the route ahead.”* - 30th June 2015
 
-![Climbing Agamenmon. A bonfire rages in The
-Pines.](/photos/night-appeal/20150630_232156.jpg)
+{{ img(path="/photos/night-appeal/20150630_232156.jpg", caption="Climbing Agamenmon. A bonfire rages in The
+Pines.")}}
 
 *“It was dark, so we backed off from a climb and went exploring for
 another way up the Horn instead. We found a cave which lead to nowhere,
@@ -45,8 +45,8 @@ of reason, comfort and safety. I know that climbing, skiing and even
 walking at night holds an extra element of risk, but romantic notions
 often get the better.
 
-![Night climbing at Mt
-Arapiles](/photos/night-appeal/20161201_233538.jpg)
+{{ img(path="/photos/night-appeal/20161201_233538.jpg", caption="Night climbing at Mt
+Arapiles")}}
 
 Coming to the realisation this past year that this particular personal
 factor has had the ability to affect my ability to make rational and
@@ -85,8 +85,8 @@ presented with complex situations:
     deciding to undertake correspondingly riskier activities in order to
     maintain this appetite that satisfies our cravings.
 
-![Mt Buller as seen from Mt
-Stirling](/photos/night-appeal/20160708_195321_2.jpg)
+{{ img(path="/photos/night-appeal/20160708_195321_2.jpg", caption="Mt Buller as seen from Mt
+Stirling")}}
 
 Recognising the factors within ourselves which affect our ability to
 make quality decisions in the outdoors, and being honest about them to

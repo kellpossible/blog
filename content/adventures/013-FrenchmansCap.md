@@ -53,11 +53,11 @@ loop.
 Also made another map for this trip using data from the Tasmanian
 Government, and OpenStreetMap:
 
-[![Two Page A3 Map PDF **(click image to open
-pdf)**](/files/maps/FrenchmansCapA3.jpg)](/files/maps/FrenchmansCapA3.pdf)
+[{{ img(path="/files/maps/FrenchmansCapA3.pdf", caption="Two Page A3 Map PDF **(click image to open
+pdf)**](/files/maps/FrenchmansCapA3.jpg)")}}
 
-![Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from
-<http://bjornfree.com/galleries.html>](/images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg)
+{{ img(path="/images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg", caption="Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from
+<http://bjornfree.com/galleries.html>")}}
 
 On the way back the Launceston, we stopped by Cradle Mountain for a day.
 I left the others in search of adventure after spying out the fantastic

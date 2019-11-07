@@ -46,8 +46,8 @@ our reputation and the reputation of our clubs/companies/communities,
 making us appear reckless and dagerous. It might make others question
 our personal suitability for taking on leadership responsibilities?
 
-![An open discussion on safety after someone admits something they don't
-know](/photos/empathy-and-criticism/20170414_152730.jpg)
+{{ img(path="/photos/empathy-and-criticism/20170414_152730.jpg", caption="An open discussion on safety after someone admits something they don't
+know")}}
 
 Of course, unfortunately, considerations for admission of guilt and
 culpability in the context of litigation increasingly plays a part in a
@@ -93,8 +93,8 @@ couple of weekends ago I was in a canyon with some friends:
 > also the last person in the group and there was a friend watching out
 > for me while the others walked on ahead.*
 
-![A hand-over-hand in a
-canyon.](/photos/empathy-and-criticism/20180331_115955.jpg)
+{{ img(path="/photos/empathy-and-criticism/20180331_115955.jpg", caption="A hand-over-hand in a
+canyon.")}}
 
 > *As I neared the top of the drop, I jumped up onto the edge and slipped
 > onto my bum. It was a 50/50 chance whether I would fall down, but

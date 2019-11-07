@@ -21,7 +21,7 @@ see if anyone else wanted to join us, but to no avail, so headed off to
 Gudauri at breakneck speed\! Probably one of the more interesting car
 rides I've been on for sure...
 
-![Our taxi ride to Gudauri](/photos/georgia-2018/20181221_223042.jpg)
+{{ img(path="/photos/georgia-2018/20181221_223042.jpg", caption="Our taxi ride to Gudauri")}}
 
 Just before Gudauri, we started passing kilometers of trucks parked on
 the side, they were all waiting for the pass to open after snow to
@@ -40,8 +40,8 @@ Russian guide, and quite a friendly place. In the morning we met David
 and Taylor, the other participants for the course. David was a fellow
 Aussie, funny to meet another one so far afield\!
 
-![Skiing to Wild Guru from the
-resort.](/photos/georgia-2018/20181222_183938.jpg)
+{{ img(path="/photos/georgia-2018/20181222_183938.jpg", caption="Skiing to Wild Guru from the
+resort.")}}
 
 Wild Guru have a cinema room upstairs (where we also did the theory
 components of the course) and one of the nights we had a photo night and
@@ -53,7 +53,7 @@ It was a fantastic day out as can be seen from the photos. It did cloud
 in a bit at the top, but it was fine by the time we dropped down after
 lunch.
 
-![Near the top of Bidara](/photos/georgia-2018/20181223_193751.jpg)
+{{ img(path="/photos/georgia-2018/20181223_193751.jpg", caption="Near the top of Bidara")}}
 
 The next day, as part of the AST2 (while there was still good weather)
 we headed out to Milioni Gorge. This terrain is very easy to access from
@@ -78,8 +78,8 @@ After this we headed to Tbilisi to chill for a few days, and then
 eventually decided to head on as originally planned (but late) to Mestia
 to see out the new year.
 
-![The spectacular drive from Zugdidi to
-Mestia](/photos/georgia-2018/20181230_215444.jpg)
+{{ img(path="/photos/georgia-2018/20181230_215444.jpg", caption="The spectacular drive from Zugdidi to
+Mestia")}}
 
 We caught the train to Zugdidi, and met some friendly Norwegians who
 were willing to go halves on a taxi to Mestia (as we had once again
@@ -87,8 +87,8 @@ apparently missed the Marshrutka time). The road to the Mestia, into the
 Svaneti region is incredible. The mountains close in on the sides, and
 the scenery becomes spectacular.
 
-![Horses and towers in
-Mestia](/photos/georgia-2018/20181231_210648.jpg)
+{{ img(path="/photos/georgia-2018/20181231_210648.jpg", caption="Horses and towers in
+Mestia")}}
 
 I was still pretty sick, too sick to do backcountry skiing so we spent
 time in the town. I would have loved to have spent an entire month or a
@@ -108,8 +108,8 @@ time\! Next time...
 Mestia was also a great place to spend New Year's eve, the town has an
 open air concert and celebration, with some ice sculptures.
 
-![New Year's Eve celebrations in
-Mestia](/photos/georgia-2018/20190101_002147.jpg)
+{{ img(path="/photos/georgia-2018/20190101_002147.jpg", caption="New Year's Eve celebrations in
+Mestia")}}
 
 Hope to be back in Georgia again sometime soonish\! Just a great mixture
 of culture, adventure, great snow, good vibes, and not super expensive\!

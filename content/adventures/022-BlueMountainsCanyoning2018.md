@@ -38,8 +38,8 @@ well organised. A Google spreadsheet created by Taner and shared with
 everyone as contributers was an excellent tool for coordinating
 transport and gear logistics before the trip in a decentralized manner.
 
-![Our Google
-Spreadsheet](/photos/blue-mountains-canyoning-2018/20180328_000000_CanyoningSpreadsheet.jpg)
+{{ img(path="/photos/blue-mountains-canyoning-2018/20180328_000000_CanyoningSpreadsheet.jpg", caption="Our Google
+Spreadsheet")}}
 
 While we were there, every morning groups would form and write their
 names and canyoning intentions on a list in the middle of our campsite.
@@ -60,8 +60,8 @@ In the afternoon we emerged shivering out into the valley with the
 Wollangambe River and ate lunch in the sunshine before jumping into the
 river from the rocks.
 
-![Holding the rope for the first abseil into Serendipity
-Canyon](/photos/blue-mountains-canyoning-2018/20180330_132041.jpg)
+{{ img(path="/photos/blue-mountains-canyoning-2018/20180330_132041.jpg", caption="Holding the rope for the first abseil into Serendipity
+Canyon")}}
 
 ## Claustral Canyon
 
@@ -72,8 +72,8 @@ with an additional Keith and Lauren to clamber down through the
 rainforest, sliding into the many pleasures that awaited us in Claustral
 Canyon.
 
-![The Black Hole of
-Calcutta](/photos/blue-mountains-canyoning-2018/20180331_130918.jpg)
+{{ img(path="/photos/blue-mountains-canyoning-2018/20180331_130918.jpg", caption="The Black Hole of
+Calcutta")}}
 
 The most noteable feature of the canyon is a series of abseils into the
 "Black Hole of Calcutta". I was amazed as we descended, we had our
@@ -99,8 +99,8 @@ During the walk out of the canyon, we managed to lose the track and had
 a bit of an epic night. Someone's backpack also fell to pieces. We made
 it back to camp by 10pm so perhaps it wasn't so bad\!
 
-![Entering Thunder
-Canyon](/photos/blue-mountains-canyoning-2018/20180331_142255.jpg)
+{{ img(path="/photos/blue-mountains-canyoning-2018/20180331_142255.jpg", caption="Entering Thunder
+Canyon")}}
 
 ## Yileen Canyon
 

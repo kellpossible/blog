@@ -114,8 +114,10 @@ Connected to harness for taking crevasse fall. TODO
 
 ### Gear Placement
 
-![Gear placement with few nuts may require
-creativity](/photos/mountaineering-course/20141218_142803.jpg)
+{{ img(path="photos/mountaineering-course/20141218_142803.jpg", caption="Gear placement with few nuts may require
+creativity")}}
+{{ img(path="/photos/mountaineering-course/20141218_142803.jpg", caption="Gear placement with few nuts may require
+creativity")}}
 
   - While climbing easy routes, the best option is just not to fall.
     Place the minimum gear required to prevent death, and allow you to
@@ -165,8 +167,8 @@ together with the strong climber behind, if someone falls off to one
 side, the other person jumps over the other, and the rope catches them
 in the middle.
 
-![Stu short-roping with James and Anja on the
-Minarets](/photos/mountaineering-course/20141222_032206.jpg)
+{{ img(path="/photos/mountaineering-course/20141222_032206.jpg", caption="Stu short-roping with James and Anja on the
+Minarets")}}
 
 ### Anchors
 
@@ -217,8 +219,8 @@ hold a person's fall on easy ground.
 
 ### Abseiling
 
-![Abseiling with a fireman's belay onto the Fox
-Glacier](/photos/mountaineering-course/20141223_061406.jpg)
+{{ img(path="/photos/mountaineering-course/20141223_061406.jpg", caption="Abseiling with a fireman's belay onto the Fox
+Glacier")}}
 
 In the mountains it is common to find long descents with many abseils.
 Getting more efficient at abseiling can greatly reduce the time it takes
@@ -350,8 +352,8 @@ hill.
 
 ### Walking in Crampons
 
-![Practicing in crampons on the first
-day](/photos/mountaineering-course/20141215_111508.jpg)
+{{ img(path="/photos/mountaineering-course/20141215_111508.jpg", caption="Practicing in crampons on the first
+day")}}
 
 Once we had our stuff stashed away in the hut we headed down onto the
 glacier to a shaded section where the snow was still firm, for some
@@ -515,8 +517,8 @@ lot more fun.
 
 ### Rock Climbing in Crampons
 
-![They make horrible
-noises](/photos/mountaineering-course/20141218_131758.jpg)
+{{ img(path="/photos/mountaineering-course/20141218_131758.jpg", caption="They make horrible
+noises")}}
 
 ### Rock Climbing in Mountain Boots
 
@@ -529,8 +531,8 @@ when you need to change shoes.
 
 ### Placing Snow Stakes
 
-![Stu showing us how to place snow stakes
-correctly](/photos/mountaineering-course/20141215_124013.jpg)
+{{ img(path="/photos/mountaineering-course/20141215_124013.jpg", caption="Stu
+showing us how to place snow stakes correctly")}}
 
 ### Ice Screws
 

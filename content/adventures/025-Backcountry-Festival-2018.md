@@ -24,8 +24,8 @@ My friend Guillaume kindly offered to help out. We had 10 people in
 total, all very keen to learn essential skills for effective navigation
 in off-track snow/white-out conditions.
 
-![Running the Navigation Clinic (Photo: Guillaume
-Stanguennec)](/photos/backcountry-festival-2018/20180901_124656.jpg)
+{{ img(path="/photos/backcountry-festival-2018/20180901_124656.jpg", caption="Running the Navigation Clinic (Photo: Guillaume
+Stanguennec)")}}
 
 Some of the topics we covered in the 2 hours of theory and 1.5 hours of
 practical outside:
@@ -56,8 +56,8 @@ component, perhaps a day tour with people planning their own navigation
 and bearings would also be a valuable option for a future clinic. Maybe
 next year...
 
-![Skiing on Saturday afternoon (Photo: Guillaume
-Stanguennec)](/photos/backcountry-festival-2018/20180901_153758.jpg)
+{{ img(path="/photos/backcountry-festival-2018/20180901_153758.jpg", caption="Skiing on Saturday afternoon (Photo: Guillaume
+Stanguennec)")}}
 
 On Saturday afternoon after the clinic, I went out for a tour with Peter
 (from BSAR) and Guillaume. The snow was shockingly similar to sloppy wet
@@ -73,8 +73,8 @@ the stars towards Roper's Lookout to find a campsite. It has been a long
 time since I skied with just the starlight, it is truely a wonderful
 experience.
 
-![Views out towards Spion Kopje (Photo: Guillaume
-Stanguennec)](/photos/backcountry-festival-2018/20180902_132907.jpg)
+{{ img(path="/photos/backcountry-festival-2018/20180902_132907.jpg", caption="Views out towards Spion Kopje (Photo: Guillaume
+Stanguennec)")}}
 
 In the morning, we packed up the tent just in time to meet Peter again
 for a day of touring with perfect weather, and a snow pack that had
@@ -88,8 +88,8 @@ drop one ski, followed by another ski 20 minutes later\! Luckily they
 were stopped by a ditch and didn't hit anybody or disappear into the
 valley.
 
-![Practicing some jump turns (Photo: Guillaume
-Stanguennec)](/photos/backcountry-festival-2018/20180902_141050.jpg)
+{{ img(path="/photos/backcountry-festival-2018/20180902_141050.jpg", caption="Practicing some jump turns (Photo: Guillaume
+Stanguennec)")}}
 
 The final run down the creek can only be described as exceedingly
 enjoyable. The gaps between the snowgums were wide enough to really

@@ -35,8 +35,8 @@ joining us in the upright position. The outcome really was hilarious,
 but despite the enthusiasm; inevitable. A sensible decision was made to
 return to the car and fetch snow shoes.
 
-![Jack negotiating some icy conditions on the traverse around Blue
-Lake](/photos/blue-lake-2015/LukeFrisken_BlueLake_20150723_103253.jpg)
+{{ img(path="/photos/blue-lake-2015/LukeFrisken_BlueLake_20150723_103253.jpg", caption="Jack negotiating some icy conditions on the traverse around Blue
+Lake")}}
 
 The start of the track which climbs up following the Snowy River
 negotiates a number of steepish rolling hills. I distinctly remember

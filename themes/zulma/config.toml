@@ -24,3 +24,5 @@ zulma_brand = {text = "Home"}
 zulma_title = "My Blog"
 zulma_theme = "darkly"
 zulma_allow_theme_selection = true
+
+images_enabled = false
