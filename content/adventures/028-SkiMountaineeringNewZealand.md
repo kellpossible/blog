@@ -220,7 +220,19 @@ probably less expensive.
 
 ## Symphony on Skis
 
-Karl's group.
+While I was doing the course, plans were brewing within Latham's group
+to undertake the famous Symphony in Skis traverse. This route travels
+from the Godley Valley, over onto the Murchison Glacier, up the 
+Murchison Headwall onto the Tasman Glacier, down the Tasman Glacier to
+the Rudolf Glacier, across the Franz Josef Glacier, and finally down
+The Fox Glacier, finishing at Chancellor Hut. 
+
+ Karl who was in my
+course was also part of a group planning to do the route at the same
+time, and an idea was formed to travel the route in opposite directions
+in order to do a car swap and avoid several days of hassle retrieving
+vehicles. Latham's group would travel from the East to West, and Karl's
+from the West to East. 
 
 ## West Coast Glaciers
 
