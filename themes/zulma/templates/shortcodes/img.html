@@ -1,3 +1,9 @@
+{# inputs:  #}
+{# path:  #}
+{# anchor_url (url, optional) - url to use for <a> anchor block #}
+{# width (integer, optional) - default: 1000 - width of the image #}
+{# height (integer, optional) - default: 1000 - height of the image #}
+{# caption (string, optional) - caption for the image #}
 {% if not width %}
 {% set width=1000 %}
 {% endif %}
@@ -14,7 +20,7 @@
 {% if anchor_url %}
 <a href="{{anchor_url}}">
 {% endif %}
-    <img {% if extra.images_enabled %}src="{{ resize_image(path=path, width=width, height=height, op=op) }}"{% endif %} {% if caption %}alt="{{ caption }}"{% endif %}>
+    <img {% if config.extra.images_enabled %}src="{{ resize_image(path=path, width=width, height=height, op=op) }}"{% endif %} {% if caption %}alt="{{ caption }}"{% endif %}>
 {% if anchor_url %}
 </a>
 {% endif %}

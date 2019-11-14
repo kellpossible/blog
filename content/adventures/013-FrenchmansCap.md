@@ -4,7 +4,7 @@ date = 2017-01-17
 slug = "frenchmans-cap"
 [extra]
 gallery = "photos/frenchmans-cap-2016/"
-banner_image = "/photos/frenchmans-cap-2016/20170103_144142.jpg"
+banner_image = "photos/frenchmans-cap-2016/20170103_144142.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = ["maps"]
@@ -53,11 +53,11 @@ loop.
 Also made another map for this trip using data from the Tasmanian
 Government, and OpenStreetMap:
 
-[{{ img(path="/files/maps/FrenchmansCapA3.pdf", caption="Two Page A3 Map PDF **(click image to open
-pdf)**](/files/maps/FrenchmansCapA3.jpg)")}}
+[![Two Page A3 Map PDF **(click image to open
+pdf)**](/files/maps/FrenchmansCapA3.jpg)](/files/maps/FrenchmansCapA3.pdf)
 
-{{ img(path="/images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg", caption="Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from
-<http://bjornfree.com/galleries.html>")}}
+![Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from
+<http://bjornfree.com/galleries.html>](/images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg)
 
 On the way back the Launceston, we stopped by Cradle Mountain for a day.
 I left the others in search of adventure after spying out the fantastic

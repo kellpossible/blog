@@ -4,7 +4,7 @@ date = 2016-11-02
 slug = "night-appeal"
 [extra]
 gallery = "photos/night-appeal"
-banner_image = "/photos/night-appeal/20160708_195321_2.jpg"
+banner_image = "photos/night-appeal/20160708_195321_2.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -18,7 +18,7 @@ the campsite. Our friend is making funny noises around the corner on
 Agamemnon. Waiting was worthwhile, the moon shines through and lights
 the route ahead.”* - 30th June 2015
 
-{{ img(path="/photos/night-appeal/20150630_232156.jpg", caption="Climbing Agamenmon. A bonfire rages in The
+{{ img(path="photos/night-appeal/20150630_232156.jpg", caption="Climbing Agamenmon. A bonfire rages in The
 Pines.")}}
 
 *“It was dark, so we backed off from a climb and went exploring for
@@ -45,7 +45,7 @@ of reason, comfort and safety. I know that climbing, skiing and even
 walking at night holds an extra element of risk, but romantic notions
 often get the better.
 
-{{ img(path="/photos/night-appeal/20161201_233538.jpg", caption="Night climbing at Mt
+{{ img(path="photos/night-appeal/20161201_233538.jpg", caption="Night climbing at Mt
 Arapiles")}}
 
 Coming to the realisation this past year that this particular personal
@@ -85,7 +85,7 @@ presented with complex situations:
     deciding to undertake correspondingly riskier activities in order to
     maintain this appetite that satisfies our cravings.
 
-{{ img(path="/photos/night-appeal/20160708_195321_2.jpg", caption="Mt Buller as seen from Mt
+{{ img(path="photos/night-appeal/20160708_195321_2.jpg", caption="Mt Buller as seen from Mt
 Stirling")}}
 
 Recognising the factors within ourselves which affect our ability to

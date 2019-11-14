@@ -4,7 +4,7 @@ date = 2014-07-31
 slug = "carabiner-rope-damage"
 [extra]
 gallery = "photos/carabiner-rope-2014"
-banner_image = "/photos/carabiner-rope-2014/carabiner_sharp_edge.jpg"
+banner_image = "photos/carabiner-rope-2014/carabiner_sharp_edge.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

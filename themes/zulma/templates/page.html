@@ -21,7 +21,7 @@
                             <div itemprop="articleBody" class="content article-body">
                                 {{ page.content | safe }}
                             </div>
-                            {% if page.extra.gallery and extra.images_enabled %}
+                            {% if page.extra.gallery and config.extra.images_enabled %}
                                 {% set gallery_md_path = page.extra.gallery ~ "/index.md" %}
                                 {% set gallery_page = get_page(path=gallery_md_path) %}
                                 {{ post_macros::gallery(gallery_page = gallery_page) }}
@@ -37,15 +37,18 @@
     </section>
 </main>
 {% if page.extra.gallery %}
+<script src="{{ get_url(path="js/jquery.min.js") }}"></script>
 <script src="{{ get_url(path="js/lightgallery.min.js") }}"></script> 
 
 <!-- lightgallery plugins -->
+<script src="{{ get_url(path="js/lg-zoom.js") }}"></script>
 <script src="{{ get_url(path="js/lg-thumbnail.min.js") }}"></script>
 <script src="{{ get_url(path="js/lg-fullscreen.min.js") }}"></script>
 <script type="text/javascript">
     lightGallery(document.getElementById('lightgallery'), {
         mode: 'lg-fade',
         cssEasing : 'cubic-bezier(0.25, 0, 0.25, 1)',
+        zoom: true
     });
 </script>
 {% endif %}

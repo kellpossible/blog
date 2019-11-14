@@ -4,7 +4,7 @@ date = 2015-08-02
 slug = "hotham-to-falls-creek"
 [extra]
 gallery = "photos/hotham-falls-creek-2015"
-banner_image = "/photos/hotham-falls-creek-2015/20150829_152719.jpg"
+banner_image = "photos/hotham-falls-creek-2015/20150829_152719.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

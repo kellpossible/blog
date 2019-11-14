@@ -3,7 +3,7 @@ title = "NZ Ortho4XP Scenery Creation"
 date = 2018-01-01
 [extra]
 gallery = "photos/nzortho4xp"
-banner_image = "/photos/nzortho4xp/AS350B3_8.jpg"
+banner_image = "photos/nzortho4xp/AS350B3_8.jpg"
 [taxonomies]
 categories = ["Code"]
 tags = ["flight-sim"]

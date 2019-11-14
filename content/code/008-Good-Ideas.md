@@ -2,7 +2,7 @@
 title = "Good Idea?"
 date = 2019-01-22
 slug = "good-ideas"
-banner_image = "/photos/album/photo.jpg"
+banner_image = "photos/album/photo.jpg"
 draft = true
 [taxonomies]
 categories = ["Code"]

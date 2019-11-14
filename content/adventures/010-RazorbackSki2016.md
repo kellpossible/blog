@@ -4,7 +4,7 @@ date = 2016-08-13
 slug = "skiing-razorback"
 [extra]
 gallery = "photos/skiing-razorback"
-banner_image = "/photos/skiing-razorback/20160814_170813.jpg"
+banner_image = "photos/skiing-razorback/20160814_170813.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -35,7 +35,7 @@ the hut.
 Looking up in the morning to see our tracks and our indecision from the
 previous day was quite the laugh.
 
-{{ img(path="/photos/skiing-razorback/20160814_132014.jpg", caption="Summit cornice")}}
+{{ img(path="photos/skiing-razorback/20160814_132014.jpg", caption="Summit cornice")}}
 
 The conditions up to the summit were verging on icy, so the girls
 decided to take the traverse back, while we continued up. As we reached
@@ -47,5 +47,5 @@ Bombing down one of the long spurs on the East side of the Razorback was
 definitely the highlight of the 2016 season for me, can't wait to go
 back\!
 
-{{ img(path="/photos/skiing-razorback/20160814_153218.jpg", caption="Tracks off the spur from the
+{{ img(path="photos/skiing-razorback/20160814_153218.jpg", caption="Tracks off the spur from the
 Razorback")}}

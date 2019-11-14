@@ -32,5 +32,7 @@ zulma_menu = [
     {url = "$BASE_URL/contact", name = "Contact"},
 ]
 
+images_enabled = true
+
 zulma_brand = {text = "Home"}
 zulma_title = "Luke Frisken"

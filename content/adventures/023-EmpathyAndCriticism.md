@@ -2,7 +2,7 @@
 title = "Empathy and Criticism; Reconciling Risk in Outdoor Sports"
 date = 2018-04-15
 slug = "empathy-and-criticism"
-banner_image = "/photos/empathy-and-criticism/20160223_175302.jpg"
+banner_image = "photos/empathy-and-criticism/20160223_175302.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -46,7 +46,7 @@ our reputation and the reputation of our clubs/companies/communities,
 making us appear reckless and dagerous. It might make others question
 our personal suitability for taking on leadership responsibilities?
 
-{{ img(path="/photos/empathy-and-criticism/20170414_152730.jpg", caption="An open discussion on safety after someone admits something they don't
+{{ img(path="photos/empathy-and-criticism/20170414_152730.jpg", caption="An open discussion on safety after someone admits something they don't
 know")}}
 
 Of course, unfortunately, considerations for admission of guilt and
@@ -93,7 +93,7 @@ couple of weekends ago I was in a canyon with some friends:
 > also the last person in the group and there was a friend watching out
 > for me while the others walked on ahead.*
 
-{{ img(path="/photos/empathy-and-criticism/20180331_115955.jpg", caption="A hand-over-hand in a
+{{ img(path="photos/empathy-and-criticism/20180331_115955.jpg", caption="A hand-over-hand in a
 canyon.")}}
 
 > *As I neared the top of the drop, I jumped up onto the edge and slipped

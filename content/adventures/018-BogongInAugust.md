@@ -4,7 +4,7 @@ date = 2017-08-28
 slug = "bogong-in-august"
 [extra]
 gallery = "photos/bogong-in-august-2017"
-banner_image = "/photos/bogong-in-august-2017/20170827_154008.jpg"
+banner_image = "photos/bogong-in-august-2017/20170827_154008.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -22,7 +22,7 @@ up (which ended up somehow being the steepest of the weekend), was
 dropping in off the East side of Eskdale after had climbed above the
 tree line. It was much fun.
 
-{{ img(path="/photos/bogong-in-august-2017/20170826_132122.jpg", caption="At the bottom of our first run off Eskdale
+{{ img(path="photos/bogong-in-august-2017/20170826_132122.jpg", caption="At the bottom of our first run off Eskdale
 Spur")}}
 
 With the snow looking to be stable, we opted to skin up the gully
@@ -45,7 +45,7 @@ fall, with what appeared to be 10cm by morning. I felt a little sorry
 (and slightly amused) for our friends who had decided to explore the
 concept of bivy bags on (and now under) the snow.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_095426.jpg", caption="Our campsite in the
+{{ img(path="photos/bogong-in-august-2017/20170827_095426.jpg", caption="Our campsite in the
 morning")}}
 
 In the morning I had a discussion with someone else who was at the hut.
@@ -60,7 +60,7 @@ be interesting to see what the wind has been doing up the top", and the
 conversation ended there. It was a good conversation to have, as it
 doubled my attention to what was going on with the snow that day.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_110414.jpg", caption="The view from Eskdale Spur in the
+{{ img(path="photos/bogong-in-august-2017/20170827_110414.jpg", caption="The view from Eskdale Spur in the
 morning")}}
 
 As we skinned up Eskdale spur, I pointed out to Mitch my preference to
@@ -101,7 +101,7 @@ little concerned we would hit a dangerous patch of ice, but visibility
 was good, and it was easy to stick to the small snow drifts and avoid
 the ice.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_104235.jpg", caption="Down the West Face (Photo taken by
+{{ img(path="photos/bogong-in-august-2017/20170827_104235.jpg", caption="Down the West Face (Photo taken by
 Mitch)")}}
 
 We made it all the way down to between the trees, and had an absolute
@@ -142,7 +142,7 @@ snow was on the other side was confirmed by an enthusiastic
 recommendation to follow in their tracks on the East side of the
 Staircase.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_132703.jpg", caption="Mitch zooming down")}}
+{{ img(path="photos/bogong-in-august-2017/20170827_132703.jpg", caption="Mitch zooming down")}}
 
 By this stage, I was content to go with that option and watched Mitch
 drop in over the edge of the small cornice, and followed him down after
@@ -161,7 +161,7 @@ fun. Zooming down into the gully, in the back of my head was the thought
 that perhaps the snow was was different enough to warrant stopping to
 check it out further.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_121436.jpg", caption="Me zooming down (Photo taken by
+{{ img(path="photos/bogong-in-august-2017/20170827_121436.jpg", caption="Me zooming down (Photo taken by
 Mitch)")}}
 
 Anyhow, with the time for thought during the climb up, we aimed instead
@@ -178,7 +178,7 @@ opted conservatively to continue up the ridge a little further above the
 pole line to where the slope was less inclined to begin our traverse
 through the soft stuff.
 
-{{ img(path="/photos/bogong-in-august-2017/20170827_144249.jpg", caption="Sandpaper to the
+{{ img(path="photos/bogong-in-august-2017/20170827_144249.jpg", caption="Sandpaper to the
 face\!")}}
 
 The wind was like sandpaper to face and hard to stand straight, but

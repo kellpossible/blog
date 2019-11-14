@@ -4,7 +4,7 @@ date = 2017-05-04
 slug = "blue-mountains-canyoning"
 [extra]
 gallery = "photos/blue-mountains-canyoning"
-banner_image = "/photos/blue-mountains-canyoning/20170416_172609_1.jpg"
+banner_image = "photos/blue-mountains-canyoning/20170416_172609_1.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

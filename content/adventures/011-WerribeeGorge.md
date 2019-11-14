@@ -4,7 +4,7 @@ date = 2016-11-18
 slug = "werribee-gorge"
 [extra]
 gallery = "photos/werribee-gorge"
-banner_image = "/photos/werribee-gorge/20161115_150701.jpg"
+banner_image = "photos/werribee-gorge/20161115_150701.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

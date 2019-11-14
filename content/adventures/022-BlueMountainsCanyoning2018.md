@@ -4,7 +4,7 @@ date = 2018-04-12
 slug = "blue-mountains-canyoning-2018"
 [extra]
 gallery = "photos/blue-mountains-canyoning-2018"
-banner_image = "/photos/blue-mountains-canyoning-2018/20180331_142255.jpg"
+banner_image = "photos/blue-mountains-canyoning-2018/20180331_142255.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []
@@ -38,7 +38,7 @@ well organised. A Google spreadsheet created by Taner and shared with
 everyone as contributers was an excellent tool for coordinating
 transport and gear logistics before the trip in a decentralized manner.
 
-{{ img(path="/photos/blue-mountains-canyoning-2018/20180328_000000_CanyoningSpreadsheet.jpg", caption="Our Google
+{{ img(path="photos/blue-mountains-canyoning-2018/20180328_000000_CanyoningSpreadsheet.jpg", caption="Our Google
 Spreadsheet")}}
 
 While we were there, every morning groups would form and write their
@@ -60,7 +60,7 @@ In the afternoon we emerged shivering out into the valley with the
 Wollangambe River and ate lunch in the sunshine before jumping into the
 river from the rocks.
 
-{{ img(path="/photos/blue-mountains-canyoning-2018/20180330_132041.jpg", caption="Holding the rope for the first abseil into Serendipity
+{{ img(path="photos/blue-mountains-canyoning-2018/20180330_132041.jpg", caption="Holding the rope for the first abseil into Serendipity
 Canyon")}}
 
 ## Claustral Canyon
@@ -72,7 +72,7 @@ with an additional Keith and Lauren to clamber down through the
 rainforest, sliding into the many pleasures that awaited us in Claustral
 Canyon.
 
-{{ img(path="/photos/blue-mountains-canyoning-2018/20180331_130918.jpg", caption="The Black Hole of
+{{ img(path="photos/blue-mountains-canyoning-2018/20180331_130918.jpg", caption="The Black Hole of
 Calcutta")}}
 
 The most noteable feature of the canyon is a series of abseils into the
@@ -99,7 +99,7 @@ During the walk out of the canyon, we managed to lose the track and had
 a bit of an epic night. Someone's backpack also fell to pieces. We made
 it back to camp by 10pm so perhaps it wasn't so bad\!
 
-{{ img(path="/photos/blue-mountains-canyoning-2018/20180331_142255.jpg", caption="Entering Thunder
+{{ img(path="photos/blue-mountains-canyoning-2018/20180331_142255.jpg", caption="Entering Thunder
 Canyon")}}
 
 ## Yileen Canyon
