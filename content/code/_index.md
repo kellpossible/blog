@@ -51,7 +51,7 @@ render = true
 # Whether the section should pass its pages on to the parent section. Defaults to `false`.
 # Useful when the section shouldn't split up the parent section, like
 # sections for each year under a posts section.
-transparent = false
+transparent = true
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of path, not URLs.

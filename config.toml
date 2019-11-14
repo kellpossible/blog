@@ -29,7 +29,7 @@ zulma_menu = [
     {url = "$BASE_URL/code", name = "Code"},
     {url = "$BASE_URL/tags/maps", name = "Maps"},
     {url = "$BASE_URL/photos", name = "Photos"},
-    {url = "$BASE_URL/contact", name = "Contact"},
+    {url = "$BASE_URL/about/contact", name = "Contact"},
 ]
 
 images_enabled = true

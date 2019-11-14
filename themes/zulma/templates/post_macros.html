@@ -41,27 +41,28 @@
 
 {% macro gallery(gallery_page) %}
 {% set page = gallery_page %}
-<div id="lightgallery">
-    {% if page.extra.caption_csv %}
-        {% set caption_path = "content/" ~ page.path ~ page.extra.caption_csv %}
-        {% set caption_data = load_data(path=caption_path) %}
-    {% endif %}
-    {% for asset in page.assets | sort %}
-    {% if asset is matching("[.](jpg|png)$") %}
-        {% if caption_data %}
-            {% for record in caption_data.records %}
-                {% set file_path = page.path ~ record[0] %}
-                {% if file_path == asset %}
-                    {% set_global caption_text = record[1] | safe | trim %}
-                {% endif %}
-            {% endfor %}
+<div class="section">
+    <div class="columns is-multiline" id="lightgallery">
+        {% if page.extra.caption_csv %}
+            {% set caption_path = "content/" ~ page.path ~ page.extra.caption_csv %}
+            {% set caption_data = load_data(path=caption_path) %}
         {% endif %}
-        <a href="{{ resize_image(path=asset, width=2000, height=2000, op="fit") }}" {% if caption_text %}data-sub-html="<h4>{{ caption_text }}</h4>"{% endif %}>
-            <img src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}"/>
-        </a>
-        &ensp;
-    {% endif %}
-    {% endfor %}
+        {% for asset in page.assets | sort %}
+        {% if asset is matching("[.](jpg|png)$") %}
+            {% if caption_data %}
+                {% for record in caption_data.records %}
+                    {% set file_path = page.path ~ record[0] %}
+                    {% if file_path == asset %}
+                        {% set_global caption_text = record[1] | safe | trim %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            <a class="column is-one-quarter-desktop is-half-tablet" href="{{ resize_image(path=asset, width=2000, height=2000, op="fit") }}" {% if caption_text %}data-sub-html="<h4>{{ caption_text }}</h4>"{% endif %}>
+                <img src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}"/>
+            </a>
+        {% endif %}
+        {% endfor %}
+    </div>
 </div>
 {% endmacro gallery %}
 
@@ -69,10 +70,8 @@
 {% macro gallery_header(page) %}
 <header>
     <div class="has-text-centered">
-        <a href="{{ page.permalink | safe }}">
-            <p class="title article-title">{{ page.title }}
-            </p>
-        </a>
+        <p class="title article-title">{{ page.title }}
+        </p>
         <div class="tags has-addons level-item">
             <span class="tag is-rounded">{{ page.date | date(format="%F") }}</span>        
         </div>
@@ -81,36 +80,80 @@
 {% endmacro gallery_header %}
 
 {% macro gallery_in_list(page) %}
-<article itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="card article">
-        <div class="card-content">
-            {{ self::gallery_header(page = page) }}
-            <div itemprop="summary" class="content article-body">
-                {% if page.summary %}
-                {{ page.summary | safe }}
-                {% endif %}
-            </div>
-        </div>
-    </div>
-</article>
-{% endmacro gallery_in_list %}
+<div class="column is-one-quarter-desktop is-half-tablet">
+    <div class="card">
+        <a href="{{ page.permalink | safe }}" class="gallery-card-link">
+            <div class="card-image">
+                <figure class="image is-square">
+                        
+                            
+                    {% if page.extra.banner_image %}
+                        {% set image_path = page.extra.banner_image %}
+                    {% else %}
+                        {% for asset in page.assets | sort %}
+                            {% if asset is matching("[.](jpg|png)$") %}
+                                {% set_global image_path = asset %}
+                                {% break %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
 
+                    {% if image_path %}
+                        <img src="{{ resize_image(path=image_path, width=512, height=512, op="fill") }}" alt="{{ page.title }}">
+                    {% endif %}
+                </figure>
+                <div class="card-content is-overlay is-clipped">
+                    <header>
+                        <div class="has-text-centered">
+                            <p class="title article-title" style="color: white; background-color: rgba(0, 0, 0, 0.5); background-">{{ page.title }}
+                            </p>
+                        </div>
+                    </header>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+{% endmacro gallery_in_list %}
+<a href="{{ page.permalink | safe }}">
+    <p class="title article-title-list">{{ page.title }}
+    </p>
+</a>
 {% macro page_in_list(page) %}
 <article itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="card article">
-        <div class="card-content">
-            {{ self::article_header(page = page) }}
-            <div itemprop="summary" class="content article-body">
-                {% if page.summary %}
-                {{ page.summary | safe }}
-                {% else %}
-                {{ page.content | truncate(length=200) | safe }}
-                {% endif %}
-                <nav class="readmore">
-                    <a itemprop="url" href="{{ page.permalink | safe }}">Read
-                        More&nbsp;&raquo;
+    <div class="article">
+        <div class="columns">
+            <div class="column is-one-quarter">
+                    <p class="title article-subtitle-list">{{ page.date | date(format="%a %e %B %Y") }}
+                    </p>
+                    <span class="tag is-rounded">{{ self::read_time(page=page) }}</span>
+            </div>
+            <div class="column is-two-quarters">
+                <a href="{{ page.permalink | safe }}">
+                    <p class="title article-title-list">{{ page.title }}
+                    </p>
+                </a>
+                <div itemprop="summary" class="">
+                    {% if page.summary %}
+                    {{ page.summary | safe }}
+                    {% else %}
+                    {{ page.content | truncate(length=200) | safe | striptags }}
+                    {% endif %}
+                    <nav class="readmore">
+                        <a itemprop="url" href="{{ page.permalink | safe }}">Read
+                            More&nbsp;&raquo;
+                        </a>
+                    </nav>
+                </div>
+            </div>
+            <div class="column is-one-quarter">
+                {% if page.extra.banner_image %}
+                <figure class="image is-square">
+                    <a href="{{ page.permalink | safe }}">
+                        <img src="{{ resize_image(path=page.extra.banner_image, width=512, height=512, op="fill") }}" alt="{{ page.title }}">
                     </a>
-                </nav>
+                </figure>
+                {% endif %}
             </div>
         </div>
     </div>

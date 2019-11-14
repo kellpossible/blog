@@ -15,15 +15,11 @@
 {% endmacro hero %}
 
 {% macro list_galleries(pages) %}
-<section class="articles">
-    <div class="columns is-desktop">
-        <div class="column is-10-desktop is-offset-1-desktop">
-            {% for page in pages %}
-            {{ post_macros::gallery_in_list(page=page) }}
-            {% endfor %}
-        </div>
-    </div>
-</section>
+<div class="columns is-multiline">
+    {% for page in pages %}
+    {{ post_macros::gallery_in_list(page=page) }}
+    {% endfor %}
+</div>
 {% endmacro list_galleries %}
 
 {% macro list_articles(pages) %}
@@ -32,6 +28,7 @@
         <div class="column is-10-desktop is-offset-1-desktop">
             {% for page in pages %}
             {{ post_macros::page_in_list(page=page) }}
+            <div class="is-divider"></div>
             {% endfor %}
         </div>
     </div>
@@ -100,6 +97,14 @@
                     {% endfor %}
                     {% endif %}
 
+                    <a itemprop="url"
+                        class="navbar-item"
+                        href="{{ get_url(path="rss.xml") | safe }}">
+                        <span class="icon">
+                            <i class="fas fa-rss"></i>
+                        </span>
+                    </a>
+
                     {% if config.build_search_index %}
                     <div class="navbar-item search-container js-only">
                         <input class="input" id="search" type="search" placeholder="Search">
@@ -154,4 +159,5 @@
 {% else %}
 <link id="default" class="stylesheet" rel="stylesheet" href="{{ get_url(path="default.css", trailing_slash=false) }}" />
 {% endif %}
+<link href="/css/all.min.css" rel="stylesheet"> 
 {% endmacro css %}

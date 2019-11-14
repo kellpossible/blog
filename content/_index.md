@@ -1,5 +1,5 @@
 +++
-title = "Adventures"
+title = "Luke Frisken"
 
 description = ""
 
@@ -11,7 +11,7 @@ sort_by = "date"
 weight = 0
 
 # Template to use to render this section page
-template = "section.html"
+template = "index.html"
 
 # Apply the given template to ALL pages below the section, recursively.
 # If you have several nested sections each with a page_template set, the page

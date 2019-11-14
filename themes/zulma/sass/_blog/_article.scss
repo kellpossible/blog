@@ -1,11 +1,36 @@
 .article {
     margin-top: 1rem;
 
+    .gallery-card-link {
+        position: absolute;
+        top: 0; left: 0;
+        height: 100%; width: 100%;
+    }
+
+    .gallery-card-title {
+        color: white; 
+        background-color: rgba(0, 0, 0, 100);
+    }
 
     .article-title {
         font-size: 2rem;
         font-weight: lighter;
         line-height: 2;
+        margin-bottom: 0.5rem;
+    }
+
+    .article-title-list {
+        font-size: 1.5rem;
+        font-weight: lighter;
+        line-height: 2;
+        margin-bottom: 0.5rem;
+    }
+
+    .article-subtitle-list {
+        font-size: 1.2rem;
+        font-weight: lighter;
+        color: rgb(100, 100, 100);
+        line-height: 2.6;
         margin-bottom: 0.5rem;
     }
 

@@ -2,6 +2,7 @@
 title = "Empathy and Criticism; Reconciling Risk in Outdoor Sports"
 date = 2018-04-15
 slug = "empathy-and-criticism"
+[extra]
 banner_image = "photos/empathy-and-criticism/20160223_175302.jpg"
 [taxonomies]
 categories = ["Adventures"]

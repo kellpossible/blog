@@ -4,7 +4,6 @@ date = 2017-12-17
 slug = "athurs-ranges-traverse"
 [extra]
 gallery = "photos/athurs-ranges-2016"
-banner_image = "photos/athurs-ranges-2016/.jpg"
 draft = true
 +++
 
