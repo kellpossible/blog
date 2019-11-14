@@ -2,6 +2,7 @@
 title = "Ski Mountaineering in New Zealand"
 date = 2019-09-19
 slug = "ski-mountaineering-nz"
+draft = true
 [taxonomies]
 categories = ["Adventures"]
 tags = []

@@ -1,0 +1,51 @@
+{% extends "index.html" %}
+{% import "post_macros.html" as post_macros %}
+
+{% block content %}
+<!-- START NAV -->
+{% block header %}
+{{ super() }}
+{% if page.extra.gallery %}
+<link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
+{% endif %}
+{% endblock header %}
+<!-- END NAV -->
+<main>
+    <section class="container">
+        <div class="columns is-desktop">
+            <div class="column is-10-desktop is-offset-1-desktop">
+                <article itemscope itemtype="http://schema.org/BlogPosting">
+                    <div class="card article">
+                        <div class="card-content">
+                            <header>
+                                <div class="has-text-centered">
+                                    <a href="{{ page.permalink | safe }}">
+                                        <p class="title article-title">{{ page.title }}
+                                        </p>
+                                    </a>
+                                </div>
+                            </header>
+                            <div itemprop="articleBody" class="content article-body">
+                                {{ page.content | safe }}
+                            </div>
+                        </div>
+                        {% block page_footer %}
+                        <footer class="card-footer">
+                            <div class="article-footer">
+                                <div class="columns is-multiline">
+                                    <div class="column is-12">
+                                    </div>
+                                    <div class="column">
+                                        <a class="button is-pulled-right is-info" href="/">Back Home</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </footer>
+                    {% endblock page_footer %}
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+</main>
+{% endblock content %}

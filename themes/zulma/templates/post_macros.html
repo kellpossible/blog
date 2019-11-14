@@ -115,18 +115,20 @@
     </div>
 </div>
 {% endmacro gallery_in_list %}
-<a href="{{ page.permalink | safe }}">
-    <p class="title article-title-list">{{ page.title }}
-    </p>
-</a>
+
 {% macro page_in_list(page) %}
 <article itemscope itemtype="http://schema.org/CreativeWork">
     <div class="article">
         <div class="columns">
             <div class="column is-one-quarter">
-                    <p class="title article-subtitle-list">{{ page.date | date(format="%a %e %B %Y") }}
-                    </p>
+                <p class="title article-subtitle-list">{{ page.date | date(format="%a %e %B %Y") }}
+                </p>
+                <p>
                     <span class="tag is-rounded">{{ self::read_time(page=page) }}</span>
+                </p>
+                <p>
+                    {{self::post_footer_categories(page=page,tag_class="is-light")}}
+                </p>
             </div>
             <div class="column is-two-quarters">
                 <a href="{{ page.permalink | safe }}">
@@ -212,11 +214,11 @@ and
 {% endmacro post_footer_authors %}
 
 
-{% macro post_footer_categories(page) %}
+{% macro post_footer_categories(page, tag_class="is-success") %}
 {% if page.taxonomies.categories %}
 {% set category = page.taxonomies.categories[0] %}
 in <a href="{{ get_taxonomy_url(kind="categories", name=category) | safe }}">
-    <span class="tag is-success">
+    <span class="tag {{ tag_class }}">
         {{ category }}
     </span>
 </a>

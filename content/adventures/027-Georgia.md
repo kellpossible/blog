@@ -4,6 +4,7 @@ date = 2019-01-18
 slug = "skiing-in-georgia"
 [extra]
 gallery = "photos/georgia-2018"
+banner_image = "photos/georgia-2018/20181223_172917.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = []

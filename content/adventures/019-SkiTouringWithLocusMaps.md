@@ -2,10 +2,10 @@
 title = "Ski Touring and Hiking with Locus Map"
 date = 2017-11-13
 slug = "ski-touring-with-locus-map"
+draft = true
 [extra]
 gallery = ""
 image = ""
-draft = true
 +++
 
 Over the past couple of years, I've been on the hunt for a smartphone

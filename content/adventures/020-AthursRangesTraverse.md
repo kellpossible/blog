@@ -2,9 +2,9 @@
 title = "Athurs Ranges Traverse"
 date = 2017-12-17
 slug = "athurs-ranges-traverse"
+draft = true
 [extra]
 gallery = "photos/athurs-ranges-2016"
-draft = true
 +++
 
 When people ask me what my favourite outdoor adventure was, it doesn't
