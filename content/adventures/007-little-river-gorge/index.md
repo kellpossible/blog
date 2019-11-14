@@ -40,11 +40,9 @@ as we approached.
 An attempt was made to reach Wulgulmerang Falls, but we neglected to
 bring our rope on that side trip. It's a bit sketchy up there.
 
-[![A3 Map PDF **(click image to open
-pdf)**](/files/maps/LittleRiverGorgeMapA3.jpg)](/files/maps/LittleRiverGorgeMapA3.pdf)
+{{ img(path="adventures/007-little-river-gorge/LittleRiverGorgeMapA3.jpg", anchor_url="LittleRiverGorgeMapA3.pdf", caption="A3 Map PDF (click image to open pdf)") }}
 
-[![A4 Map PDF, 2 pages **(click image to open
-pdf)**](/files/maps/LittleRiverGorgeMapA4.jpg)](/files/maps/LittleRiverGorgeMapA4.pdf)
+{{ img(path="adventures/007-little-river-gorge/LittleRiverGorgeMapA4.jpg", anchor_url="LittleRiverGorgeMapA4.pdf", caption="A4 Map PDF (click image to open pdf)") }}
 
 On the final day in the gorge, we scouted out for a suitable ridge to
 ascend back up the north side to reach the road and eventually our car

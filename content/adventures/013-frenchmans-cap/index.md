@@ -53,8 +53,7 @@ loop.
 Also made another map for this trip using data from the Tasmanian
 Government, and OpenStreetMap:
 
-[![Two Page A3 Map PDF **(click image to open
-pdf)**](/files/maps/FrenchmansCapA3.jpg)](/files/maps/FrenchmansCapA3.pdf)
+{{ img(path="adventures/013-frenchmans-cap/FrenchmansCapA3.jpg", anchor_url="FrenchmansCapA3.pdf", caption="Two Page A3 Map PDF (click image to open pdf)") }}
 
 ![Cradle Mountain skyline. Image credit Bjørn Christian Tørrissen from
 <http://bjornfree.com/galleries.html>](/images/external_photos/Cradle_Mountain_And_Barn_Bluff.jpg)
