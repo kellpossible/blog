@@ -113,3 +113,7 @@ Mestia")}}
 
 Hope to be back in Georgia again sometime soonish\! Just a great mixture
 of culture, adventure, great snow, good vibes, and not super expensive\!
+
+I made a short video about this trip here:
+
+{{ youtube(id="eFEqun6-dY4",class="youtube") }}

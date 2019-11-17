@@ -264,4 +264,4 @@ memories of a most unexpected and fortunate adventure.
 This is a short film I made from footage taken on the trip:
 [https://vimeo.com/144355555](https://vimeo.com/144355555)
 
-{{ vimeo(id="144355555") }}
+{{ vimeo(id="144355555", class="vimeo") }}

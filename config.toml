@@ -36,3 +36,5 @@ images_enabled = true
 
 zulma_brand = {text = "Home"}
 zulma_title = "Luke Frisken"
+
+disqus_sitename = "lukefrisken"

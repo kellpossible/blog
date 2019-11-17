@@ -38,7 +38,7 @@ invovled, and to practice some roping up technique.
 
 I made a short film about the trip which is up on vimeo.
 
-{{ vimeo(id="144838304") }}
+{{ vimeo(id="144838304", class="vimeo") }}
 
 ## Pre-Alpine Weekend
 
@@ -376,7 +376,7 @@ to the slope, is an important decision.
 Stu made a video about this topic: [Should we face in on this
 slope?](https://vimeo.com/147008364) .
 
-{{ vimeo(id="147008364") }}
+{{ vimeo(id="147008364", class="vimeo") }}
 
 
 ### Travelling with an Ice Axe
@@ -469,7 +469,7 @@ to fulfil this goal of getting back to the hut by midday. He made a
 video about it: [Can we be finished by
 Midday?](https://vimeo.com/146237724)
 
-{{ vimeo(id="146237724") }}
+{{ vimeo(id="146237724", class="vimeo") }}
 
 ### Weather Patterns/Forecasts
 
@@ -478,7 +478,7 @@ Midday?](https://vimeo.com/146237724)
 Stu's video: [Will the weather and snow stability really
 hold?](https://vimeo.com/146642144)
 
-{{ vimeo(id="146642144") }}
+{{ vimeo(id="146642144", class="vimeo") }}
 
 ### Avalanches
 

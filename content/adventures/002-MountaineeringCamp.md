@@ -509,4 +509,4 @@ Hermitage")}}
 
 This is a short film I made from footage taken on the trip: [https://vimeo.com/144355586](https://vimeo.com/144355586)
 
-{{ vimeo(id="144355586") }}
+{{ vimeo(id="144355586", class="vimeo") }}

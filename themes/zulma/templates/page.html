@@ -32,6 +32,11 @@
                         {% endblock page_footer %}
                     </div>
                 </article>
+                {% if config.extra.disqus_sitename %}
+                <section class="section">
+                    {{ post_macros::disqus(page = page) }}
+                </section>
+                {% endif %}
             </div>
         </div>
     </section>

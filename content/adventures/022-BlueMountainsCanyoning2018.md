@@ -122,3 +122,6 @@ the old jail cells. We were about to leave when we met an older couple
 who were also leaving. They looked surprised to see us. They told us
 that you needed a key to get in, and they were about to lock it up, we
 were almost locked up in Old Gundagai Jail\!
+
+I made a short film about this trip:
+{{ youtube(id="7rBldEjZjK0",class="youtube") }}

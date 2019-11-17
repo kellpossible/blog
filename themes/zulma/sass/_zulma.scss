@@ -47,3 +47,37 @@ main {
     margin: 0.2rem;
   }
 }
+
+.vimeo {
+	position: relative;
+	height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;  /* inverse of 16:9 aspect ratio */
+}
+
+.vimeo iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	border: 0;
+}
+
+.youtube {
+	position: relative;
+	height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+
+.youtube iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	border: 0;
+}
