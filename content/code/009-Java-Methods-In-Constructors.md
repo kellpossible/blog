@@ -5,7 +5,7 @@ slug = "java-methods-in-constructors"
 draft = true
 [taxonomies]
 categories = ["Code"]
-tags = ["Java"]
+tags = ["java"]
 authors = ["Luke Frisken"]
 +++
 
