@@ -8,23 +8,27 @@ tags = ["maps"]
 authors = ["Luke Frisken"]
 +++
 
-A number of people have asked, and I\'ve been planning for a long time
-to create a description/tutorial on how I\'ve been making topographic
+**This blog post is currently a work in progress, updated as I learn
+more about the subject.**
+
+A number of people have asked, and I've been planning for a long time
+to create a description/tutorial on how I've been making topographic
 maps using freely available data, and open source software.
 
 A lot of credit to the processes outlined goes to various information
-sources online, too many for me to remember or list here.
+sources online, too many for me to remember or list here, but I'll try
+to link to sources where possible.
 
 # Map Theory
 
 ## Why Learn Map Theory?
 
-Before creating your own maps, if you intend to make accurate maps that
-you wish to use for navigation, I think it\'s important to have at least
-a basic understanding of map theory. It\'s entirely possible to follow a
-step by step process on how to make a map outlined further in this
-document, but without an understanding of how maps actually work, you
-will struggle with:
+Before creating your own maps, if you intend to make accurate maps
+that you wish to use for navigation, I think it's important to have at
+least a basic understanding of map theory. It's entirely possible to
+follow a step by step process on how to make a map outlined further in
+this document, but without an understanding of how maps actually work,
+you will struggle with:
 
 -   Fixing problems with your map.
 -   Bringing in different sources of map data.
@@ -56,13 +60,12 @@ on a flat, rectangular map, map projections were invented.
 
 There are an infinite number of ways you could choose to map one shape
 to another, and therefore, there are a [huge number of map
-projections](https://en.wikipedia.org/wiki/List_of_map_projections) huge
-number of map projections in existance already. Every projection has
-positive and negative attributes and distort the Earth\'s surface in
-different ways. Which projection you choose to use will depend heavily
-on how you plan to use the map.
-
-You can (and I recomend to) read more on this topic at [Wikipedia: Map
+projections](https://en.wikipedia.org/wiki/List_of_map_projections)
+huge number of map projections in existance already. Every projection
+has unique characteristics, they distort the Earth's surface in
+different ways to make t fit on a flat surface. Which projection you
+choose to use will depend heavily on how you plan to use the map. You
+can (and I recomend to) read more on this topic at [Wikipedia: Map
 Projection](https://en.wikipedia.org/wiki/Map_projection).
 
 There are a number of common (and important) map projections which you
@@ -100,16 +103,16 @@ Projection.
 The [Universal Transverse
 Mercator](https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system)
 projection system is actually not a single projection, but a composite
-of many Mercator projections, one for each \"zone\", specifically
+of many Mercator projections, one for each "zone", specifically
 optimised for that area in order to reduce distortion. UTM is now very
-common for hiking maps, and is the projection I have been using for the
-maps that I make.
+common for hiking maps, and is the projection I have been using for
+the maps that I make.
 
 Included in the UTM system is the concept of UTM coordinates. These are
 an alternative to using Latitude and Longitude to represent a position
 on the map. Instead, you specify the UTM zone, and then the distance (in
 meters) East, and the distance (in meters) North from the origin of the
-zone. These are also known as \"eastings\" and \"northings\".
+zone. These are also known as "eastings" and "northings".
 
 An example (from Wikipedia) of this coordinate system could be:
 
@@ -148,12 +151,13 @@ available on the wikipedia page.
 
 ### About Earth Shape Models
 
-In order to project a map of earth onto a flat surface, you need to have
-a notion about what exact the shape of the earth is in the form of a
-mathematical model. The most basic model for the shape of the earth is
-that of a sphere. The Earth is an irregular shape, and not a sphere.
-This means that projections using a sphere as the model will, in certain
-areas, be less accurate/less useful.
+In order to project a map of earth onto a flat surface, you need to
+have a notion about what exact the shape of the earth is in the form
+of a mathematical model. The most basic model for the shape of the
+earth is that of a sphere. However, Earth is an irregular shape, and
+not a perfect sphere.  This means that projections using a sphere as
+the model will, in certain areas, be much less accurate and therefore
+less useful.
 
 Luckily, most of the irregularities are small and localised, so a better
 (than a sphere) model of the Earth\'s shape can be built using an
@@ -216,20 +220,20 @@ that surveyors need to worry about.
 
 ### Which Shape Model to Use?
 
-I use GDA94 for my Australian maps, because it\'s currently the most
-accurate, future proof, and logical choice. This requires that any input
-data using a different CRS needs to be transformed in order to be able
-to plot it on the GDA94 map
+I have used GDA94 for my Australian maps, however, the next GDA,
+GDA2020 is on the horizon? Using GDA94 requires that any input data
+using a different CRS needs to be transformed in order to be able to
+plot it on the GDA94 map.
 
 # Map Data
 
-Before you begin making any map, you need a source for the data you\'re
-going to use in the map. By data, I mean, the source of information for
-all the features to be included in the map. The more detailed, and more
-accurate your source of information, the better your map can be
+Before you begin making any map, you need a source for the data you're
+going to use in the map. By data, I mean, the source of information
+for all the features to be included in the map. The more detailed, and
+more accurate your source of information, the better your map can be
 (provided you spend the time figuring out how to present this
 information in a sensible manner). There are many freely available
-sources of geography data online, but you can also use data you
+sources of geographical data online, but you can also use data you
 generate/provide yourself.
 
 ## Data Types
@@ -244,20 +248,25 @@ Raster data is stored in regular sized blocks, essentially like pixels
 in a digital photograph. For raster data to be useful, it also needs to
 be accompanied with some callibration information to allow GIS software
 to know where on the planet the data is located, and what the size and
-location of the \"pixels\" are.
+location of the "pixels" are.
 
 [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF) is a very common
-container/format for raster data which packages the data along with the
-map callibration data.
+container/format for raster data which packages the pixels along with
+the map callibration data, to allow you to accurately position this
+data in a coordinate system.
 
 ### Vector Data
 
 ## Worldwide
 
 There are a number of good sources of geography data which cover large
-portions of the planet. Some of the ones I have used are listed here:
+portions of the planet. Some of the ones I have used are listed.
 
 ### Open Street Maps
+
+## Australia
+
+## New Zealand
 
 ## Creating Your Own Data
 
