@@ -38,3 +38,15 @@ zulma_brand = {text = "Home"}
 zulma_title = "Luke Frisken"
 
 disqus_sitename = "lukefrisken"
+
+# url to use for map tile layer https://leafletjs.com/reference-1.6.0.html#tilelayer
+map_tile_url = "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+
+# attribution html
+map_tile_attribution = "Kartendaten: © <a href=\"https://openstreetmap.org/copyright\">OpenStreetMap</a>-Mitwirkende, SRTM | Kartendarstellung: © <a href=\"http://opentopomap.org\">OpenTopoMap</a> (<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC-BY-SA</a>)"
+
+# whether or not to show the fullscreen button for maps
+map_fullscreen_button = true
+
+# whether or not to show the home button for maps
+map_home_button = false

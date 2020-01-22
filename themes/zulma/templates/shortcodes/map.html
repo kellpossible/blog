@@ -1,0 +1,139 @@
+{# inputs:  #}
+{# lat (double) - latitude of the center of the map #}
+{# lon (double) - longitude of the center of the map #}
+{# zoom (int) - zoom level of the map #}
+{# id (string, optional) - id for the map div, specify if there are multiple maps #}
+{# height (int, optional) - height in px #}
+{# home_button (boolean, optional) - whether to show the zoom to home controls #}
+{# tile_url (url template, optional) - tile server definition #}
+{# tile_attribution (html, optional) - attibution html to use for tile layer}
+{# fullscreen_button (boolean, optional) - whether or not to show the fullscreen button #}
+{# geojson (url, optional) - geojson file to load #}
+{# gpx (url, optional) - gpx file to load #}
+{# kml (url, optional) - kml file to load #}
+
+
+{% if tile_url is undefined %}
+    {% if page.extra.map_tile_url %}
+        {% set tile_url=page.extra.map_tile_url %}
+    {% else %}
+        {% set tile_url=config.extra.map_tile_url  %}
+    {% endif %}
+{% endif %}
+
+{% if tile_attribution is undefined %}
+    {% if page.extra.map_tile_attribution is undefined %}
+        {% set tile_attribution=config.extra.map_tile_attribution %}
+    {% else %}
+        {% set tile_attribution=page.extra.map_tile_attribution %}  
+    {% endif %}
+{% endif %}
+
+{% if fullscreen_button is undefined %}
+    {% set fullscreen_button=config.extra.map_fullscreen_button %}
+{% endif %}
+
+{% if home_button is undefined %}
+    {% set fullscreen_button=config.extra.map_home_button %}
+{% endif %}
+
+{% if id is undefined %}
+{% set id="map" %}
+{% endif %}
+
+{% if height is undefined %}
+{% set height=400 %}
+{% endif %}
+
+<div id="{{id}}" style="height: {{height}}px"></div>
+
+
+{% if geojson %}
+<p>
+    <a class="button" href="{{geojson | safe}}">
+        <span class="icon is-small">
+            <i class="fas fa-download"></i>
+        </span>
+        <span>
+            GeoJSON
+        </span>
+    </a>
+</p>
+{% endif %}
+
+{% if gpx %}
+<p>
+    <a class="button" href="{{gpx | safe}}">
+        <span class="icon is-small">
+            <i class="fas fa-download"></i>
+        </span>
+        <span>
+            GPX
+        </span>
+    </a>
+</p>
+{% endif %}
+
+{% if kml %}
+<p>
+    <a class="button" href="{{kml | safe}}">
+        <span class="icon is-small">
+            <i class="fas fa-download"></i>
+        </span>
+        <span>
+            KML
+        </span>
+    </a>
+</p>
+{% endif %}
+
+<script type="text/javascript">
+    var {{id}} = L.map('{{id}}',
+        {
+            {% if home_button %}zoomControl: false,{% endif %}
+        })
+        .setView([{{lat}}, {{lon}}], {{zoom}});
+
+    {% if home_button %}
+    var zoomHome = L.Control.zoomHome();
+    zoomHome.addTo({{id}});
+    {% endif %}
+
+    L.control.scale({
+        metric: true,
+        imperial: false,
+    }).addTo({{id}});
+
+    {% if tile_url %}
+    L.tileLayer("{{tile_url | safe }}", {
+        attribution: '{{tile_attribution | safe }}'
+    }).addTo({{id}});
+    {% endif %}
+
+    {% if geojson %}
+    omnivore.geojson('{{geojson | safe}}').addTo({{id}});
+    {% endif %}
+    
+    {% if gpx %}
+    omnivore.gpx('{{gpx | safe}}').addTo({{id}});
+    {% endif %}
+
+    {% if kml %}
+    // Load kml file
+    fetch('{{kml | safe}}')
+        .then(res => res.text())
+        .then(kmltext => {
+            // Create new kml overlay
+            const parser = new DOMParser();
+            const kml = parser.parseFromString(kmltext, 'text/xml');
+            const kml_layer = new L.KML(kml);
+            {{id}}.addLayer(kml_layer);
+        });
+    {% endif %}
+
+    {% if fullscreen_button %}
+    {{id}}.addControl(new L.Control.Fullscreen());
+    {% endif %}
+</script>
+
+{# {{__tera_context}} #}
