@@ -7,7 +7,7 @@ gallery = "photos/skiing-in-new-zealand"
 banner_image = "photos/skiing-in-new-zealand/20170724_130842.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["New Zealand"]
 authors = ["Luke Frisken"]
 +++
 

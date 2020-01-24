@@ -7,7 +7,7 @@ gallery = "photos/kamchatka-2018"
 banner_image = "photos/kamchatka-2018/20180715_134839.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Kamchatka"]
 authors = ["Luke Frisken"]
 +++
 

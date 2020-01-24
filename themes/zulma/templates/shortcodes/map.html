@@ -2,31 +2,39 @@
 {# lat (double) - latitude of the center of the map #}
 {# lon (double) - longitude of the center of the map #}
 {# zoom (int) - zoom level of the map #}
-{# id (string, optional) - id for the map div, specify if there are multiple maps #}
 {# height (int, optional) - height in px #}
 {# home_button (boolean, optional) - whether to show the zoom to home controls #}
-{# tile_url (url template, optional) - tile server definition #}
-{# tile_attribution (html, optional) - attibution html to use for tile layer}
+{# tile_source (string, optional) - source of map tiles #}
+{# available tile sources: opentopomap #}
+
 {# fullscreen_button (boolean, optional) - whether or not to show the fullscreen button #}
 {# geojson (url, optional) - geojson file to load #}
 {# gpx (url, optional) - gpx file to load #}
 {# kml (url, optional) - kml file to load #}
 
-
-{% if tile_url is undefined %}
-    {% if page.extra.map_tile_url %}
-        {% set tile_url=page.extra.map_tile_url %}
+{% if tile_source is undefined %}
+    {% if page.extra.map_tile_source is undefined %}
+        {% set tile_source = config.extra.map_tile_source %}
     {% else %}
-        {% set tile_url=config.extra.map_tile_url  %}
+        {% set tile_source = page.extra.map_tile_source %}  
     {% endif %}
 {% endif %}
 
-{% if tile_attribution is undefined %}
-    {% if page.extra.map_tile_attribution is undefined %}
-        {% set tile_attribution=config.extra.map_tile_attribution %}
-    {% else %}
-        {% set tile_attribution=page.extra.map_tile_attribution %}  
-    {% endif %}
+{% if tile_source == "opentopomap" %}
+    {# url to use for map tile layer https://leafletjs.com/reference-1.6.0.html#tilelayer #}
+    {% set tile_url = "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png" %}
+
+    {# attribution html #}
+    {% set tile_attribution = 'Kartendaten: © <a href="https://openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende, SRTM | Kartendarstellung: © <a href="http://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)' %}
+{% endif %}
+
+{% if tile_source == "nztopo" %}
+    {# url to use for map tile layer https://leafletjs.com/reference-1.6.0.html#tilelayer #}
+    {# Please use your own API key #}
+    {% set tile_url = "http://tiles-a.data-cdn.linz.govt.nz/services;key=" ~ config.extra.map_linz_api_key ~ "/tiles/v4/layer=50767/EPSG:3857/{z}/{x}/{y}.png" %}
+
+    {# attribution html #}
+    {% set tile_attribution = 'Images sourced from <a href="https://data.linz.govt.nz/layer/50767-nz-topo50-maps/">LINZ</a> - Crown Copyright Reserved' %}
 {% endif %}
 
 {% if fullscreen_button is undefined %}
@@ -62,6 +70,14 @@
 {% endif %}
 
 {% if gpx %}
+<p id="{{id}}-gpx-info">
+    <strong>Stats:</strong>
+    Distance:&nbsp;<span class="distance"></span>&nbsp;km
+    &mdash; Duration:&nbsp;<span class="duration"></span>
+    &mdash; Elevation:&nbsp;+<span class="elevation-gain"></span>&nbsp;m,
+    -<span class="elevation-loss"></span>&nbsp;m
+    (net:&nbsp;<span class="elevation-net"></span>&nbsp;m)
+</p>
 <p>
     <a class="button" href="{{gpx | safe}}">
         <span class="icon is-small">
@@ -88,52 +104,89 @@
 {% endif %}
 
 <script type="text/javascript">
-    var {{id}} = L.map('{{id}}',
-        {
-            {% if home_button %}zoomControl: false,{% endif %}
-        })
-        .setView([{{lat}}, {{lon}}], {{zoom}});
+    function display_map(div_id) {
+        var map = L.map(div_id,
+            {
+                {% if home_button %}zoomControl: false,{% endif %}
+            })
+            .setView([{{lat}}, {{lon}}], {{zoom}});
 
-    {% if home_button %}
-    var zoomHome = L.Control.zoomHome();
-    zoomHome.addTo({{id}});
-    {% endif %}
+        {% if home_button %}
+        var zoomHome = L.Control.zoomHome();
+        zoomHome.addTo(map);
+        {% endif %}
 
-    L.control.scale({
-        metric: true,
-        imperial: false,
-    }).addTo({{id}});
+        L.control.scale({
+            metric: true,
+            imperial: false,
+        }).addTo(map);
 
-    {% if tile_url %}
-    L.tileLayer("{{tile_url | safe }}", {
-        attribution: '{{tile_attribution | safe }}'
-    }).addTo({{id}});
-    {% endif %}
+        {% if tile_url %}
+        L.tileLayer("{{tile_url | safe }}", {
+            attribution: '{{tile_attribution | safe }}'
+        }).addTo(map);
+        {% endif %}
 
-    {% if geojson %}
-    omnivore.geojson('{{geojson | safe}}').addTo({{id}});
-    {% endif %}
-    
-    {% if gpx %}
-    omnivore.gpx('{{gpx | safe}}').addTo({{id}});
-    {% endif %}
+        {% if geojson %}
+        L.geoJson.ajax('{{geojson | safe}}', {
+            onEachFeature: function(feature, layer){
+                // does this feature have a property named popupContent?
+                if (feature.properties && feature.properties.popupContent) {
+                    layer.bindPopup(feature.properties.popupContent);
+                }
+            }
+        }).addTo(map);
+        {% endif %}
+        
+        {% if gpx %}
+        var map_gpx_info = document.getElementById('{{id}}-gpx-info');
+        
+        function _c(c) { return map_gpx_info.getElementsByClassName(c)[0]; }
 
-    {% if kml %}
-    // Load kml file
-    fetch('{{kml | safe}}')
-        .then(res => res.text())
-        .then(kmltext => {
-            // Create new kml overlay
-            const parser = new DOMParser();
-            const kml = parser.parseFromString(kmltext, 'text/xml');
-            const kml_layer = new L.KML(kml);
-            {{id}}.addLayer(kml_layer);
-        });
-    {% endif %}
+        new L.GPX('{{gpx | safe}}', {
+            async: true,
+            marker_options: {
+                startIconUrl: '/img/pin-icon-start.png',
+                endIconUrl: '/img/pin-icon-end.png',
+                shadowUrl: '/img/pin-shadow.png',
+                wptIconUrls: {
+                    '': '/img/pin-icon-wpt.png',
+                },
+            },
+        }).on('loaded', function (e) {
+            var gpx = e.target;
+            map.fitBounds(gpx.getBounds(), {
+                padding: [50, 50],
+            });
 
-    {% if fullscreen_button %}
-    {{id}}.addControl(new L.Control.Fullscreen());
-    {% endif %}
+            _c('distance').textContent = (gpx.get_distance()/1000.0).toFixed(2);
+            _c('duration').textContent = gpx.get_duration_string(gpx.get_moving_time());
+            _c('elevation-gain').textContent = (gpx.get_elevation_gain()).toFixed(0);
+            _c('elevation-loss').textContent = (gpx.get_elevation_loss()).toFixed(0);
+            _c('elevation-net').textContent  = (gpx.get_elevation_gain() - gpx.get_elevation_loss()).toFixed(0);
+
+        }).addTo(map);
+        
+        {% endif %}
+
+        {% if kml %}
+        // Load kml file
+        fetch('{{kml | safe}}')
+            .then(res => res.text())
+            .then(kmltext => {
+                // Create new kml overlay
+                const parser = new DOMParser();
+                const kml = parser.parseFromString(kmltext, 'text/xml');
+                const kml_layer = new L.KML(kml);
+                map.addLayer(kml_layer);
+            });
+        {% endif %}
+
+        {% if fullscreen_button %}
+        map.addControl(new L.Control.Fullscreen());
+        {% endif %}
+    }
+    display_map({{id}})
 </script>
 
 {# {{__tera_context}} #}

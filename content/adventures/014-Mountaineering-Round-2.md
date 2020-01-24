@@ -7,7 +7,7 @@ gallery = "photos/mountaineering-round-2"
 banner_image = "photos/mountaineering-round-2/20160120_102022.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["New Zealand"]
 authors = ["Luke Frisken"]
 +++
 
