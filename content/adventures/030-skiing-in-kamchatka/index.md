@@ -39,7 +39,7 @@ there was a different website that Anya used to find березняки.
 
 {{ map(id="map1", lat=52.99955, lon=158.69699, zoom=13, kml="krasnaya-sopka.kml", home_button=true) }}
 
-{{ map(id="map2", lat=52.99955, lon=158.69699, zoom=12, gpx="красная_сопка_юг_final.gpx") }}
+{{ map(id="map2", lat=52.99955, lon=158.69699, zoom=12, gpx="красная_сопка_юг_final.gpx", fit_bounds=true, title="Krasnaya Sopka Run", caption="this is a test caption for this map") }}
 
 {{ map(id="map3", lat=52.99955, lon=158.69699, zoom=10, geojson="map.geojson") }}
 

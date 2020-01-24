@@ -2,15 +2,18 @@
 {# lat (double) - latitude of the center of the map #}
 {# lon (double) - longitude of the center of the map #}
 {# zoom (int) - zoom level of the map #}
+{# title (string, optional) - title for the map #}
+{# caption (string, optional) - caption for the map #}
 {# height (int, optional) - height in px #}
 {# home_button (boolean, optional) - whether to show the zoom to home controls #}
 {# tile_source (string, optional) - source of map tiles #}
-{# available tile sources: opentopomap #}
-
+{# available tile sources: opentopomap, nztopo #}
 {# fullscreen_button (boolean, optional) - whether or not to show the fullscreen button #}
 {# geojson (url, optional) - geojson file to load #}
 {# gpx (url, optional) - gpx file to load #}
+{# gpx_stats: (boolean, optional) - whether or not to display gpx stats #}
 {# kml (url, optional) - kml file to load #}
+{# fit_bounds: (boolean, optional) - whether or not to fit display to the data #}
 
 {% if tile_source is undefined %}
     {% if page.extra.map_tile_source is undefined %}
@@ -53,8 +56,35 @@
 {% set height=400 %}
 {% endif %}
 
+{% if gpx_stats is undefined %}
+{% set gpx_stats=true %}
+{% endif %}
+
+{% if fit_bounds is undefined %}
+{% set fit_bounds=false %}
+{% endif %}
+
+<figure>
+{% if not title is undefined %}
+<h3>{{title}}</h3>
+{% endif %}
+
 <div id="{{id}}" style="height: {{height}}px"></div>
 
+{% if gpx and gpx_stats %}
+<p id="{{id}}-gpx-info">
+    <strong>Stats:</strong>
+    Distance:&nbsp;<span style="font-weight: bold" class="distance"></span>&nbsp;km
+    &mdash; Duration:&nbsp;<span style="font-weight: bold" class="duration"></span>
+    &mdash; Elevation:&nbsp;+<span style="font-weight: bold" class="elevation-gain"></span>&nbsp;m,
+    -<span style="font-weight: bold" class="elevation-loss"></span>&nbsp;m
+    (net:&nbsp;<span style="font-weight: bold" class="elevation-net"></span>&nbsp;m)
+</p>
+{% endif %}
+
+{% if not caption is undefined %}
+<figcaption>{{caption}}</figcaption>
+{% endif %}
 
 {% if geojson %}
 <p>
@@ -70,14 +100,6 @@
 {% endif %}
 
 {% if gpx %}
-<p id="{{id}}-gpx-info">
-    <strong>Stats:</strong>
-    Distance:&nbsp;<span class="distance"></span>&nbsp;km
-    &mdash; Duration:&nbsp;<span class="duration"></span>
-    &mdash; Elevation:&nbsp;+<span class="elevation-gain"></span>&nbsp;m,
-    -<span class="elevation-loss"></span>&nbsp;m
-    (net:&nbsp;<span class="elevation-net"></span>&nbsp;m)
-</p>
 <p>
     <a class="button" href="{{gpx | safe}}">
         <span class="icon is-small">
@@ -102,6 +124,7 @@
     </a>
 </p>
 {% endif %}
+</figure>
 
 <script type="text/javascript">
     function display_map(div_id) {
@@ -137,7 +160,7 @@
             }
         }).addTo(map);
         {% endif %}
-        
+
         {% if gpx %}
         var map_gpx_info = document.getElementById('{{id}}-gpx-info');
         
@@ -155,16 +178,20 @@
             },
         }).on('loaded', function (e) {
             var gpx = e.target;
+
+            {% if fit_bounds %}
             map.fitBounds(gpx.getBounds(), {
                 padding: [50, 50],
             });
+            {% endif %}
 
+            {% if gpx_stats %}
             _c('distance').textContent = (gpx.get_distance()/1000.0).toFixed(2);
             _c('duration').textContent = gpx.get_duration_string(gpx.get_moving_time());
             _c('elevation-gain').textContent = (gpx.get_elevation_gain()).toFixed(0);
             _c('elevation-loss').textContent = (gpx.get_elevation_loss()).toFixed(0);
             _c('elevation-net').textContent  = (gpx.get_elevation_gain() - gpx.get_elevation_loss()).toFixed(0);
-
+            {% endif %}
         }).addTo(map);
         
         {% endif %}
