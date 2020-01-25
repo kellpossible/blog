@@ -1,13 +1,18 @@
-{% extends "index.html" %}
+{% extends "page-base.html" %}
 {% import "post_macros.html" as post_macros %}
 
-{% block content %}
-<!-- START NAV -->
-{% block header %}
+{% block head %}
 {{ super() }}
 <link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
+{% endblock head %}
+
+{% block content %}
+{% block page_javascript %}
+{{ super() }}
+{% endblock page_javascript %}
+{% block header %}
+{{ super() }}
 {% endblock header %}
-<!-- END NAV -->
 <main>
     <section class="container">
         <div class="columns is-desktop">

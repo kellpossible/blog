@@ -1,29 +1,20 @@
-{% extends "index.html" %}
+{% extends "page-base.html" %}
 {% import "post_macros.html" as post_macros %}
 
-{% block content %}
-<!-- START NAV -->
-{% block header %}
+{% block head %}
 {{ super() }}
 {% if page.extra.gallery %}
 <link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
 {% endif %}
-{% if page.extra.map %}
-<link href='{{ get_url(path="css/leaflet.css") }}' rel='stylesheet' />
-<link href='{{ get_url(path="css/leaflet.fullscreen.css") }}' rel='stylesheet' />
-<link href='{{ get_url(path="css/leaflet.zoomhome.css") }}' rel='stylesheet' />
-{% endif %}
+{% endblock head %}
+
+{% block content %}
+{% block page_javascript %}
+{{ super() }}
+{% endblock page_javascript %}
+{% block header %}
+{{ super() }}
 {% endblock header %}
-<!-- END NAV -->
-{% if page.extra.map %}
-<script type="text/javascript" src="{{ get_url(path="js/leaflet.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="js/Leaflet.fullscreen.min.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="js/leaflet.zoomhome.min.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="js/L.KML.js") }}""></script>
-<script type="text/javascript" src="{{ get_url(path="js/gpx.min.js") }}""></script>
-<script type="text/javascript" src="{{ get_url(path="js/leaflet.ajax.min.js") }}""></script>
-<!-- <script type="text/javascript" src="{{ get_url(path="js/togeojson.js") }}""></script> -->
-{% endif %}
 <main>
     <section class="container">
         <div class="columns is-desktop">

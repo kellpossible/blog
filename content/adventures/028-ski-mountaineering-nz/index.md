@@ -7,6 +7,7 @@ categories = ["Adventures"]
 tags = ["New Zealand"]
 authors = ["Luke Frisken"]
 [extra]
+map = true
 gallery = "photos/new-zealand-2019"
 banner_image = "photos/new-zealand-2019/20190908_140752.jpg"
 +++
@@ -213,6 +214,9 @@ Australian, Luke met us at the road to give us a ride back to our cars,
 I made a short video about these trips up Rolleston:
 
 {{ youtube(id="Rrs_Bw35g8E",class="youtube") }}
+
+{{ map(id="crowvalleymap", lat=-42.956171, lon=171.545334, zoom=12, tile_source="nztopo", home_button=true, fullscreen_button=true, kml="crow-valley-2019-trip.kml", title="Rolleston and Crow Glacier Map", caption="Rough map of where Latham and I travelled on the second day.") }}
+
 
 ## Avalanche Risk Management Course
 
@@ -497,6 +501,13 @@ Aspiring Guides allowed us to use his spare fuel from their trip.
 I made a short film about this trip here:
 
 {{ youtube(id="5MVHZ884VA0",class="youtube") }}
+
+{{ map(id="westcoastmap", lat=-43.513825, lon=170.200024, zoom=12, tile_source="opentopomap", home_button=true, fullscreen_button=true, kml="west-coast-glaciers-2019-trip.kml", title="West Coast Glaciers Trip Map", caption="Rough map of where I travelled. Guillaume and Jack also went into the Melchior and Spa Glaciers") }}
+
+### Guidebook References
+
++ Backcountry Ski-Touring 2018 - Pages 125-136
++ Aoraki Tai Poutini 2018 - Pages 284-339
 
 ## Conclusion
 

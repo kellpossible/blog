@@ -15,6 +15,10 @@
 {# kml (url, optional) - kml file to load #}
 {# fit_bounds: (boolean, optional) - whether or not to fit display to the data #}
 
+{% if not page.extra.map %}
+{{ throw(message="to use maps, please define extra.map = true on your page, to ensure required javascript and css files are included") }}
+{% endif %}
+
 {% if tile_source is undefined %}
     {% if page.extra.map_tile_source is undefined %}
         {% set tile_source = config.extra.map_tile_source %}
@@ -45,7 +49,7 @@
 {% endif %}
 
 {% if home_button is undefined %}
-    {% set fullscreen_button=config.extra.map_home_button %}
+    {% set home_button=config.extra.map_home_button %}
 {% endif %}
 
 {% if id is undefined %}
@@ -64,7 +68,7 @@
 {% set fit_bounds=false %}
 {% endif %}
 
-<figure>
+<div class="map">
 {% if not title is undefined %}
 <h3>{{title}}</h3>
 {% endif %}
@@ -83,7 +87,7 @@
 {% endif %}
 
 {% if not caption is undefined %}
-<figcaption>{{caption}}</figcaption>
+<p class="map-caption">{{caption}}</p>
 {% endif %}
 
 {% if geojson %}
@@ -124,7 +128,7 @@
     </a>
 </p>
 {% endif %}
-</figure>
+</div>
 
 <script type="text/javascript">
     function display_map(div_id) {

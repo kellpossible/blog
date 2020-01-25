@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>West Coast Glaciers 2019 Trip.kmz</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness200">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl06">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_homegardenbusiness110">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl06</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>West Coast Glaciers 2019 Trip</name>
+		<Placemark>
+			<name>Centennial Hut</name>
+			<open>1</open>
+			<description><![CDATA[<p><img src="https://www.doc.govt.nz/contentassets/1fa25b43b1f84a7890095593902eb707/centennial-hut-223.jpg"></p>
+<p>Grid/NZTM2000 coordinates: E1376424, N5178779</p>
+<p><a href="https://alpineclub.org.nz/product/centennial-hut/">Centennial Hut NZAC</a><br>
+<a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/huts/centennial-hut/">Centennial Hut DOC</a></p>]]></description>
+			<LookAt>
+				<longitude>170.2338939665436</longitude>
+				<latitude>-43.50916774357255</latitude>
+				<altitude>0</altitude>
+				<heading>155.1038695716289</heading>
+				<tilt>74.93187332021512</tilt>
+				<range>235.6569010273173</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_homegardenbusiness001</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>170.2342023496178,-43.50830093432547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chancellor Hut</name>
+			<open>1</open>
+			<description><![CDATA[<p><img width="200px" src="https://www.doc.govt.nz/thumbs/hero/contentassets/30a4a9b945644f529c1cbc5dc9503121/chancellor-hut-sunset-1920.jpg"></p>
+<p>Grid/NZTM2000 coordinates: E1366278, N5178455</p>
+<p><a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/huts/chancellor-hut/">Chancellor Hut</a></p>]]></description>
+			<LookAt>
+				<longitude>170.1085733317065</longitude>
+				<latitude>-43.5106157259238</latitude>
+				<altitude>0</altitude>
+				<heading>70.30373553434895</heading>
+				<tilt>44.89214573103735</tilt>
+				<range>586.3363667379583</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>170.1085490026676,-43.51034351127696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chancellor to Centennial</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.1085867578066,-43.51025843449624,0 170.1104700414363,-43.51088677161975,0 170.1137406972377,-43.51179838855625,0 170.115158494736,-43.51226843933459,0 170.1180866462694,-43.51282123850467,0 170.1188933212562,-43.51331559237682,0 170.1232402007079,-43.51396681364075,0 170.1263092869923,-43.5146354961977,0 170.1287627850923,-43.51509650618925,0 170.1305762243205,-43.51525537506009,0 170.1312647815013,-43.51509569838561,0 170.1318769237972,-43.51467673077394,0 170.1327039739488,-43.51480115668414,0 170.1333944775496,-43.51508855300788,0 170.1345806490915,-43.51478417850809,0 170.1362588365566,-43.51428199837437,0 170.1409575743261,-43.51352813835209,0 170.1567475006412,-43.51252625677559,0 170.1620423129592,-43.51332970907846,0 170.1671956450126,-43.5132316658464,0 170.1707804240974,-43.51331424652571,0 170.1796568685924,-43.51348678225064,0 170.1847071094289,-43.51338310888222,0 170.1877244806333,-43.51400344932643,0 170.1900881457008,-43.51455706400142,0 170.191462001043,-43.51499935261081,0 170.1922451125591,-43.51562451678796,0 170.2025466395081,-43.51599727542383,0 170.212969380003,-43.5146232909075,0 170.219558037434,-43.51292887577178,0 170.2317851516804,-43.508219835868,0 170.2327873201726,-43.50739156498021,0 170.2335024672718,-43.50756330795253,0 170.2336150235924,-43.50839024259565,0 170.2341667047877,-43.50871201061328,0 170.2342330419631,-43.50831637341664,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aurora</name>
+			<description>Up the couloir on the West side, down the North Face</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.219727115085,-43.51285920399766,0 170.2230658060379,-43.51584675229535,0 170.2252488293474,-43.51746601085937,0 170.226527065831,-43.51885471953171,0 170.2272336506491,-43.51927408321862,0 170.2279338259478,-43.5193917356873,0 170.2280319819165,-43.51925692577405,0 170.2274126880857,-43.518790415581,0 170.2280276963349,-43.51681847504718,0 170.2268789373817,-43.51656636340416,0 170.2259570063864,-43.51545908268371,0 170.2258798220784,-43.51052871845415,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Saddle Meteor Jervois</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.2308303506125,-43.50857638701792,0 170.2337384096616,-43.51212104798721,0 170.2352316198049,-43.51392770993117,0 170.2360389246633,-43.5152119054876,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Minarets</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.2342145580127,-43.50849536142138,0 170.2347425877869,-43.50983122082437,0 170.2354679763338,-43.51064546672714,0 170.2368306583611,-43.5104039831593,0 170.2392372108821,-43.50985148971862,0 170.2420794109254,-43.50691310757838,0 170.2426609996521,-43.50589844299306,0 170.2464778517103,-43.50440736580264,0 170.2486175260292,-43.50242304248749,0 170.2492669298763,-43.5016403892702,0 170.2573040621131,-43.50466750579804,0 170.262235646046,-43.50632283980165,0 170.2646327388385,-43.50730655214207,0 170.2652655672143,-43.50817756445887,0 170.265844035821,-43.50880647911877,0 170.2678916970737,-43.50968919041088,0 170.2684065604628,-43.50979078134947,0 170.2688238676813,-43.51042149279215,0 170.2702237031465,-43.51083476039314,0 170.2710165011649,-43.5102815582518,0 170.2721980405589,-43.50970397545615,0 170.2722520212803,-43.50927720212891,0 170.2724629645684,-43.50916369165252,0 170.272852111394,-43.50930869111791,0 170.2734757632927,-43.50985066955242,0 170.2743060979539,-43.50982286684192,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Geikie Snowfield</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.2556197596531,-43.50402659670262,0 170.252958114495,-43.49882056411123,0 170.2540544669066,-43.49632703139618,0 170.2527119164612,-43.48915918447588,0 170.2455296326476,-43.48076126299113,0 170.2369122652339,-43.4844599095705,0 170.2362563991319,-43.49122413098971,0 170.2343019979596,-43.49900811820738,0 170.2327632859813,-43.50288065470448,0 170.2308075430537,-43.502855050664,0 170.2324746251548,-43.5057542028206,0 170.2335022160463,-43.5075729911776,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Graham Saddle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.2571976284443,-43.504636336554,0 170.2587664174715,-43.5069750484145,0 170.2586646960851,-43.50821560575893,0 170.2580564909628,-43.50964090895692,0 170.2573003083996,-43.51036268284467,0 170.2564824518787,-43.51103808408607,0 170.2566208973773,-43.5120913347142,0 170.2564739417157,-43.51569479294736,0 170.2564399464287,-43.51690846753559,0 170.2558567925625,-43.51787632253549,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jervois North Face</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.2382177445401,-43.51007340789553,0 170.237778510822,-43.51111883617222,0 170.2386842669452,-43.51195043987817,0 170.2394214369497,-43.51200806356631,0 170.2401611084823,-43.51225375837753,0 170.2391207777312,-43.51160554147199,0 170.2387603523693,-43.50997451047779,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Von Bulow Pt 2585</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					170.1951085681178,-43.51571920550767,0 170.1936637326918,-43.51217166169327,0 170.1916896520413,-43.50939086044936,0 170.1912340694323,-43.50828890182905,0 170.1881638027299,-43.50890437552337,0 170.1863844291159,-43.50854565016381,0 170.1860273548605,-43.50827777967317,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
