@@ -6,7 +6,7 @@ slug = "mountaineering-round-2"
 gallery = "photos/mountaineering-round-2"
 banner_image = "photos/mountaineering-round-2/20160120_102022.jpg"
 [taxonomies]
-categories = ["Adventures"]
+categories = ["Adventures", "Mountaineering"]
 tags = ["New Zealand"]
 authors = ["Luke Frisken"]
 +++

@@ -4,7 +4,7 @@ date = 2019-11-01
 slug = "making-maps"
 [taxonomies]
 categories = ["Code"]
-tags = ["maps"]
+tags = ["Maps"]
 authors = ["Luke Frisken"]
 +++
 

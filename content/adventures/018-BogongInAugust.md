@@ -7,7 +7,7 @@ gallery = "photos/bogong-in-august-2017"
 banner_image = "photos/bogong-in-august-2017/20170827_154008.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Skiing"]
 authors = ["Luke Frisken"]
 +++
 

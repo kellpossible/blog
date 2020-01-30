@@ -4,7 +4,7 @@ date = 2019-09-19
 slug = "ski-mountaineering-nz"
 [taxonomies]
 categories = ["Adventures"]
-tags = ["New Zealand"]
+tags = ["New Zealand", "Skiing", "Mountaineering"]
 authors = ["Luke Frisken"]
 [extra]
 map = true

@@ -6,7 +6,7 @@ slug = "empathy-and-criticism"
 banner_image = "photos/empathy-and-criticism/20160223_175302.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Canyoning"]
 authors = ["Luke Frisken"]
 +++
 

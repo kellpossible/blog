@@ -1,14 +1,17 @@
 +++
 title = "NZ Ortho4XP Scenery Creation"
 date = 2018-01-01
+slug = "nz-ortho4xp"
 [extra]
 gallery = "photos/nzortho4xp"
 banner_image = "photos/nzortho4xp/AS350B3_8.jpg"
 [taxonomies]
 categories = ["Code"]
-tags = ["flight-sim"]
+tags = ["Flight Simulation", "New Zealand"]
 authors = ["Luke Frisken"]
 +++
+
+This article outlines the process I've developed for creating highly detailed mesh scenery of New Zealand's Southern Alps for the [X-Plane Flight Simulator](http://x-plane.com/), using the best freely available digital elevation data.
 
 ## 1. Obtain DEM Data
 Get DEM data from https://koordinates.com/publisher/university-of-otago-national-school-of-surveying/data/ 

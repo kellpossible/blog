@@ -2,6 +2,7 @@
 title = "Skiing In Kamchatka"
 date = 2020-01-18
 slug = "skiing-in-kamchatka"
+draft = true
 [extra]
 map = true
 [taxonomies]

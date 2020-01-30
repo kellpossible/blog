@@ -7,7 +7,7 @@ gallery = "photos/werribee-gorge"
 banner_image = "photos/werribee-gorge/20161115_150701.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Climbing"]
 authors = ["Luke Frisken"]
 +++
 

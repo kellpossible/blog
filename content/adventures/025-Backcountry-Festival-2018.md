@@ -7,7 +7,7 @@ gallery = "photos/backcountry-festival-2018"
 banner_image = "photos/backcountry-festival-2018/20180901_124656.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Skiing"]
 authors = ["Luke Frisken"]
 +++
 

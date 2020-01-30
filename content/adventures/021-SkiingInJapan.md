@@ -7,7 +7,7 @@ gallery = "photos/skiing-in-japan"
 banner_image = "photos/skiing-in-japan/20171226_155250.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Japan", "Skiing"]
 authors = ["Luke Frisken"]
 +++
 

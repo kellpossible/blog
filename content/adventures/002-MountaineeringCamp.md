@@ -7,7 +7,7 @@ gallery = "photos/mumc-mountaineering"
 banner_image = "photos/mumc-mountaineering/20150101_051457.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = ["New Zealand"]
+tags = ["New Zealand", "Climbing", "Mountaineering"]
 authors = ["Luke Frisken"]
 +++
 

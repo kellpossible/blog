@@ -7,7 +7,7 @@ gallery = "photos/little-river-gorge-2016"
 banner_image = "photos/little-river-gorge-2016/20161119_163148.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = ["maps"]
+tags = ["Maps", "Canyoning"]
 authors = ["Luke Frisken"]
 +++
 

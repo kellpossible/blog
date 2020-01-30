@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>features.kml</name>
+	<open>1</open>
+	<Style id="1087bfmedium">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium0">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium1">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium2">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="default">
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="1087bfmedium3">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium4">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium5">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium6">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium7">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium8">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="1087bfmedium9">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium10">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium11">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium12">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium13">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium14">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium15">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium16">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium17">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium18">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium19">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium20">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="1087bfmedium21">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium22">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium23">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium24">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium25">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium26">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium27">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium28">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium29">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium30">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium31">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium32">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium33">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium34">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium35">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium36">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium37">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium38">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium39">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium40">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium41">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium42">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium43">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium44">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<StyleMap id="1087bfmedium45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#1087bfmedium60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#1087bfmedium47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="1087bfmedium46">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium47">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium48">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium49">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium50">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium51">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium52">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium53">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium54">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium55">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium56">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium57">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium58">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium59">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium60">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium61">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium62">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Style id="1087bfmedium63">
+		<IconStyle>
+			<Icon>
+				<href>https://api.tiles.mapbox.com/v3/marker/pin-m+1087bf.png</href>
+			</Icon>
+		</IconStyle>
+		<hotSpot xunits="fraction" yunits="fraction" x="0.5" y="0.5"></hotSpot>
+	</Style>
+	<Placemark>
+		<name>Lake Nereid</name>
+		<styleUrl>#1087bfmedium7</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki50qil13</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Nereid</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.242715,-43.12765,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Junction Creek Campsite</name>
+		<styleUrl>#1087bfmedium11</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4hnas1</value>
+			</Data>
+			<Data name="title">
+				<value>Junction Creek Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.279568,-43.097567,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Shaw</name>
+		<styleUrl>#1087bfmedium24</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4vo0nr</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Shaw</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.465198,-43.231915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WesternAthursTraverse5</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>WesternAthursTraverse5</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.44638,-43.174919,0 146.454319,-43.172196,0 146.466979,-43.168816,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Lake Fortuna</name>
+		<styleUrl>#1087bfmedium63</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4tgu7h</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Fortuna</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.22631,-43.125043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Procyon Peak</name>
+		<styleUrl>#1087bfmedium41</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4z1ot10</value>
+			</Data>
+			<Data name="title">
+				<value>Procyon Peak</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.260449,-43.137461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>OldPDaveyTrack</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>OldPDaveyTrack</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.279096,-43.098068,0 146.274075,-43.099948,0 146.271972,-43.098883,0 146.26944,-43.100794,0 146.263432,-43.101296,0 146.258497,-43.102549,0 146.252789,-43.104711,0 146.251759,-43.104774,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Capella Crags</name>
+		<styleUrl>#1087bfmedium4</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4ze1p11</value>
+			</Data>
+			<Data name="title">
+				<value>Capella Crags</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.232699,-43.126793,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Junction</name>
+		<styleUrl>#1087bfmedium61</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5go941j</value>
+			</Data>
+			<Data name="title">
+				<value>Junction</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.466561,-43.152115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mount Capricorn</name>
+		<styleUrl>#1087bfmedium35</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki53rws1a</value>
+			</Data>
+			<Data name="title">
+				<value>Mount Capricorn</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.288398,-43.155527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>High Moor Campsite</name>
+		<styleUrl>#1087bfmedium15</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki54b2s1b</value>
+			</Data>
+			<Data name="title">
+				<value>High Moor Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.299449,-43.16495,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MoraineKTrack</name>
+		<styleUrl>#1087bfmedium8</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4ownd3</value>
+			</Data>
+			<Data name="title">
+				<value>MoraineKTrack</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.349112,-43.157609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Haven Lake</name>
+		<styleUrl>#1087bfmedium19</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4tw4vj</value>
+			</Data>
+			<Data name="title">
+				<value>Haven Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.333824,-43.170787,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Promontory</name>
+		<styleUrl>#1087bfmedium45</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4qow84</value>
+			</Data>
+			<Data name="title">
+				<value>Propomontory Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.360507,-43.164246,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bechervaise Plateau</name>
+		<styleUrl>#1087bfmedium6</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5woxv1o</value>
+			</Data>
+			<Data name="title">
+				<value>Bechervaise Plateau</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.481925,-43.269456,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Prominent Rock</name>
+		<styleUrl>#1087bfmedium50</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5bhlt1h</value>
+			</Data>
+			<Data name="title">
+				<value>Prominent Rock</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.432207,-43.182297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mount Hayes</name>
+		<styleUrl>#1087bfmedium58</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4ytm6z</value>
+			</Data>
+			<Data name="title">
+				<value>Mount Hayes</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.247189,-43.132219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Mars</name>
+		<styleUrl>#1087bfmedium44</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4uu8no</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Mars</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.351612,-43.174629,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Cracroft</name>
+		<styleUrl>#1087bfmedium20</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4w78mt</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Cracroft</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.459963,-43.25136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Venus</name>
+		<styleUrl>#1087bfmedium32</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4v0ofp</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Venus</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.371986,-43.176045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lancaster Lead Camp</name>
+		<styleUrl>#1087bfmedium55</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5y6ga1p</value>
+			</Data>
+			<Data name="title">
+				<value>Lancaster Lead Camp</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.531771,-43.259963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Bewsher</name>
+		<styleUrl>#1087bfmedium9</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4weyuu</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Bewsher</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.457066,-43.258565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mount Scorpio</name>
+		<styleUrl>#1087bfmedium12</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki557us1c</value>
+			</Data>
+			<Data name="title">
+				<value>Mount Scorpio</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.346065,-43.160818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Cygnus Campsite</name>
+		<styleUrl>#1087bfmedium28</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki50hut12</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Cygnus Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.235172,-43.129224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hanging Lake Campsite</name>
+		<styleUrl>#1087bfmedium3</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4wzeux</value>
+			</Data>
+			<Data name="title">
+				<value>Hanging Lake Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.466379,-43.276707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Oberon Turnoff</name>
+		<styleUrl>#1087bfmedium0</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki51rhh16</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Oberon Turnoff</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.271023,-43.146099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hanging Lake</name>
+		<styleUrl>#1087bfmedium27</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4wtpyw</value>
+			</Data>
+			<Data name="title">
+				<value>Hanging Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.465027,-43.277291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mkays Track</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>Mkays Track</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.298837,-43.038375,0 146.296348,-43.039379,0 146.293387,-43.038846,0 146.289825,-43.039849,0 146.287679,-43.041135,0 146.28549,-43.043017,0 146.284503,-43.042986,0 146.283559,-43.044334,0 146.280641,-43.045401,0 146.279654,-43.045934,0 146.279525,-43.046844,0 146.275277,-43.048443,0 146.272573,-43.050293,0 146.271371,-43.052269,0 146.271672,-43.055969,0 146.270771,-43.058572,0 146.271071,-43.059293,0 146.271929,-43.060234,0 146.272315,-43.061049,0 146.27223,-43.062366,0 146.274676,-43.065,0 146.274976,-43.068825,0 146.274032,-43.077069,0 146.277208,-43.080517,0 146.274933,-43.084373,0 146.278839,-43.097912,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>West Portal</name>
+		<styleUrl>#1087bfmedium57</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki59a0q1e</value>
+			</Data>
+			<Data name="title">
+				<value>West Portal</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.410192,-43.19482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Oberon Campsite</name>
+		<styleUrl>#1087bfmedium40</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki51kzx15</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Oberon Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.268544,-43.146777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hanging Lake Junction</name>
+		<styleUrl>#1087bfmedium</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5vnzf1m</value>
+			</Data>
+			<Data name="title">
+				<value>Hanging Lake Junction</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.467988,-43.273002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WesternAthursTraverse2</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>WesternAthursTraverse2</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.307871,-43.164418,0 146.308461,-43.164394,0 146.308472,-43.164167,0 146.308901,-43.164167,0 146.30918,-43.164856,0 146.309641,-43.164997,0 146.309695,-43.164848,0 146.310027,-43.16488,0 146.31022,-43.164739,0 146.312055,-43.165255,0 146.313525,-43.166061,0 146.316347,-43.169786,0 146.318836,-43.170819,0 146.32023,-43.172493,0 146.321153,-43.172728,0 146.322312,-43.173229,0 146.323771,-43.174027,0 146.325166,-43.17373,0 146.327397,-43.173761,0 146.32862,-43.172681,0 146.329629,-43.172274,0 146.331131,-43.171476,0 146.334221,-43.171398,0 146.335444,-43.170647,0 146.336603,-43.171257,0 146.336989,-43.170208,0 146.33671,-43.168565,0 146.337354,-43.166546,0 146.337053,-43.165247,0 146.340358,-43.163338,0 146.340315,-43.16243,0 146.341023,-43.161851,0 146.344027,-43.161209,0 146.345744,-43.160896,0 146.34613,-43.159832,0 146.34643,-43.15883,0 146.347804,-43.158001,0 146.348876,-43.157578,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Haven Lake Campsite</name>
+		<styleUrl>#1087bfmedium26</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4u1fzk</value>
+			</Data>
+			<Data name="title">
+				<value>Haven Lake Campsite</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.334688,-43.170964,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Ariel</name>
+		<styleUrl>#1087bfmedium14</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4rvpc9</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Ariel</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.2896,-43.16038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Rosanne</name>
+		<styleUrl>#1087bfmedium22</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5bac21g</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Rosanne</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.431993,-43.182038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Sirona</name>
+		<styleUrl>#1087bfmedium51</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4ub73l</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Sirona</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.33723,-43.16432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Pluto</name>
+		<styleUrl>#1087bfmedium16</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4t9mng</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Pluto</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.24206,-43.118386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>The Sculptor</name>
+		<styleUrl>#1087bfmedium30</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki56rrv1d</value>
+			</Data>
+			<Data name="title">
+				<value>The Sculptor</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.368038,-43.170698,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Goon Moor Camp</name>
+		<styleUrl>#1087bfmedium31</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5m32e1l</value>
+			</Data>
+			<Data name="title">
+				<value>Goon Moor Camp</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.444792,-43.237043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WesternAthursTraverse1</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>WesternAthursTraverse1</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.225237,-43.116679,0 146.226847,-43.116789,0 146.227726,-43.118261,0 146.229894,-43.119075,0 146.230645,-43.120313,0 146.23028,-43.120548,0 146.229808,-43.120673,0 146.232147,-43.123383,0 146.234035,-43.124119,0 146.234121,-43.126045,0 146.234979,-43.127188,0 146.23543,-43.126985,0 146.239185,-43.128723,0 146.240429,-43.13068,0 146.244034,-43.131667,0 146.245622,-43.133092,0 146.246159,-43.133108,0 146.247596,-43.133906,0 146.248219,-43.133906,0 146.249377,-43.13721,0 146.250622,-43.137492,0 146.253712,-43.138244,0 146.254506,-43.137743,0 146.255149,-43.137837,0 146.256115,-43.138588,0 146.257188,-43.139277,0 146.258111,-43.140545,0 146.259999,-43.141172,0 146.263818,-43.144021,0 146.264913,-43.144021,0 146.265771,-43.143207,0 146.266758,-43.143363,0 146.267445,-43.143129,0 146.268689,-43.143927,0 146.270771,-43.144757,0 146.271157,-43.145728,0 146.271007,-43.146072,0 146.271586,-43.145947,0 146.271972,-43.14615,0 146.273496,-43.146009,0 146.274096,-43.146322,0 146.274204,-43.146604,0 146.275126,-43.146886,0 146.275384,-43.14687,0 146.276178,-43.147121,0 146.276285,-43.1477,0 146.276993,-43.14842,0 146.277487,-43.148514,0 146.278517,-43.148827,0 146.278688,-43.149313,0 146.278989,-43.149125,0 146.279032,-43.148906,0 146.280083,-43.149109,0 146.280577,-43.14889,0 146.281242,-43.149093,0 146.284546,-43.152005,0 146.287164,-43.155152,0 146.290061,-43.15631,0 146.29328,-43.156967,0 146.295082,-43.159315,0 146.295297,-43.162164,0 146.294867,-43.162931,0 146.296241,-43.163041,0 146.295897,-43.164872,0 146.297507,-43.16556,0 146.299824,-43.165122,0 146.302142,-43.164277,0 146.302378,-43.164512,0 146.303257,-43.164152,0 146.305618,-43.163901,0 146.306219,-43.16434,0 146.307249,-43.163667,0 146.307849,-43.164402,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Lake Saturn</name>
+		<styleUrl>#1087bfmedium54</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4rgo07</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Saturn</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.308536,-43.155966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Oberon</name>
+		<styleUrl>#1087bfmedium46</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4si0wc</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Oberon</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.271457,-43.148937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mount Hesperus</name>
+		<styleUrl>#1087bfmedium18</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5129114</value>
+			</Data>
+			<Data name="title">
+				<value>Mount Hesperus</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.230162,-43.118598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Ganymede</name>
+		<styleUrl>#1087bfmedium39</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4r6oo6</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Ganymede</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.309341,-43.168675,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WesternAthursTraverse4</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>WesternAthursTraverse4</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.36276,-43.166985,0 146.364991,-43.172884,0 146.366708,-43.173776,0 146.366558,-43.175373,0 146.368188,-43.178627,0 146.369454,-43.179347,0 146.370398,-43.181162,0 146.371643,-43.183071,0 146.372029,-43.185825,0 146.376321,-43.186857,0 146.379196,-43.187295,0 146.38705,-43.18983,0 146.394023,-43.190112,0 146.39559,-43.190252,0 146.396598,-43.189642,0 146.403229,-43.190596,0 146.404302,-43.191207,0 146.404688,-43.192255,0 146.407928,-43.19324,0 146.40958,-43.192489,0 146.410739,-43.185418,0 146.410439,-43.183728,0 146.4134,-43.178878,0 146.414022,-43.178565,0 146.417863,-43.18027,0 146.421425,-43.180411,0 146.429321,-43.183024,0 146.431617,-43.183979,0 146.432776,-43.182852,0 146.432883,-43.18013,0 146.438097,-43.180615,0 146.442024,-43.178033,0 146.443676,-43.177407,0 146.445136,-43.17542,0 146.446359,-43.174841,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Cracroft Crossing</name>
+		<styleUrl>#1087bfmedium52</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5g7bs1i</value>
+			</Data>
+			<Data name="title">
+				<value>Cracroft Crossing</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.476002,-43.146643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McKays Track Start</name>
+		<styleUrl>#1087bfmedium17</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4fp2k0</value>
+			</Data>
+			<Data name="title">
+				<value>McKays Track Start</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.298708,-43.038344,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Ceres</name>
+		<styleUrl>#1087bfmedium34</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4sw4we</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Ceres</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.252145,-43.141594,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Greeves</name>
+		<styleUrl>#1087bfmedium33</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4wmkev</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Greeves</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.478095,-43.278501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fed Peak</name>
+		<styleUrl>#1087bfmedium49</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5w98j1n</value>
+			</Data>
+			<Data name="title">
+				<value>Fed Peak</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.476142,-43.270846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Vesta</name>
+		<styleUrl>#1087bfmedium13</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4uiifm</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Vesta</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.349713,-43.16326,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Moraine A Track</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>Moraine A Track</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.251673,-43.104774,0 146.24545,-43.108753,0 146.240944,-43.110883,0 146.23485,-43.11057,0 146.227169,-43.11198,0 146.225752,-43.112293,0 146.225194,-43.116616,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Earl Lake</name>
+		<styleUrl>#1087bfmedium23</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4vwv3s</value>
+			</Data>
+			<Data name="title">
+				<value>Earl Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.473073,-43.237355,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Mimas</name>
+		<styleUrl>#1087bfmedium56</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4r0uo5</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Mimas</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.317334,-43.16351,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Titania</name>
+		<styleUrl>#1087bfmedium59</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4s1koa</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Titania</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.282401,-43.159245,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EasternAthursTraverse</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>EasternAthursTraverse</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.466422,-43.152256,0 146.466121,-43.154635,0 146.466035,-43.15642,0 146.469726,-43.168221,0 146.470885,-43.179238,0 146.465821,-43.183337,0 146.465907,-43.19069,0 146.462817,-43.197323,0 146.464233,-43.200546,0 146.461744,-43.20261,0 146.457667,-43.217436,0 146.452431,-43.219031,0 146.451401,-43.221346,0 146.451187,-43.225661,0 146.452131,-43.227162,0 146.449899,-43.229539,0 146.447238,-43.22982,0 146.445994,-43.230008,0 146.444621,-43.23154,0 146.445307,-43.232603,0 146.443676,-43.233666,0 146.445393,-43.237074,0 146.447238,-43.239356,0 146.447753,-43.243327,0 146.451873,-43.247453,0 146.453161,-43.251923,0 146.44917,-43.255142,0 146.450457,-43.259362,0 146.455907,-43.262768,0 146.459512,-43.263675,0 146.461615,-43.26669,0 146.465327,-43.269346,0 146.466529,-43.271424,0 146.468138,-43.273002,0 146.470541,-43.272237,0 146.475391,-43.272924,0 146.478695,-43.270237,0 146.481227,-43.26905,0 146.486892,-43.267518,0 146.493029,-43.267581,0 146.495947,-43.270299,0 146.501054,-43.270081,0 146.505861,-43.268425,0 146.506977,-43.266487,0 146.511783,-43.264143,0 146.515173,-43.264206,0 146.522512,-43.261893,0 146.533412,-43.259799,0 146.535859,-43.261018,0 146.54221,-43.261768,0 146.548175,-43.25933,0 146.553754,-43.258737,0 146.557917,-43.256268,0 146.577272,-43.261081,0 146.590447,-43.263581,0 146.600232,-43.260331,0 146.604137,-43.259612,0 146.607656,-43.257174,0 146.6083,-43.252392,0 146.613492,-43.251798,0 146.623191,-43.250485,0 146.627912,-43.247109,0 146.633148,-43.245702,0 146.638298,-43.240982,0 146.644392,-43.238074,0 146.64761,-43.237199,0 146.649928,-43.237105,0 146.655764,-43.234979,0 146.661858,-43.232165,0 146.668338,-43.231696,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Mount Pegasus</name>
+		<styleUrl>#1087bfmedium38</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki53e8k19</value>
+			</Data>
+			<Data name="title">
+				<value>Mount Pegasus</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.277616,-43.148984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Leo</name>
+		<styleUrl>#1087bfmedium42</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4vgwfq</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Leo</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.444556,-43.224246,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Juno</name>
+		<styleUrl>#1087bfmedium2</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4umivn</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Juno</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.352256,-43.162641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Centaurus Ridge</name>
+		<styleUrl>#1087bfmedium21</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki59jn61f</value>
+			</Data>
+			<Data name="title">
+				<value>Centaurus Ridge</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.37866,-43.187389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Farmhouse Creek</name>
+		<styleUrl>#1087bfmedium1</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5zquq1r</value>
+			</Data>
+			<Data name="title">
+				<value>Farmhouse Creek</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.656644,-43.234119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Satellite Lake</name>
+		<styleUrl>#1087bfmedium62</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4xazyy</value>
+			</Data>
+			<Data name="title">
+				<value>Satellite Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.509745,-43.294293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Neptune</name>
+		<styleUrl>#1087bfmedium5</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4t2nzf</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Neptune</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.248154,-43.122772,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Dione</name>
+		<styleUrl>#1087bfmedium53</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4rnuo8</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Dione</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.299669,-43.159781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stuart Saddle</name>
+		<styleUrl>#1087bfmedium25</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5ldhb1k</value>
+			</Data>
+			<Data name="title">
+				<value>Stuart Saddle</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.452088,-43.227545,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Uranus</name>
+		<styleUrl>#1087bfmedium10</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4sb6ob</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Uranus</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.28063,-43.152945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>South Cracroft Camp</name>
+		<styleUrl>#1087bfmedium43</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5z56a1q</value>
+			</Data>
+			<Data name="title">
+				<value>South Cracroft Camp</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.581478,-43.261549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Cygnus Turnoff</name>
+		<styleUrl>#1087bfmedium36</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki5227817</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Cygnus Turnoff</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.234968,-43.127243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Jupiter</name>
+		<styleUrl>#1087bfmedium48</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4tpx3i</value>
+			</Data>
+			<Data name="title">
+				<value>Lake Jupiter</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.332075,-43.179472,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Square Lake</name>
+		<styleUrl>#1087bfmedium29</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4spj5d</value>
+			</Data>
+			<Data name="title">
+				<value>Square Lake</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.263089,-43.141125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MorainATurnoff</name>
+		<styleUrl>#1087bfmedium37</styleUrl>
+		<ExtendedData>
+			<Data name="id">
+				<value>marker-iki4jw2z2</value>
+			</Data>
+			<Data name="title">
+				<value>MorainATurnoff</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="marker-size">
+				<value>medium</value>
+			</Data>
+			<Data name="marker-color">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="marker-symbol">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.251716,-43.10493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WesternAthursTraverse3</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="title">
+				<value>WesternAthursTraverse3</value>
+			</Data>
+			<Data name="description">
+			</Data>
+			<Data name="stroke">
+				<value>#1087bf</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>4</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				146.348919,-43.157609,0 146.349155,-43.157813,0 146.34907,-43.159769,0 146.349885,-43.161162,0 146.349799,-43.161569,0 146.3504,-43.161914,0 146.351473,-43.161882,0 146.351838,-43.16171,0 146.353769,-43.161882,0 146.354455,-43.162477,0 146.355807,-43.162602,0 146.356859,-43.16315,0 146.358768,-43.163244,0 146.359455,-43.162712,0 146.360571,-43.162806,0 146.360914,-43.162352,0 146.362416,-43.16254,0 146.363875,-43.164559,0 146.36379,-43.166437,0 146.362781,-43.166969,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -7,7 +7,7 @@ gallery = "photos/mountaineering-course"
 banner_image = "photos/mountaineering-course/20141222_062454.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = ["New Zealand"]
+tags = ["New Zealand", "Mountaineering"]
 authors = ["Luke Frisken"]
 +++
 

@@ -7,7 +7,7 @@ gallery = "photos/cape-woolamai-mistakes"
 banner_image = "photos/cape-woolamai-mistakes/14859586_10154034654863034_466160819_o.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Climbing"]
 authors = ["Luke Frisken"]
 +++
 

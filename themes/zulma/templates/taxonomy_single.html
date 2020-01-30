@@ -12,7 +12,7 @@
 <main>
     <!-- START HERO TITLE -->
     {% if not title %}
-    {% set title = taxonomy.name ~ ": " ~ term.name | capitalize %}
+    {% set title = taxonomy.name ~ ": " ~ term.name | title %}
     {% endif %}
     {{ index_macros::hero(title=title,primary=false) }}
     <!-- END HERO TITLE -->

@@ -7,7 +7,7 @@ gallery = "photos/blue-mountains-canyoning"
 banner_image = "photos/blue-mountains-canyoning/20170416_172609_1.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Canyoning"]
 authors = ["Luke Frisken"]
 +++
 

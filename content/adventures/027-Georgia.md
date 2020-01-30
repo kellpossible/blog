@@ -7,7 +7,7 @@ gallery = "photos/georgia-2018"
 banner_image = "photos/georgia-2018/20181223_172917.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = []
+tags = ["Georgia", "Skiing"]
 authors = ["Luke Frisken"]
 +++
 

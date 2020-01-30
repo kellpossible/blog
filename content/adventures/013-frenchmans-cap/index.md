@@ -7,7 +7,7 @@ gallery = "photos/frenchmans-cap-2016/"
 banner_image = "photos/frenchmans-cap-2016/20170103_144142.jpg"
 [taxonomies]
 categories = ["Adventures"]
-tags = ["maps"]
+tags = ["Maps"]
 authors = ["Luke Frisken"]
 +++
 
