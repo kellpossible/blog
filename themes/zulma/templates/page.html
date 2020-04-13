@@ -3,8 +3,14 @@
 
 {% block head %}
 {{ super() }}
+{% if page.extra.banner_image %}
+{% set og_image_url = get_url(path=page.extra.banner_image) %}
+<meta property="og:image" content="{{ og_image_url }}"/>
+{% endif %}
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{page.title}}" />
 {% if page.extra.gallery %}
-<link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
+<link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}"/>
 {% endif %}
 {% endblock head %}
 
