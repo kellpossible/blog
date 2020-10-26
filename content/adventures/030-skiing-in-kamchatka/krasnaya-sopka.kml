@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Krasnaya Sopka.kmz</name>
+	<StyleMap id="stylemap_id02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ski">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ski.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ski">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ski.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style">
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="linestyle_34704740">
+		<LineStyle>
+			<color>ffff5500</color>
+		</LineStyle>
+	</Style>
+	<Style id="linestyle_3470474">
+		<LineStyle>
+			<color>ffff5500</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="linestyle_34704741">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#linestyle_34704740</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#linestyle_3470474</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ski0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ski</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ski</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="style4">
+		<LineStyle>
+			<color>ff7f5500</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Krasnaya Sopka</name>
+		<open>1</open>
+		<Placemark>
+			<name>Красная Сопка юг</name>
+			<open>1</open>
+			<styleUrl>#stylemap_id02</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6732385380995,53.00256971466356,361 158.6758977242112,53.00231187338933,361 158.677062180177,53.00228797518661,357 158.6775919,53.0021246,422 158.6775652,53.0020535,418 158.6776259,53.001986,413 158.6777195,53.00194,415 158.6778064,53.0018852,423 158.6779061,53.0018426,425 158.6779997,53.0017842,422 158.6780969,53.0017258,424 158.6781689,53.001652,425 158.6782457,53.0015916,424 158.6782902,53.0015233,423 158.6783288,53.0014465,421 158.6783349,53.00136609999999,419 158.6783576,53.0012953,418 158.6783862,53.0012242,418 158.6784653,53.0011602,417 158.6785408,53.00110209999999,418 158.6786135,53.0010353,421 158.6786787,53.0009629,422 158.6787129,53.0008893,423 158.6786933,53.0008124,422 158.6786855,53.0007372,421 158.6786943,53.0006601,417 158.6787127,53.0005801,422 158.6787289,53.0005013,425 158.6787267,53.0004246,419 158.6787373,53.000352,420 158.6787252,53.0002724,422 158.6786777,53.00020169999999,418 158.6786535,53.0001276,421 158.6786118,53.0000544,419 158.6785796,52.9999779,417 158.6785546,52.9999012,415 158.67851,52.9998168,410 158.6785102,52.999736,410 158.6784861,52.999661,412 158.6784389,52.9995904,407 158.6784056,52.9995184,407 158.6783505,52.9994528,407 158.6782946,52.999376,402 158.6782311,52.9993079,401 158.6781576,52.9992328,403 158.6780939,52.99916640000001,404 158.6779943,52.9991084,407 158.6779217,52.9990445,407 158.6778499,52.99897789999999,407 158.6777887,52.99889410000001,407 158.6777243,52.9988239,412 158.6775833,52.9986792,413 158.6775239,52.99861549999999,412 158.6775123,52.9985432,413 158.6774686,52.9984682,406 158.6773935,52.9984025,406 158.6772041,52.99829900000001,399 158.6770698,52.99829960000001,396.0000000000001 158.6769595,52.99833009999999,395 158.6768514,52.99836759999999,395 158.6767231,52.9983455,395 158.6765413,52.99840859999999,392.0000000000001 158.6764394,52.99846310000001,391 158.6763263,52.9984944,392.0000000000001 158.676213,52.99852700000001,401 158.6760879,52.99852490000001,398.0000000000001 158.6759649,52.9985262,393 158.6758424,52.9985318,392.0000000000001 158.6756775,52.99850849999999,399 158.6755336,52.998535,394.0000000000001 158.6753939,52.99855460000001,402 158.6752705,52.99853590000001,399 158.6751457,52.9985182,393 158.6750309,52.99853800000001,389 158.6749067,52.9985146,391 158.6747855,52.9985019,391 158.6746664,52.9985164,386 158.6745801,52.9985744,387 158.6744501,52.99856849999999,383 158.6743572,52.9985234,386 158.6742817,52.9984553,389 158.6742347,52.9983874,393 158.6741249,52.9983541,390.0000000000001 158.6739897,52.998365,389 158.6739027,52.9984232,395 158.6737868,52.99846130000001,391 158.673702,52.9985145,388 158.6735848,52.9984961,389 158.6734561,52.9984691,375 158.6733036,52.99846430000001,370 158.6730025,52.9984248,371 158.6727677,52.99845980000001,361 158.6725413,52.9984887,360 158.672417,52.99849099999999,358 158.6723067,52.9985253,351 158.6720338,52.99869129999999,368 158.6717822,52.99874280000001,340 158.6716957,52.9986927,332 158.6712071,52.9985828,329 158.6710874,52.99857660000001,317 158.6702728,52.9983863,304 158.6698243,52.9983523,301 158.669652,52.998325,298 158.6693746,52.99806180000001,285 158.6693113,52.99799569999999,280 158.6692499,52.9979056,273 158.6691469,52.99774960000001,265 158.6690526,52.99757810000001,256 158.6689981,52.9975135,250 158.6688471,52.9973723,252 158.66873,52.9973472,249 158.6685954,52.99735280000001,241 158.6684894,52.9973928,233 158.6679122,52.9976195,224 158.6679123,52.997697,222 158.6677623,52.99777869999999,221 158.6673751,52.9980318,216 158.6673094,52.99811,215 158.6664934,52.9984249,275 158.665952,52.9983191,257 158.6657129,52.9982224,211 158.6655971,52.9981808,192 158.6654795,52.99820950000001,168 158.665341,52.99819400000001,161 158.6650238,52.99795199999999,148 158.6649211,52.9978907,146 158.6647796,52.9979041,136 158.6646236,52.998007,136 158.6646033,52.9980802,133 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Krasnaya Sopka (Красная Сопка)</name>
+			<description>As of 2020, the prices were:
+200 rubles for a &quot;Radiocard&quot;, electronic ticket
+60 rubles per ride on the T-Bar</description>
+			<LookAt>
+				<longitude>158.6621473648502</longitude>
+				<latitude>53.00175503187179</latitude>
+				<altitude>0</altitude>
+				<heading>70.06513736077389</heading>
+				<tilt>43.83121649499435</tilt>
+				<range>648.452093318157</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ski0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>158.6617171254284,53.00182552720378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skinning Route</name>
+			<description>Observed other skiiers skinning up this side, check with the resort staff before proceeding.</description>
+			<styleUrl>#stylemap_id00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6614779480645,53.00268548459676,0 158.6625762017322,53.00272034671365,0 158.6659966063852,53.00263415006647,0 158.6686823742946,53.00255485433853,0 158.6730095592138,53.00263672423038,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Loop Tour</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6763681896635,53.0027289094567,0 158.6787602883512,53.00374477488718,0 158.6806054212318,53.0052818323303,0 158.6843886364911,53.00781688781585,0 158.6858263463098,53.00899309974189,0 158.687124775108,53.00914312839687,0 158.6875589682129,53.00993737429863,0 158.6877504815544,53.01053320790966,0 158.6939314552717,53.01050379660539,0 158.6963592192219,53.00945635249842,0 158.6971501267964,53.00929854048183,0 158.6985250241052,53.00773984094717,0 158.6992955874486,53.00687775176009,0 158.7019713357244,53.00517496146837,0 158.704075598212,53.00312270645431,0 158.7054580005848,53.00237489556032,0 158.7023715738043,52.99840119228971,0 158.6999735120632,52.99721377749359,0 158.6964874203456,52.99426852281749,0 158.695598967152,52.99356770837079,0 158.6943795848013,52.99278075061018,0 158.6926996821852,52.99268201130207,0 158.6917610589344,52.99203451385161,0 158.6895036608566,52.99175296867514,0 158.6867791383721,52.99200419076347,0 158.6831792491743,52.98995953928319,0 158.6806603335476,52.98721523444861,0 158.6804471035943,52.98640740354234,0 158.6805345729076,52.98578176655873,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>South Open Run 1</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.7034959998084,53.00352785497895,0 158.7026538392849,53.00257760494954,0 158.7019250081563,53.00188762067062,0 158.7015917828512,53.00157200089224,0 158.6990695818726,53.00046425615825,0 158.6963197338315,52.99956748906042,0 158.6953101859545,52.99840174964045,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>South Open Run 2</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.7000107385923,53.00643468247603,0 158.6990046128907,53.00524846498433,0 158.6984361905709,53.0042002550168,0 158.6972479678249,53.00331114173905,0 158.6946793512287,53.00194718746532,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>North Couloir</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.7104337537326,53.00141127482473,0 158.7102469649492,53.00294942507485,0 158.7096629357358,53.0039269056623,0 158.7096977193715,53.00513254844223,0 158.7104778854603,53.00737187462864,0 158.7126906882421,53.01023731562266,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>North Open Run 1</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.7008158887567,53.00698012977134,0 158.7028169131142,53.00809794576008,0 158.7057388227071,53.0092048541552,0 158.7079237836825,53.00950543077278,0 158.7115830380762,53.01095886326401,0 158.7125206197158,53.01098588947568,0 158.7134656291333,53.01142915664172,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>North Ridge</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6987624327084,53.00891983498074,0 158.7022465956179,53.00953448534182,0 158.7063232615199,53.01031310967133,0 158.7079760851203,53.01093008297394,0 158.7084295670889,53.01112620280193,0 158.7112896987978,53.01137675610259,0 158.7126648126976,53.01168688562698,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>East Open Run 1</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6787493807871,53.00048046782631,0 158.6797421557041,53.00115517744047,0 158.6799091238748,53.00204215615089,0 158.6821306034346,53.00213564274866,0 158.6851543432687,53.00178717994407,0 158.6882738879025,52.9995228726474,0 158.6903995658678,52.99769582016664,0 158.691775519181,52.99708327993354,0 158.694189475329,52.99601790066743,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Loop Tour Extended</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.6852257758604,52.99193237452876,0 158.6827579607515,52.99164369394853,0 158.6801640949638,52.99039822005584,0 158.6786743050723,52.99007319341334,0 158.6775041317061,52.98976346908643,0 158.6768937794849,52.98966485315989,0 158.6759031901771,52.98936077154249,0 158.6753365353915,52.98966792990111,0 158.6745619733481,52.99068649743998,0 158.6740477690411,52.99101065528021,0 158.673605110005,52.99168723368826,0 158.6734830361386,52.99280133345133,0 158.6738984007021,52.99392251416224,0 158.6756051514949,52.99532155341985,0 158.6757529686737,52.99609086708143,0 158.6733043010961,52.99697167788837,0 158.6724572084636,52.99675317950354,0 158.6711252114208,52.99655584920457,0 158.6697594839574,52.99658772238068,0 158.6682660391654,52.99731369343687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Luke Frisken</name>
+			<description>Luke Frisken&apos;s track log</description>
+			<styleUrl>#linestyle_34704741</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					158.66129,53.001555,120.38 158.66395,53.003228,173.59 158.665966,53.00265,235.24 158.668498,53.001748,299.25 158.672876,53.001255,353.2 158.676803,53.00067500000001,407.3999999999999 158.681201,53.00206,430.42 158.684635,53.00589,447.1900000000001 158.687316,53.008808,451.38 158.691758,53.010535,447.1900000000001 158.696758,53.010085,478.6999999999999 158.699741,53.007713,480.81 158.703066,53.004988,512.4299999999999 158.704805,53.00349600000001,501.8799999999999 158.704826,53.003605,489.23 158.70414,53.002338,535.6799999999999 158.7012,53.000933,355.28 158.694656,52.998443,192.05 158.693883,52.99893600000001,239.36 158.692425,52.998593,249.66 158.690256,52.99912,297.18 158.688926,53.000761,363.6 158.684956,53.00166100000001,399.05 158.679956,53.000965,424.14 158.678411,52.997166,394.8700000000001 158.673735,52.998293,401.1399999999999 158.671953,52.997961,355.28 158.664186,52.997971,122.42 158.662211,52.99853,108.13 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
