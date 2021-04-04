@@ -13,19 +13,23 @@ gallery = "photos/a-wedding-in-gomi"
 banner_image = "photos/a-wedding-in-gomi/.jpg"
 +++
 
-The Vagabond ski instructor group decided to leave Guduari to live on a property
-in the countryside. Initially they hoped to live on a property not far from
-Bakuriani owned by a family member from the group, however it was complicated
-with family members living on the property. Instead, they found a place in the
-tiny town of Gomi, in the Guria region, near Ozergheti. They would be helping a
+After having spent the Winter and most of the Spring in Gudauri, the Vagabond
+ski instructor group decided to leave to live on a property in the countryside.
+Initially they hoped to live on a property not far from Bakuriani owned by a
+family member from the group, however the situation was complicated with someone
+already living on the property, possibly unwelcome to the idea of a dozen
+"unrurely" foreigners residing nearby. Instead, they found a place in the tiny
+town of Gomi, in the Guria region, near Ozergheti. They would be helping a
 friend Lika to build a campsite called Dumbo Eco Camp. After a short stay in
 Tbilisi, and quick visit to the Black Sea near Kobuleti with Alex and Lena, we
 joined the group in Guria, sleeping in our small tent under the hazlenut groves
 next to the river. It's warm and humid in Guria, with a thunderstorm being a
 common occurance in the evenings during Summer. I loved walking in barefoot on
-the grass, and swimming in the cold river with our friends.
+the grass (careful of the snakes of course!), and swimming in the cold river with our friends.
 
-A local, a large and dominating 50-60 year old man, Lasha invited us over for a
+One day someone forgot to close the gate, and as I was walking back from the river a cow came crashing through the bushes. I was fascinated the old farmer who wandered calmly through the forest soon after to retrieve his cow.
+
+A large and dominating 50-60 year old local man; Lasha invited us over for a
 lavish Georgian supra a number of times. We watched the ducks swimming around in
 his mud lined ponds, and the chickens being bred nearby. He peppered us with
 gifts in what probably turned out to be an attempt to find some people to run
@@ -36,8 +40,8 @@ group. He appeared at the gate shirtless and very comical, probably quite drunk
 on honey chacha.
 
 We caught some dogs rummaging around our trash and breaking into the compost
-bin, one of whom was the beatiful, and crazy Bobic, who we all came to love and
-hate, a major character of the Gomi story.
+bin, one of whom was the slightly beatiful, and crazy Bobic, who we all came to
+love and hate, a major character of the Gomi story.
 
 TODO: photo of Bobic
 
@@ -91,26 +95,26 @@ have a better antenna, and managed to get just enough signal for a video call,
 so we decided to set up just below the cross.
 
 Our friend Chris performed the ceremony, he was a great orator. The
-cloud drifted in and out, and I watched Anya's beatiful face gather
-droplets. Afterwards we cracked the champaign and partied! As we drove
+cloud drifted in and out, and I watched Anya's happy face gather droplets of
+condensation. Afterwards we cracked the champaign and partied! As we drove
 down the mountain, I received a text message that our wedding
 certificate was ready to be collected at the service hall, so Anya and
 I continued there with our two Georgian friends Sopo and Lika as
-witnesses, a small miracle it was ready on the same day as the
+witnesses, another small miracle that it was ready on the same day as the
 ceremony.
 
 I drove with Lika to collect the wedding cake she had organised to be
 made for us, something delicious covered in stawberries. We were soon
 all sitting for dinner at the newly made table under the shelter in
-the campsite. Two Gomi locals Anzori and TODO: name, brought us
+the campsite. Two Gomi locals Anzori and Nadia brought us
 another cake and fireworks as gifts. We spent our first married
 night sleeping on a small couch out on the veranda of the house, and
 the rain absolutely bucketed down during the night, spraying me on the
 outside.
 
-The next day we got a lift into Ozergheti, and took a marshutka (mini
-bus) to the Black Sea, where we took advantage of COVID prices and
-stayed in a luxury 5 star hotel above the beach which resembles a
-disney castle with an infinity pool. Walking down the road to reach
-the hotel, we passed many stunning Eucalyptus specimens, this region
+The next day we got a lift into Ozergheti, and took a marshutka (mini bus) to
+the Black Sea, where we took advantage of COVID prices and stayed in a luxury 5
+star hotel above the beach which resembles a disney castle with an infinity
+pool. Walking down the road to reach the hotel, we passed many stunning
+Eucalyptus specimens (which are now probably considered invasive), this region
 is full of them, and it reminded me of home.
