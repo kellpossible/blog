@@ -1,7 +1,7 @@
 +++
-title = "A 2020 Wedding in Gomi"
+title = "A Wedding in Gomi"
 date = 2020-07-10
-slug = "a-2020-wedding-in-gomi"
+slug = "a-wedding-in-gomi"
 draft = true
 [taxonomies]
 categories = ["Adventures"]
@@ -9,8 +9,8 @@ tags = ["Georgia", "Skiing", "Mountaineering"]
 authors = ["Luke Frisken"]
 [extra]
 map = true
-gallery = "photos/a-year-in-georgia"
-banner_image = "photos/a-year-in-georgia/.jpg"
+gallery = "photos/a-wedding-in-gomi"
+banner_image = "photos/a-wedding-in-gomi/.jpg"
 +++
 
 The Vagabond ski instructor group decided to leave Guduari to live on a property
@@ -27,11 +27,13 @@ the grass, and swimming in the cold river with our friends.
 
 A local, a large and dominating 50-60 year old man, Lasha invited us over for a
 lavish Georgian supra a number of times. We watched the ducks swimming around in
-his ponds, and the chickens being bred nearby. He peppered us with gifts in what
-probably turned out to be an attempt to find some people to run his new guest
-house. We were all rather intrigued by his purpose, and he gifted us a number of
-antique sewing machines! We visited the honey guy, who appeared very comical,
-and very drunk on honey chacha.
+his mud lined ponds, and the chickens being bred nearby. He peppered us with
+gifts in what probably turned out to be an attempt to find some people to run
+his new guest house. We were all rather intrigued by his purpose, and he even
+gifted us a number of antique sewing machines! We went for a drive through the
+rainforest of Gomi to visit the honey guy to commission some honey for our
+group. He appeared at the gate shirtless and very comical, probably quite drunk
+on honey chacha.
 
 We caught some dogs rummaging around our trash and breaking into the compost
 bin, one of whom was the beatiful, and crazy Bobic, who we all came to love and
