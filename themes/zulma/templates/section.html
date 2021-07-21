@@ -2,6 +2,10 @@
 {% import "post_macros.html" as post_macros %}
 {% import "index_macros.html" as index_macros %}
 
+{% block title %}
+{{ section.title }} | {{ config.title }}
+{% endblock title %}
+
 {% block content %}
 <!-- START NAV -->
 {% block header %}

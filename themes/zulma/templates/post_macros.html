@@ -44,7 +44,7 @@
 <div class="section">
     <div class="columns is-multiline" id="lightgallery">
         {% if page.extra.caption_csv %}
-            {% set caption_path = "content/" ~ page.path ~ page.extra.caption_csv %}
+            {% set caption_path = "content" ~ page.path ~ page.extra.caption_csv %}
             {% set caption_data = load_data(path=caption_path) %}
         {% endif %}
         {% for asset in page.assets | sort %}
@@ -52,7 +52,8 @@
             {% if caption_data %}
                 {% for record in caption_data.records %}
                     {% set file_path = page.path ~ record[0] %}
-                    {% if file_path == asset %}
+                    {% set asset_compare = "/" ~ asset %}
+                    {% if file_path == asset_compare %}
                         {% set_global caption_text = record[1] | safe | trim %}
                     {% endif %}
                 {% endfor %}

@@ -2,6 +2,10 @@
 {% import "index_macros.html" as index_macros %}
 {% import "taxonomy_macros.html" as taxonomy_macros %}
 
+{% block title %}
+{{ taxonomy.name }} | {{ config.title }}
+{% endblock title %}
+
 {% block content %}
 <!-- START NAV -->
 {% block header %}

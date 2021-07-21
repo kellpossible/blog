@@ -1,6 +1,10 @@
 {% extends "page-base.html" %}
 {% import "post_macros.html" as post_macros %}
 
+{% block title %}
+Photos - {{ page.title }}
+{% endblock title %}
+
 {% block head %}
 {{ super() }}
 <link rel="stylesheet" href="{{ get_url(path="css/lightgallery.css") }}">
