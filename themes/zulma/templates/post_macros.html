@@ -52,14 +52,18 @@
             {% if caption_data %}
                 {% for record in caption_data.records %}
                     {% set file_path = page.path ~ record[0] %}
-                    {% set asset_compare = "/" ~ asset %}
-                    {% if file_path == asset_compare %}
+                    {% if file_path == asset %}
                         {% set_global caption_text = record[1] | safe | trim %}
                     {% endif %}
                 {% endfor %}
             {% endif %}
-            <a class="column is-one-quarter-desktop is-half-tablet" href="{{ resize_image(path=asset, width=2000, height=2000, op="fit") }}" {% if caption_text %}data-sub-html="<h4>{{ caption_text }}</h4>"{% endif %}>
-                <img src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}"/>
+            {% set full_size_image = resize_image(path=asset, width=2000, height=2000, op="fit") %}
+            {% set thumbnail_image = resize_image(path=asset, width=240, height=180, op="fill") %}
+            <a 
+                class="column is-one-quarter-desktop is-half-tablet" 
+                href="{{ full_size_image.url }}" 
+                {% if caption_text %}data-sub-html="<h4>{{ caption_text }}</h4>"{% endif %}>
+                <img src="{{ thumbnail_image.url }}"/>
             </a>
         {% endif %}
         {% endfor %}
@@ -103,7 +107,8 @@
                     {% endif %}
 
                     {% if image_path %}
-                        <img src="{{ resize_image(path=image_path, width=512, height=512, op="fill") }}" alt="{{ page.title }}">
+                        {% set image = resize_image(path=image_path, width=512, height=512, op="fill") %}
+                        <img src="{{ image.url }}" alt="{{ page.title }}">
                     {% endif %}
                 </figure>
                 <div class="card-content is-overlay is-clipped">
@@ -156,7 +161,8 @@
                 {% if page.extra.banner_image %}
                 <figure class="image is-square">
                     <a href="{{ page.permalink | safe }}">
-                        <img src="{{ resize_image(path=page.extra.banner_image, width=512, height=512, op="fill") }}" alt="{{ page.title }}">
+                        {% set image = resize_image(path=page.extra.banner_image, width=512, height=512, op="fill") %}
+                        <img src="{{ image.url }}" alt="{{ page.title }}">
                     </a>
                 </figure>
                 {% endif %}

@@ -498,9 +498,7 @@ that we needed 1L more liquid fuel for melting snow\! We took 1.8L for
 Soto stove and two butane gas bottles. Thankfully the guide from
 Aspiring Guides allowed us to use his spare fuel from their trip.
 
-I made a short film about this trip here:
-
-{{ youtube(id="5MVHZ884VA0",class="youtube") }}
+I made a short film about this trip: [Fox and Franz Josef Ski Mountaineering - YouTube](https://www.youtube.com/watch?v=5MVHZ884VA0).
 
 {{ map(id="westcoastmap", lat=-43.513825, lon=170.200024, zoom=12, tile_source="opentopomap", home_button=true, fullscreen_button=true, kml="west-coast-glaciers-2019-trip.kml", title="West Coast Glaciers Trip Map", caption="Rough map of where I travelled. Guillaume and Jack also went into the Melchior and Spa Glaciers") }}
 

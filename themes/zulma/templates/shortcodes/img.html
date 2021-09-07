@@ -21,7 +21,14 @@
 {% if anchor_url %}
 <a href="{{anchor_url}}">
 {% endif %}
-    <img {% if config.extra.images_enabled %}src="{{ resize_image(path=path, width=width, height=height, op=op) }}"{% endif %} {% if caption %}alt="{{ caption }}"{% endif %}>
+    <img 
+        {% if config.extra.images_enabled %}
+            {% set image = resize_image(path=path, width=width, height=height, op=op) %}
+            src="{{ image.url }}"
+        {% endif %}
+        {% if caption %}
+            alt="{{ caption }}"
+        {% endif %}>
 {% if anchor_url %}
 </a>
 {% endif %}
