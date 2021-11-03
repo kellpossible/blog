@@ -5,6 +5,10 @@ date = 2021-09-06
 [extra]
 gallery = "photos/crossing-kazbegi-border"
 banner_image = "photos/crossing-kazbegi-border/20210226_151821.jpg"
+[taxonomies]
+categories = ["Adventures"]
+tags = ["Georgia", "Russia", "Travel"]
+authors = ["Luke Frisken"]
 +++
 
 After an amazing time in Racha with our friends, March was rapidly approaching, and our visa-free year in the Georgia was coming to an end. With travel options being limited, our desire to see family again, and for Anya to have a chance to work again in tourism, we opted to apply for a family visa for myself so we could return to Kamchatka for 3 months in Spring. We applied through the Russian visa centre in Tbilisi, which was surprisingly smooth, however they did take my passport for a few days which caused some inconvenience.
