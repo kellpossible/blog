@@ -2,9 +2,7 @@
 title = "Learning to Paraglide in Georgia"
 slug = "learning-to-paraglide-georgia"
 date = 2021-11-25
-[extra]
-gallery = "photos/learning-to-paraglide-georgia"
-banner_image = "photos/learning-to-paraglide-georgia"
+draft = true
 [taxonomies]
 categories = ["Adventures"]
 tags = ["Georgia", "Paragliding"]
