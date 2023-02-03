@@ -1,14 +1,21 @@
 +++
 title = "Freeride in Racha"
-draft = true
+date = 2022-05-02
+slug = "freeride-in-racha"
+[taxonomies]
+categories = ["Adventures"]
+tags = ["Georgia", "Skiing"]
+authors = ["Luke Frisken"]
+# draft = true
 +++
 
 Having spent a lot of time on skis over the past 4 years in Georgia, it's easy for me to say that the region of Racha has captured my heart. Nestled between the famous region of Svaneti in the West of the country and North Ossettia in the central North, Racha is a hidden gem, a network of valleys and remote villages that calls to those in search of genuine adventure.
 
 One of the main attractions for Racha is the multitude of North Facing valleys in Upper Racha, which provide great snow conditions. During the Spring it's also possible to head up higher to the glaciers on the border with Russia.
 
-[Skiing in Racha, Georgia](https://www.youtube.com/watch?v=8YgiSNodURg)
-[RideThePlanet - Racha Downtempo](https://vimeo.com/406480543)
+Here are a couple of videos showing off what's on offer in the area:
+ + [Skiing in Racha, Georgia](https://www.youtube.com/watch?v=8YgiSNodURg)
+ + [RideThePlanet - Racha Downtempo](https://vimeo.com/406480543)
 
 My love affair with Racha began when Ryan my alpine climbing partner began to tell me about his business [Snow Vigil](https://www.snow-vigil.org/) which he started with another friend Adam. Snow Vigil operates with the idea to bring people into Racha to experience the unique culture and excellent terrain and snow conditions that are on offer there. He described to me the challenges they faced operating in the area which has almost no tourism infrastructure, and the amount of unexplored terrain which remains for those who are willing to put in the hard yards. Many of the interesting zones benefit greatly from camping, as the approaches are long, and sometimes arduous, but, importantly, compared to Australia or New Zealand, they can be done with skins on from the road.
 
@@ -35,15 +42,47 @@ The walk in was pleasant, mostly flat, between some trees for a few kilometers t
 
 Not everyone was going to fit in the Delica, so we decided to split up, half going back in the Delica and the other half skiing out along the road. Levi and Eva took up ropes to surf behind the car all the way down. I stayed with the walking group, and as we passed the township of Usholta, Louis, a diabetic, informed us that he was feeling unwell and that he had run out of sugar, the rest was with his backpack which had been sent down the mountain with the Delica! With no opportunity for us to retrieve it, luckily Kačka had some spare snickers bars, which kept Louis going until we caught up with his backpack down the hill.
 
-Having only had a small taste, it was time for Anya and I to leave, and we drove back to Tbilisi to fly to Kamchatka, while the rest of the group continued the season exploring in Racha.
+Having only had a small taste, it was time for Anya and I to leave, and we drove back to Tbilisi to [drive and fly](../crossing-kazbegi-border) to [Kamchatka for the Spring](../spring-in-kamchatka), while the rest of the group continued the season exploring in Racha.
 
+Here is a video that I made from this time in Racha:
 
-## Volunteering for Snow Vigil 2021/2022
+{{ youtube(id="ks6pH_x1vC4",class="youtube") }}
 
-We returned to Georgia in the Summer, with the borders now open and travel seeming possible once again, Ryan and Adam were making plans to run some Snow Vigil trips in the upcoming 2021/2022 season. 
+## Volunteer Tail Guiding for Snow Vigil 2021/2022
 
+### Pre-Season Prep (and Turkey)
 
+We returned to Georgia in the Summer, with the borders now open and travel seeming possible once again, Ryan and Adam were making plans to run some Snow Vigil trips in the upcoming 2021/2022 season. I decided that I would help them by volunteering as a tail ski guide on some of their trips. After the mountaineering trip on [Tetnuldi with Ryan](../two-times-on-tetnuldi) in the Summer, we headed to Racha and spent some time car camping and hiking with our friends Jaimo and Tako, and Snowy the puppy near Glola and Shovi. Shovi has some magnificent and haunting abandoned soviet era buildings, one of them is rumoured to be Stalin's Dacha (country house). We found ourselves pulling into the village of Ghebi in the late afternoon, and began searching for a place where we could stay.
 
+Unfortunately all the guest houses were full but the kind folks over at [Brili Guest House](https://www.facebook.com/profile.php?id=100044519955668) suggested that we could camp on their lawn. We got to know the owners, who had recently arrived in Racha from another region of Georgia, and they were planning to spend their first Winter there. Their guest house cottage was new, and another was under construction. After exchanging numbers, I was confident that we had found a place to stay for our Snow Vigil trips in the area for the season. I organised to rent one of the cottages for myself for the season, as I intended to stay there for a longer period of time, while Anya was going to stay with our friends at Vagabond Adventures in Gudauri.
+
+It was soon time to leave Racha, and go back to Tbilisi. As November rolled around we found ourselves back on the road again, this time in a van convoy with our friends Jaimo, Tako, Taylor and Arina. First stop was an abandoned ski field above Tbilisi, which no longer gets enough snow to be a viable business. We spend an hour exploring the abandoned hotel building.
+
+After this we headed West, to reach an interesting village by the stunning waters of Lake Paravani famous for its live grass thatched roofs. The rolling grasslands nearby stretch out into the distance, and the lake is overshadowed by a group of picturesque extinct volcanoes. Lake Paravani itself is reported to contain some archeological treasures from the 4th Century BC. Life here appears to be rough, there is an [interesting article](https://mountainstories.ge/news/item/1298-life-at-risk-and-javakheti-left-to-be-dependent-on-russian-money) and video about it:
+
+{{ youtube(id="K89XcFl4pJc", class="youtube") }}
+
+There is also an interesting film on Netflix called "The Trader", which I think is also set in this area:
+
+{{ youtube(id="tOauOJg-fCQ", class="youtube") }}
+
+Many of the locals here are not of Georgian ethnicity and do not speak any Georgian language. Members of the [Doukhobors](https://en.wikipedia.org/wiki/Doukhobors) ethno-religious group settled here after fleeing from Russia almost a century ago.
+
+The nearby volcanoes are still very much on my list of places to visit on skis during the winter, and the lakes in the region freeze over, and are sure to be a beautiful and desolate sight, I caught a glimpse of them from the back of Bakuriani in 2020/21 season.
+
+Onwards we cruised until we reached a village near Akhaltsike famous for the production of [Tenili cheese](https://georgianrecipes.net/2014/12/02/tenili-cheese/). The Vagabond Adventures had an idea to bring some of their guests there as a cultural experience during [their ski safari](https://vagabondadventures.ge/ski-safari/) trips. We were informed that this cheese was originally invented to be easy to dry and store for long periods so they could take with them when fleeing their homes from invaders across the border and survive.
+
+{{ youtube(id="HX2TUJCMwo0", class="youtube") }}
+
+Finally we reached Batumi via Borjomi (famous for its mineral waters), and crossed the border with Turkey to enjoy our first Pide's and Kunefe. I loved walking through the streets in the towns on the shores of the Black Sea and observing the crowds of locals playing backgammon by the cafe's. We crossed the divide and plunged inland to the deservedly touristic Cappadocia for a balloon ride and exploration of the extensive and incredible underground city of [Derinkuyu](https://en.wikipedia.org/wiki/Derinkuyu_underground_city). Anya, Tako and Jaimo were all teaching langauges online, and we had great fun juggling their lessons and the occupancy of the vans. When we stopped we would dock the side doors together and step between them like boats in the mooring.
+
+Here we waved goodbye to the others, as Anya needed to reach Antalya in time for her flight home back to Kamchatka for a brief visit to her family. I continued on in the Antalya region, doing a little rock climbing at Geyikbayiri, some paragliding at Ölüdeniz and finally my PADI advanced open water scuba diving qualification down in Kaş. 
+
+Soon it was time for me to head back to Georgia, as the ski season was approaching rapidly, with significant snowfall already on the forecast. I joined Ryan to sort out the gear in the warehouse in Kutaisi and perform some repairs on the car roof boxes. We soon departed in the Delica for our first pre-season scouting/prep mission out of Ghebi. We had organised to rent the team house from a man named Nodar who had a house in the village of Chiora, just down the road from Ghebi. On our return drive to Kutaisi, we gave Nodar's brother a ride, and we met up with some residents in Tvishi, friends of Nodar's brother on the banks of the Rioni river (which incidentally finds its source in upper Racha). Ryan had spent much time in this area during his efforts documenting the [protests against the Namokhvani Hydro Power Plant](https://agenda.ge/en/news/2021/549). On a whim they decided to invite us up to their home on the top of the hill overlooking the town, it was a brilliant unplanned evening in traditional Georgian setting drinking wine and making new friends. The next morning the view of the Rioni Gorge was spectacular with everything covered by a light dusting of snow. We entered Kutaisi with palm trees covered in snow, there can't be many places where that would occur!
+
+Following this I returned alone to Tbilisi where I met Anya and her mother and brother who had come to visit for a short holiday. We travelled to Gudauri together, Bakuriani (where we happily spent the New Year), and to Batumi. 
+
+I had planned to meet the vagabonds in Goderdzi, and made the then arduous 7 hour Marshrutka and 4WD journey from the Batumi side alone without my skis, the others would come from the other side via snow cat. Unfortunately they all got COVID so I spent the time making new friends and a day skiing in the resort with some rental skis. I decided to try to hitch a ride back to Batumi, but ended up walking almost half the distance as nobody seemed to be driving perhaps due to the shocking quality of the road. Waving goodbye to family at the Batumi Airport, Anya and I returned to Gudauri just in time for me to assist Manu Greer in running an avalanche skills course for the Vagabond instructors.
 
 ## Snow Vigil
 

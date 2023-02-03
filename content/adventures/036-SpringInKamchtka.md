@@ -79,6 +79,11 @@ That afternoon on the 8th of May, Misha headed back solo with his dog, and a cou
 
 This trip to Ganaly was everything I had been hoping for when I imagined adventuring in Kamchatka, and a big thanks to Alexei for organising, it is now among my best memories!
 
+Here is a video that I made from the
+trip:
+
+{{ youtubethumb(id="ok4Ryd1JIu0") }}
+
 ## Orienteering
 
 The Summer was approaching fast, and the snow had all but melted in the city. We joined an orienteering competition held on the grounds of the cross-country skiing/Biathlon traiing centre. Before the competition began we had a group exercise workout with all the participants, with an instructor dancing on stage with a microphone! It was great fun to run through the forest at break-neck speed, dodging piles of mud on the road, and it reminded me of Rogaining in Australia.

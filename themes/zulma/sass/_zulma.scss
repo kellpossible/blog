@@ -82,6 +82,23 @@ main {
 	border: 0;
 }
 
+.youtube-thumb {
+    position: relative;
+    vertical-align:middle;
+    top:0;
+    left:0;
+}
+
+.youtube-play-button {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+
 .map {
   margin-top: 2em;
   margin-bottom: 2em;

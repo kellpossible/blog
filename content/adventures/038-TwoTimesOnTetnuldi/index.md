@@ -109,4 +109,4 @@ A couple of days later we made it to Batumi to get the car repaired and continue
 
 I made a short video from the second trip, available on YouTube:
 
-{{ youtube(id="TzwZP_SWYDI",class="youtube") }}
+{{ youtubethumb(id="TzwZP_SWYDI",class="youtube") }}
