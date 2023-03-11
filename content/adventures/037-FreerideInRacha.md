@@ -4,7 +4,7 @@ date = 2023-03-11
 slug = "freeride-in-racha"
 [extra]
 gallery = "photos/freeride-in-racha"
-banner_image = "photos/freeride-in-racha/20210312_223325.jpg"
+banner_image = "photos/freeride-in-racha/20210212_223325.jpg"
 [taxonomies]
 categories = ["Adventures"]
 tags = ["Georgia", "Skiing"]
@@ -30,45 +30,51 @@ After Ryan's introduction I was immediately sold on the idea of skiing in Racha.
 
 We negotiated to rent a house in the town of Oni, so we could base ourselves there to explore more of what was on offer in the region. I strongly remember Taylor texting us the location, with a vague description about how to drive there, we managed to navigate the rough roads at the back of the village to find a beautiful Georgian style Summer house full of our friends preparing their gear for the trip the next morning.
 
-{{ img(path="photos/freeride-in-racha/20210318_152455.jpg", caption="House in Oni") }}
+{{ img(path="photos/freeride-in-racha/20210218_152455.jpg", caption="House in Oni") }}
 
 For the first tour we organised was a 3 day trip up to the Shoda Valley. Just South of the town of Ghebi in upper Racha, the Shoda valley is a North facing valley, with large peaks looming on either side of a striking headwall at the end of the valley. Getting to Ghebi in Winter is always an adventure in itself. We travelled in Ryan's Delica, and my Subaru Outback, the road at that time was fairly bad, however we made it into the town of Ghebi without a problem, but traversing the narrow ice covered streets and laneways inside the town proved to be the biggest obstacle! We've since learned that it's usually faster to start a tour here from outside the town and ski through the streets.
 
-{{ img(path="photos/freeride-in-racha/20210312_223325.jpg", caption="The Shoda Valley Crew (📷 Arina Abbott)") }}
+{{ img(path="photos/freeride-in-racha/20210212_223325.jpg", caption="The Shoda Valley Crew (📷 Arina Abbott)") }}
 
 Crossing the stream and heading up the trail towards the church, our group of about 14 people eventually reached the traverse where the trees open up and the impressive peaks are unveiled above the valley. I was immediately struck by the beauty of the location, and we placed our tent next to the old summer herdsmen huts as the sun began to set.
 
-{{ img(path="photos/freeride-in-racha/20210313_004605.jpg", caption="Traversing up the Shoda Valley") }}
+{{ img(path="photos/freeride-in-racha/20210213_004605.jpg", caption="Traversing up the Shoda Valley") }}
 
 The next morning was fresh, with a clear sky, we made our way up the bench on the West side of the valley, and dug several snow pits as we ascended. There was an average of more than 3m snow coverage, which was stable in every test result. The apparent stability, and the lack of any evidence of recent avalanches, or recent snowfall, encouraged us to proceed up the headwall at the end of the valley, which is fairly steep, up to 45 degrees. On the next morning, some members of the group who had elected to rest the previous day also wanted to head up to the headwall, so we once again ascended in our tracks again. 
 
-{{ img(path="photos/freeride-in-racha/20210313_230802.jpg", caption="Shoda Valley Headwall") }}
+{{ img(path="photos/freeride-in-racha/20210213_230802.jpg", caption="Shoda Valley Headwall") }}
 
 This time I decided to also give one of the beautiful benches on the West side a crack, but the snow was still very soft there, and it is very steep, maybe 50+ degrees, so I only made enough progress for about 2 turns before we needed to head back. While I was climbing I also discovered a large glide crack which was entirely covered by snow, for a second my heart stopped and I thought I had stuck my leg into a crevasse!
 
+{{ img(path="photos/freeride-in-racha/20210215_010054.jpg", caption="Traversing out of the Shoda Valley") }}
+
 We made it back to the campsite in the afternoon quickly packed up the tents, and began the traverse over past the church to the top of the descent. It was clear that we were in for an interesting evening, the sun was already beginning to set, and the snow at the lower altitude had developed the worst possible breakable crust. Combining this with overnight backpacks made for slow/tricky downhill progress between the trees! I was worried someone might break a leg. Anya had a run in with a tree and hurt her arm, so we decided that walking would be safer and faster. Somehow everyone got separated and it was a bit of chaos because we didn't make a plan to stick together. I eventually began carrying Anya's backpack too to help her, and then while climbing over a fallen tree managed to punch through to a hole and fell on my face in the snow and got stuck!
 
-{{ img(path="photos/freeride-in-racha/20210315_010054.jpg", caption="Traversing out of the Shoda Valley") }}
+{{ img(path="photos/freeride-in-racha/20210212_200216.jpg", caption="Falling on my face! (📷 Anya)") }}
 
-When we made it back to the cars, the last ones to arrive, everyone had taken shelter in one of the village homes, the owners had kindly invited them inside for some chacha and hot food. We said goodbye and started preparing the cars to leave, when Ryan discovered that one of his tires was flat, necessitating a change, we spent quite a while searching and asking nearby for a suitable base for the jack to stop it sinking into the snow.
+When we made it back to the cars, the last ones to arrive, everyone had taken shelter in one of the village homes, the owners had kindly invited them inside for some chacha and hot food. We said goodbye and started preparing the cars to leave, when Ryan discovered that one of his tires was flat, necessitating a change, we spent quite a while searching and asking nearby for a suitable base for the jack to stop it sinking into the snow. By this point we were certainly exceeding the COVID curfew hour for our return to Oni and we began to worry about getting in trouble on our return. We did not want to stay in Ghebi that night because a snow storm was coming that might leave us stuck for several days, if not the entire season for our cars on that little laneway. Eventually we figured we a legitimate excuse to return, Louis needed to top up his insulin supply!
 
-{{ img(path="photos/freeride-in-racha/20210315_071902.jpg", caption="Flat tire in Patara Ghebi") }}
+{{ img(path="photos/freeride-in-racha/20210215_071902.jpg", caption="Flat tire in Patara Ghebi") }}
 
-With a huge dump of snow and bad weather incoming, the next trip was planned as a camp at Shkmeri, which lies on the new road between Tbilisi and Oni. The road had not been completed at that stage, so the road was not being cleared of snow. We decided to leave the Subaru, with it's lower clearance, down at the bottom of the mountain, and do a car shuttle with the Delica to get everyone to the start of the skin track.
+We spent a couple of days back in Oni, eating lots of Shkmeruli, Lobiani, and Khinkali from the cafe, while dancing and waiting for our gear to dry next to the fire. The next trip was planned as a camp at Shkmeri, which lies on the new road between Tbilisi and Oni. The road had not been completed at that stage, so the road was not being cleared of snow. We decided to leave the Subaru, with it's lower clearance, down at the bottom of the mountain, and do a car shuttle with the Delica to get everyone to the start of the skin track.
+
+{{ img(path="photos/freeride-in-racha/20210213_154033.jpg", caption="Recharging with delicious food from the cafe in Oni (📷 Anya)", width=500) }}
 
 The walk in was pleasant, mostly flat, between some trees for a few kilometers to reach a cozy camping spot next to the creek, just below the mountain facing North East on the South side of the highway. The snow began to dump, and by the second day we were having some fantastic powder laps! In the afternoon eeveryone was pretty well soaked and the stoke for camping another night was not high, we decided to head back home. When we got back to the car it was clear that the drive out was going to be an ordeal with almost 50cm of new snow on the road. Additionally, someone had decided to steal Ryan's jack and traction pads from the roof of his car! 
 
-{{ img(path="photos/freeride-in-racha/20210316_004416.jpg", caption="Snow camping near Shkmeri") }}
+{{ img(path="photos/freeride-in-racha/20210216_004416.jpg", caption="Snow camping near Shkmeri") }}
 
 Not everyone was going to fit in the Delica, so we decided to split up, half going back in the Delica and the other half skiing out along the road. Levi and Eva took up ropes to surf behind the car all the way down. I stayed with the walking group, and as we passed the township of Usholta, Louis, a diabetic, informed us that he was feeling unwell and that he had run out of sugar, the rest was with his backpack which had been sent down the mountain with the Delica! With no opportunity for us to retrieve it, luckily Kačka had some spare snickers bars, which kept Louis going until we caught up with his backpack down the hill.
 
-{{ img(path="photos/freeride-in-racha/20210317_204656.jpg", caption="Powder surfing on the back of the Delica near Shkmeri") }}
+{{ img(path="photos/freeride-in-racha/20210217_204656.jpg", caption="Powder surfing on the back of the Delica near Shkmeri") }}
 
 Having only had a small taste, it was time for Anya and I to leave, and we drove back to Tbilisi to [drive and fly](../crossing-kazbegi-border) to [Kamchatka for the Spring](../spring-in-kamchatka), while the rest of the group continued the season exploring in Racha.
 
 Here is a video that I made from this time in Racha:
 
 {{ youtube(id="ks6pH_x1vC4",class="youtube") }}
+
+{{ img(path="photos/freeride-in-racha/20210217_140228.jpg", caption="Shkmeri Crew") }}
 
 ## Volunteer Tail Guiding for Snow Vigil 2021/2022
 
