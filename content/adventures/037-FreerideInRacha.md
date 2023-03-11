@@ -82,7 +82,7 @@ The first time we visited Racha on a honeymoon trip with Anya, first we stayed a
 
 {{ img(path="photos/freeride-in-racha/20210628_191513.jpg", caption="Valley near Shovi") }}
 
-After the mountaineering trip on [Tetnuldi with Ryan](../two-times-on-tetnuldi) in the Summer, we headed to Racha and spent some time car camping and hiking with our friends Jaimo and Tako, and Snowy the puppy near Glola and Shovi. Shovi has some magnificent and haunting abandoned soviet era buildings, one of them is rumoured to be Stalin's Dacha (country house). We found ourselves pulling into the village of Ghebi in the late afternoon, and began searching for a place where we could stay.
+After the mountaineering trip on [Tetnuldi with Ryan](../two-times-on-tetnuldi) in the Summer, we headed to Racha and spent some time car camping and hiking with our friends Jaimo and Tako, and Snowy the puppy near Glola and Shovi. Shovi has some magnificent and haunting abandoned soviet era buildings, one of them is rumoured to be Stalin's Dacha (country house). Our friends Oliver and Natia, as well as Ryan were all going to be in Oni soon, so we drove there to meet them and all hung out on the grass together next to the river. Following this, Oliver, Natia, Jaimo, Tako and ourselves decided to re-enter the realm of upper Racha, and we found ourselves pulling into the village of Ghebi in the late afternoon, and began searching for a place where we could stay.
 
 {{ img(path="photos/freeride-in-racha/20210628_221848.jpg", caption="'Stalin's Dacha'") }}
 
@@ -174,9 +174,13 @@ Our day was cut short, and to keep things interesting we decided to drop off the
 
 Anya went to the aiport to pick up one guest who arrived from Finland, and took him to his hotel. The next day we all met at Fabrika (a hostel and trendy collection of cafes). Ryan was a little late due to troubles getting his car, and truck repaired. Here I met Fede, our lead IFMGA qualified guide from Italy. The group itself was diverse and interesting, we figured we had people on the trip (including guides and volunteers) from something like 14 different countries!
 
+On the first day we had organised to make a stop in Chiatura, a mining town close to Racha. The weather was overcast, we tried to make a visit to the mine, but somehow that didn't work out as planned we spent a lot of time standing around in the mud! Instead we went up to the Church, which happened to be closed. Defeated we made our way to the hotel. I turned in for the night, but I think some of the group managed to make an outing on one of the many soviet era cable cars which hang above the village which make it a fascinating place. I think maybe some people still live there in places only readily accessible by cable car.
+
 {{ img(path="photos/freeride-in-racha/20220129_175026.jpg", caption="Fede leading the group out of Shkmeri") }}
 
-A few hours later we were standing above the village Shkmeri doing some avalanche tranceiver practice with the group. The conditions were excellent, and starting here turned out be be a great idea. After a couple of powder runs from the top of the mountain above the town we all found ourselves in the house of some Shkmeri locals who were weathering the Winter, they decided on a whim to invite us into their home, feed us some delicious local produce (and Chacha of course!), and show us their semi-automatic rifle.
+The next morning we loaded up the cars. There was some trouble leaving the hotel, as the staff had "apprehended" Adam or Tamta waiting for their bank transfer to pay for our stay to go through! With that sorted we were soon standing above the village Shkmeri doing some avalanche tranceiver practice with the group. The conditions were excellent, and starting here turned out be be a great idea. After a couple of powder runs from the top of the mountain above the town we all found ourselves in the house of some Shkmeri locals who were weathering the Winter, they decided on a whim to invite us into their home, feed us some delicious local produce (and Chacha of course!), and show us their semi-automatic rifle.
+
+While we were ski touring, we realised that the group lunches and snacks were forgotten back in the hotel at Chiatura, so Tamta and Adam travelled there again to pick them up, I can't remember if there was some more drama there!
 
 {{ img(path="photos/freeride-in-racha/20220129_183218.jpg", caption="Imprompteau feast with Shkmeri locals!") }}
 
@@ -209,6 +213,8 @@ After a second night in Gona it was time to head back to Ghebi, and the comfort 
 That evening we decided to celebrate Ryan's birthday at the team house in Chiora. The fateful decision was made to drive there in the Gaz 66. Unfortunately the icey, sloping bridge over the river had other ideas, and left us hanging with one wheel over the edge, and everyone jumping out the window with the door hanging over a 5 meter drop into the turbulent water. Cars arriving in the evening began to back up, and people flocked, stumbling through the snow from their houses to see what the commotion was about. I ran back to the guest house to inform them, Mamuka our guest house host was greatly moved, and he decided to come down and see for himself. From my limited understanding of Georgian, I think he advocated to the town leaders to help with the Snow Vigil truck, and one of the excavator drivers working on the local hydro project was called up and arrived in the morning to extract the truck while half the town looked on as the only road in or out of Ghebi was unblocked. Some new railings were subsequently welded onto the rusty old bridge, but I can't help but wonder how helpful they will be!
 
 And so ended the first Snow Vigil trip for the 2021/22 season, the clients drove back to Tbilisi. While it did end on a slightly shocking note, all-in-all it was a very enjoyable for everyone I think, the clients were all fantastic, up-beat and excited to explore, it felt like a trip with good friends, and it was! If any of you are reading this, I look forward to meeting you all again one day out there!
+
+A special shout out to Tamta who made the trip extra special with her translation abilities, local knowledge, and generally fun character facilitating an amazing experince for all of us in many situations and salvaging a number of awkward situations for the team!
 
 {{ img(path="photos/freeride-in-racha/20220204_143618.jpg", caption="Group 1 on the summit of Dombitsveri") }}
 
