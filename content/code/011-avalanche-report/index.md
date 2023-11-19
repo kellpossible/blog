@@ -10,7 +10,7 @@ authors = ["Luke Frisken"]
 banner_image = "code/011-avalanche-report/forecast-entry-1-en.png"
 +++
 
-A new project was started in January 2021 in collaboration with members of the [Georgia Avalanche and Snow Conditions🇬🇪ზვავის და თოვლის შესახებ](https://www.facebook.com/groups/830534093958221) community develop an avalanche forecasting system for Georgia. Specifically, I began to collaborate with [Peter Schön](https://ps-avalanche-consulting.com/About-1), and Manu Greer, both avalanche professionals, we needed a platform to allow our small team of volunteers to produce and publish avalanche forecasts.
+A new project was started in January 2022 in collaboration with members of the [Georgia Avalanche and Snow Conditions🇬🇪ზვავის და თოვლის შესახებ](https://www.facebook.com/groups/830534093958221) community develop an avalanche forecasting system for Georgia. Specifically, I began to collaborate with [Peter Schön](https://ps-avalanche-consulting.com/About-1), and Manu Greer, both avalanche professionals, we needed a platform to allow our small team of volunteers to produce and publish avalanche forecasts.
 
 {{ img(path="code/011-avalanche-report/facebook-page.png" caption="Georgia Avalanche and Snow Conditions Facebook Page", shadow=true) }}
 
